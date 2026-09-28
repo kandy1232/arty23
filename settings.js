@@ -1,0 +1,1 @@
+window.SETTINGS={wa:"94XXXXXXXXX",phone:"+94 XX XXX XXXX",email:"info@artyhomes.lk"};

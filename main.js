@@ -1,0 +1,2 @@
+(function(){var b=document.getElementById('mb'),n=document.getElementById('nv');if(b)b.onclick=function(){n.classList.toggle('open')};
+var w=(window.SETTINGS||{}).wa;document.querySelectorAll('[data-wa]').forEach(function(a){a.href='https://wa.me/'+w+'?text='+encodeURIComponent('Hello ARTYHOMES, I would like a wallpaper quote.');a.target='_blank';a.rel='noopener'})})();
