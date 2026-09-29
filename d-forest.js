@@ -21,26 +21,6 @@ window.DESIGNS["forest"]=[
     "added": "2026-01-01"
   },
   {
-    "id": "forest-002",
-    "title": "Forest & Woodland Design 2",
-    "rooms": [
-      "office",
-      "living-room"
-    ],
-    "material": [
-      "textured",
-      "washable"
-    ],
-    "format": "panel",
-    "sizes": "Custom size",
-    "price": "",
-    "desc": "Forest & Woodland wallpaper design. Replace with your own description.",
-    "thumb": "forest-forest-woodland-design-2-1790660305194.jpg",
-    "full": "forest-forest-woodland-design-2-1790660305194.jpg",
-    "status": "active",
-    "added": "2026-01-01"
-  },
-  {
     "id": "forest-003",
     "title": "Forest & Woodland Design 3",
     "rooms": [
