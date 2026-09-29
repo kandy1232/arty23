@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>ARTYHOMES Admin</title>
+<link rel="icon" href="logo.jpg">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap');
+:root{--n:#101b3d;--n2:#1b2a6b;--r:#c8102e;--gold:#b8925a;--bg:#f3f1ec;--t:#22252b;--line:#ddd6c6}
+*{box-sizing:border-box}
+body{margin:0;font-family:'Inter',system-ui,Arial,sans-serif;background:var(--bg);color:var(--t)}
+h1,h2,h3{font-family:'Playfair Display',Georgia,serif;color:var(--n);margin:0 0 12px}
+header{background:var(--n);color:#fff;padding:16px 5%;display:flex;align-items:center;justify-content:space-between}
+header .lg{display:flex;align-items:center;gap:10px}
+header img{height:38px}
+header b{font-family:'Playfair Display',serif;font-size:18px}
+main{max-width:1100px;margin:24px auto;padding:0 5% 60px}
+.card{background:#fff;border:1px solid var(--line);border-radius:6px;padding:22px;margin-bottom:20px}
+label{display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--n2);margin:10px 0 4px}
+input,select,textarea{width:100%;padding:10px 12px;border:1px solid #ccc4b0;border-radius:4px;font:inherit;background:#fffdf9}
+textarea{min-height:70px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.row3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px}
+button{cursor:pointer;font-family:inherit}
+.btn{background:var(--r);color:#fff;border:0;padding:11px 20px;border-radius:4px;font-weight:700;font-size:14px}
+.btn.o{background:#fff;color:var(--n2);border:1px solid var(--n2)}
+.btn.sm{padding:6px 12px;font-size:12.5px}
+.btn.danger{background:#fff;color:var(--r);border:1px solid var(--r)}
+.tabs{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+.tabs button{background:#fff;border:1px solid var(--line);padding:9px 16px;border-radius:20px;font-weight:600;font-size:13.5px;color:var(--n)}
+.tabs button.on{background:var(--n2);color:#fff;border-color:var(--n2)}
+table{width:100%;border-collapse:collapse;margin-top:10px}
+th,td{border-bottom:1px solid var(--line);padding:9px 8px;text-align:left;font-size:13.5px;vertical-align:top}
+th{color:var(--n2);text-transform:uppercase;font-size:11px;letter-spacing:.04em}
+.thumb{width:56px;height:42px;object-fit:cover;border-radius:3px;background:#eee}
+.msg{padding:10px 14px;border-radius:4px;font-size:13.5px;margin:10px 0}
+.msg.ok{background:#e7f6ea;color:#256a35;border:1px solid #bfe4c7}
+.msg.err{background:#fbe8e8;color:#a3222e;border:1px solid #f0c1c3}
+.hide{display:none!important}
+.help{background:#fbf7ee;border:1px solid var(--gold);border-radius:4px;padding:14px 16px;font-size:13px;margin-bottom:16px;color:#5c4a26}
+.help a{color:#8a6a2f}
+.pill{display:inline-block;background:#f4f0e6;border:1px solid var(--line);border-radius:12px;padding:3px 10px;font-size:11.5px;margin:1px}
+.spinner{display:inline-block;width:14px;height:14px;border:2px solid #fff6;border-top-color:#fff;border-radius:50%;animation:sp .7s linear infinite;vertical-align:-2px}
+@keyframes sp{to{transform:rotate(360deg)}}
+.toolbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:8px}
+.dz{border:2px dashed var(--line);border-radius:6px;padding:26px;text-align:center;color:#888;font-size:14px;cursor:pointer;background:#fffdf9}
+.dz.over{border-color:var(--gold);background:#fbf7ee}
+small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
+</style>
+</head>
+<body>
+<header>
+  <div class="lg"><img src="logo.jpg" alt="ARTYHOMES"><b>ARTYHOMES Admin</b></div>
+  <div id="whoami" style="font-size:13px"></div>
+</header>
+<main>
+
+<div id="loginView">
+  <div class="card">
+    <h1>Sign in to manage your site</h1>
+    <div class="help">
+      <b>How to get a token (one-time setup):</b>
+      1) Go to GitHub &rarr; Settings &rarr; Developer settings &rarr; <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained tokens</a> &rarr; Generate new token.
+      2) Under <b>Repository access</b>, choose "Only select repositories" and pick your ARTYHOMES repo.
+      3) Under <b>Permissions &rarr; Repository permissions</b>, set <b>Contents</b> to "Read and write".
+      4) Generate, copy the token, and paste it below. It is only stored in this browser tab (sessionStorage) and is never uploaded anywhere except directly to GitHub's own API.
+      <br><br><b>Never share this token or paste it anywhere else.</b> You can revoke it any time from GitHub.
+    </div>
+    <label>GitHub Username / Organization</label>
+    <input id="ghUser" placeholder="e.g. kandy1232">
+    <label>Repository Name</label>
+    <input id="ghRepo" placeholder="e.g. arty23">
+    <label>Branch</label>
+    <input id="ghBranch" value="main">
+    <label>Personal Access Token</label>
+    <input id="ghToken" type="password" placeholder="github_pat_...">
+    <p style="margin-top:16px"><button class="btn" id="btnLogin">Connect to GitHub</button></p>
+    <div id="loginMsg"></div>
+  </div>
+</div>
+
+<div id="appView" class="hide">
+  <div class="tabs">
+    <button data-t="designs" class="on">Designs</button>
+    <button data-t="settings">Contact &amp; Settings</button>
+    <button data-t="faq">Q&amp;A / FAQ</button>
+  </div>
+
+  <div id="tab-designs">
+    <div class="card">
+      <h2>Manage Designs</h2>
+      <div class="toolbar">
+        <div>
+          <label style="margin:0">Category</label>
+          <select id="catSel"></select>
+        </div>
+        <button class="btn o" id="btnNewDesign">+ Add New Design</button>
+      </div>
+      <div id="designMsg"></div>
+      <table id="designTable">
+        <thead><tr><th>Img</th><th>Title</th><th>Price</th><th>Rooms</th><th>Status</th><th></th></tr></thead>
+        <tbody id="designRows"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="tab-settings" class="hide">
+    <div class="card">
+      <h2>Contact &amp; Business Settings</h2>
+      <p style="font-size:13.5px;color:#666">These values are used across every page (WhatsApp button, footer, contact page).</p>
+      <div class="row">
+        <div><label>WhatsApp Number (no + or spaces, e.g. 94771234567)</label><input id="setWa"></div>
+        <div><label>Display Phone Number</label><input id="setPhone"></div>
+      </div>
+      <div class="row">
+        <div><label>Email</label><input id="setEmail"></div>
+        <div><label>Address</label><input id="setAddress"></div>
+      </div>
+      <p style="margin-top:16px"><button class="btn" id="btnSaveSettings">Save Settings</button></p>
+      <div id="settingsMsg"></div>
+    </div>
+  </div>
+
+  <div id="tab-faq" class="hide">
+    <div class="card">
+      <h2>Q&amp;A / FAQ Manager</h2>
+      <p style="font-size:13.5px;color:#666">Edit the homepage FAQ shown in <code>index.html</code>.</p>
+      <div id="faqMsg"></div>
+      <div id="faqList"></div>
+      <button class="btn o" id="btnAddFaq" style="margin-top:10px">+ Add Question</button>
+      <p style="margin-top:16px"><button class="btn" id="btnSaveFaq">Save FAQ Changes</button></p>
+      <small class="hint">Saved to faq-data.json on GitHub — ask your developer to connect index.html to this file if you want it fully automatic.</small>
+    </div>
+  </div>
+
+  <div id="modal" class="hide" style="position:fixed;inset:0;background:#000a;display:flex;align-items:center;justify-content:center;padding:16px;z-index:100">
+    <div class="card" style="max-width:640px;width:100%;max-height:92vh;overflow:auto">
+      <h2 id="modalTitle">Edit Design</h2>
+      <label>Image</label>
+      <div id="dz" class="dz">Drag &amp; drop an image here, or click to choose<br><small class="hint">JPG/PNG/WebP. Will be uploaded to GitHub automatically.</small></div>
+      <input type="file" id="fileInput" accept="image/*" class="hide">
+      <img id="imgPreview" style="max-width:100%;max-height:160px;margin-top:8px;border-radius:4px;display:none">
+      <label>Title</label>
+      <input id="fTitle">
+      <label>Description</label>
+      <textarea id="fDesc"></textarea>
+      <div class="row3">
+        <div><label>Price (leave blank for "Request a Quote")</label><input id="fPrice" placeholder="e.g. LKR 450 per sq ft"></div>
+        <div><label>Sizes</label><input id="fSizes" placeholder="Custom size"></div>
+        <div><label>Format</label>
+          <select id="fFormat"><option value="mural">Mural</option><option value="repeat">Repeat pattern</option><option value="panel">Panel</option><option value="peel-stick">Peel &amp; stick</option></select>
+        </div>
+      </div>
+      <label>Rooms (comma separated, e.g. living-room,bedroom)</label>
+      <input id="fRooms">
+      <label>Material (comma separated, e.g. vinyl,non-woven)</label>
+      <input id="fMaterial">
+      <label>Status</label>
+      <select id="fStatus"><option value="active">Active (visible)</option><option value="hidden">Hidden</option></select>
+      <p style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
+        <button class="btn" id="btnSaveDesign">Save Design</button>
+        <button class="btn danger hide" id="btnDeleteDesign">Delete Design</button>
+        <button class="btn o" id="btnCancelDesign">Cancel</button>
+      </p>
+      <div id="modalMsg"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+var AUTH=null;
+var CATS=[["forest","Forest & Woodland"],["urban","Urban & Cityscapes"],["tropical","Tropical & Palm Leaves"],["beach","Beach & Coastal"],["landscape","Mountains & Landscapes"],["floral","Botanical & Floral"],["abstract","Abstract & Geometric"],["animals","Animals & Wildlife"],["sports","Sports & Stadiums"],["cafe","Café, Food & Beverage"],["heritage","Sri Lankan Heritage"],["kids","Kids & Nursery"],["brick","Brick, Stone & Texture"],["peel","Peel & Stick"],["living","Living Room"]];
+var API="https://api.github.com";
+var curDesigns=[], curSha=null, curFile=null, curCat=null, editIndex=-1, pendingFile=null;
+
+function el(id){return document.getElementById(id)}
+function msg(id,text,ok){el(id).innerHTML='<div class="msg '+(ok?'ok':'err')+'">'+text+'</div>'; setTimeout(function(){el(id).innerHTML=''},6000)}
+function b64EncodeUnicode(str){return btoa(unescape(encodeURIComponent(str)))}
+function b64DecodeUnicode(str){return decodeURIComponent(escape(atob(str)))}
+
+async function ghGet(path){
+  var r=await fetch(API+'/repos/'+AUTH.user+'/'+AUTH.repo+'/contents/'+path+'?ref='+AUTH.branch,{headers:{Authorization:'Bearer '+AUTH.token,Accept:'application/vnd.github+json'}});
+  if(!r.ok) throw new Error('GET '+path+' failed: '+r.status);
+  return r.json();
+}
+async function ghPut(path, contentStr, sha, message){
+  var body={message:message||('Update '+path),content:b64EncodeUnicode(contentStr),branch:AUTH.branch};
+  if(sha) body.sha=sha;
+  var r=await fetch(API+'/repos/'+AUTH.user+'/'+AUTH.repo+'/contents/'+path,{method:'PUT',headers:{Authorization:'Bearer '+AUTH.token,Accept:'application/vnd.github+json','Content-Type':'application/json'},body:JSON.stringify(body)});
+  if(!r.ok){var t=await r.text();throw new Error('PUT '+path+' failed: '+r.status+' '+t)}
+  return r.json();
+}
+async function ghPutBinary(path, base64Content, message){
+  var body={message:message||('Add '+path),content:base64Content,branch:AUTH.branch};
+  var r=await fetch(API+'/repos/'+AUTH.user+'/'+AUTH.repo+'/contents/'+path,{method:'PUT',headers:{Authorization:'Bearer '+AUTH.token,Accept:'application/vnd.github+json','Content-Type':'application/json'},body:JSON.stringify(body)});
+  if(!r.ok){var t=await r.text();throw new Error('PUT '+path+' failed: '+r.status+' '+t)}
+  return r.json();
+}
+
+function parseDesignsFile(text, cat){
+  var sandbox={DESIGNS:{}};
+  try{
+    var fn=new Function('window', text + '\nreturn window.DESIGNS;');
+    var result=fn(sandbox);
+    return result[cat] || [];
+  }catch(e){ console.error(e); return []; }
+}
+function serializeDesignsFile(cat, arr){
+  return "window.DESIGNS=window.DESIGNS||{};\nwindow.DESIGNS[\""+cat+"\"]="+JSON.stringify(arr,null,2)+";\n";
+}
+
+el('btnLogin').onclick=async function(){
+  var user=el('ghUser').value.trim(), repo=el('ghRepo').value.trim(), branch=el('ghBranch').value.trim()||'main', token=el('ghToken').value.trim();
+  if(!user||!repo||!token){msg('loginMsg','Please fill in username, repository and token.',false);return}
+  AUTH={user:user,repo:repo,branch:branch,token:token};
+  try{
+    await ghGet('index.html');
+    sessionStorage.setItem('artyhomes_auth', JSON.stringify(AUTH));
+    el('whoami').textContent=user+'/'+repo+' ('+branch+')';
+    el('loginView').classList.add('hide');
+    el('appView').classList.remove('hide');
+    buildCatSelect();
+    loadDesigns();
+  }catch(e){
+    msg('loginMsg','Could not connect: '+e.message+'. Check the username, repo name and token permissions.',false);
+  }
+};
+(function tryRestore(){
+  try{
+    var saved=sessionStorage.getItem('artyhomes_auth');
+    if(saved){AUTH=JSON.parse(saved);
+      el('ghUser').value=AUTH.user; el('ghRepo').value=AUTH.repo; el('ghBranch').value=AUTH.branch; el('ghToken').value=AUTH.token;
+    }
+  }catch(e){}
+})();
+
+document.querySelectorAll('.tabs button').forEach(function(b){
+  b.onclick=function(){
+    document.querySelectorAll('.tabs button').forEach(function(x){x.classList.remove('on')});
+    b.classList.add('on');
+    ['designs','settings','faq'].forEach(function(t){el('tab-'+t).classList.toggle('hide', t!==b.dataset.t)});
+    if(b.dataset.t==='settings') loadSettings();
+    if(b.dataset.t==='faq') loadFaq();
+  };
+});
+
+function buildCatSelect(){
+  el('catSel').innerHTML=CATS.map(function(c){return '<option value="'+c[0]+'">'+c[1]+'</option>'}).join('');
+  el('catSel').onchange=loadDesigns;
+}
+
+async function loadDesigns(){
+  curCat=el('catSel').value;
+  curFile='d-'+curCat+'.js';
+  el('designRows').innerHTML='<tr><td colspan="6">Loading...</td></tr>';
+  try{
+    var f=await ghGet(curFile);
+    curSha=f.sha;
+    var text=b64DecodeUnicode(f.content.replace(/\n/g,''));
+    curDesigns=parseDesignsFile(text, curCat);
+    renderDesigns();
+  }catch(e){
+    el('designRows').innerHTML='<tr><td colspan="6">Could not load '+curFile+': '+e.message+'</td></tr>';
+  }
+}
+function renderDesigns(){
+  el('designRows').innerHTML = curDesigns.map(function(d,i){
+    return '<tr><td><img class="thumb" src="'+(d.thumb||'')+'" onerror="this.style.opacity=0.2"></td>'+
+      '<td>'+escH(d.title)+'</td>'+
+      '<td>'+(d.price?escH(d.price):'<span class="pill">Request a Quote</span>')+'</td>'+
+      '<td>'+(d.rooms||[]).map(function(r){return '<span class="pill">'+escH(r)+'</span>'}).join(' ')+'</td>'+
+      '<td>'+(d.status==='hidden'?'<span class="pill">Hidden</span>':'Active')+'</td>'+
+      '<td><button class="btn sm o" onclick="openEdit('+i+')">Edit</button></td></tr>';
+  }).join('') || '<tr><td colspan="6">No designs yet in this category.</td></tr>';
+}
+function escH(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+
+window.openEdit=function(i){
+  editIndex=i; pendingFile=null;
+  var d=curDesigns[i];
+  el('modalTitle').textContent='Edit Design';
+  el('fTitle').value=d.title||'';
+  el('fDesc').value=d.desc||'';
+  el('fPrice').value=d.price||'';
+  el('fSizes').value=d.sizes||'Custom size';
+  el('fFormat').value=d.format||'mural';
+  el('fRooms').value=(d.rooms||[]).join(',');
+  el('fMaterial').value=(d.material||[]).join(',');
+  el('fStatus').value=d.status||'active';
+  el('imgPreview').src=d.thumb||''; el('imgPreview').style.display=d.thumb?'block':'none';
+  el('btnDeleteDesign').classList.remove('hide');
+  el('modal').classList.remove('hide');
+};
+el('btnNewDesign').onclick=function(){
+  editIndex=-1; pendingFile=null;
+  el('modalTitle').textContent='Add New Design';
+  ['fTitle','fDesc','fPrice','fRooms','fMaterial'].forEach(function(id){el(id).value=''});
+  el('fSizes').value='Custom size'; el('fFormat').value='mural'; el('fStatus').value='active';
+  el('imgPreview').style.display='none';
+  el('btnDeleteDesign').classList.add('hide');
+  el('modal').classList.remove('hide');
+};
+el('btnCancelDesign').onclick=function(){el('modal').classList.add('hide')};
+
+el('dz').onclick=function(){el('fileInput').click()};
+el('dz').ondragover=function(e){e.preventDefault();el('dz').classList.add('over')};
+el('dz').ondragleave=function(){el('dz').classList.remove('over')};
+el('dz').ondrop=function(e){e.preventDefault();el('dz').classList.remove('over');if(e.dataTransfer.files[0])handleFile(e.dataTransfer.files[0])};
+el('fileInput').onchange=function(e){if(e.target.files[0])handleFile(e.target.files[0])};
+function handleFile(file){
+  pendingFile=file;
+  var reader=new FileReader();
+  reader.onload=function(e){el('imgPreview').src=e.target.result; el('imgPreview').style.display='block'};
+  reader.readAsDataURL(file);
+}
+
+el('btnSaveDesign').onclick=async function(){
+  try{
+    el('btnSaveDesign').disabled=true; el('btnSaveDesign').innerHTML='<span class="spinner"></span> Saving...';
+    var imgPath=null;
+    if(pendingFile){
+      var base64=await fileToBase64(pendingFile);
+      var ext=(pendingFile.name.split('.').pop()||'jpg').toLowerCase();
+      var safeName=(el('fTitle').value||'design').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||('design-'+Date.now());
+      imgPath=curCat+'-'+safeName+'-'+Date.now()+'.'+ext;
+      await ghPutBinary(imgPath, base64, 'Upload image for '+el('fTitle').value);
+    }
+    var d = editIndex>=0 ? curDesigns[editIndex] : {id: curCat+'-'+Date.now(), added:new Date().toISOString().slice(0,10)};
+    d.title=el('fTitle').value;
+    d.desc=el('fDesc').value;
+    d.price=el('fPrice').value;
+    d.sizes=el('fSizes').value;
+    d.format=el('fFormat').value;
+    d.rooms=el('fRooms').value.split(',').map(function(s){return s.trim()}).filter(Boolean);
+    d.material=el('fMaterial').value.split(',').map(function(s){return s.trim()}).filter(Boolean);
+    d.status=el('fStatus').value;
+    if(imgPath){d.thumb=imgPath; d.full=imgPath}
+    if(editIndex>=0){curDesigns[editIndex]=d} else {curDesigns.push(d)}
+    var newText=serializeDesignsFile(curCat, curDesigns);
+    var result=await ghPut(curFile, newText, curSha, 'Update design: '+d.title);
+    curSha=result.content.sha;
+    renderDesigns();
+    el('modal').classList.add('hide');
+    msg('designMsg','Saved! Changes go live in 1-2 minutes.',true);
+  }catch(e){
+    msg('modalMsg','Error saving: '+e.message,false);
+  }finally{
+    el('btnSaveDesign').disabled=false; el('btnSaveDesign').textContent='Save Design';
+  }
+};
+el('btnDeleteDesign').onclick=async function(){
+  if(!confirm('Delete this design? This cannot be undone.'))return;
+  try{
+    curDesigns.splice(editIndex,1);
+    var newText=serializeDesignsFile(curCat, curDesigns);
+    var result=await ghPut(curFile, newText, curSha, 'Delete design');
+    curSha=result.content.sha;
+    renderDesigns();
+    el('modal').classList.add('hide');
+    msg('designMsg','Deleted. Changes go live in 1-2 minutes.',true);
+  }catch(e){ msg('modalMsg','Error deleting: '+e.message,false) }
+};
+function fileToBase64(file){
+  return new Promise(function(resolve,reject){
+    var reader=new FileReader();
+    reader.onload=function(){resolve(reader.result.split(',')[1])};
+    reader.onerror=reject;
+    reader.readAsDataURL(file);
+  });
+}
+
+var settingsSha=null;
+async function loadSettings(){
+  try{
+    var f=await ghGet('settings.js');
+    settingsSha=f.sha;
+    var text=b64DecodeUnicode(f.content.replace(/\n/g,''));
+    var m=text.match(/wa:"([^"]*)"/), p=text.match(/phone:"([^"]*)"/), e2=text.match(/email:"([^"]*)"/), a=text.match(/address:"([^"]*)"/);
+    el('setWa').value=m?m[1]:''; el('setPhone').value=p?p[1]:''; el('setEmail').value=e2?e2[1]:''; el('setAddress').value=a?a[1]:'';
+  }catch(e){ msg('settingsMsg','Could not load settings.js: '+e.message,false) }
+}
+el('btnSaveSettings').onclick=async function(){
+  try{
+    var content='window.SETTINGS={wa:"'+el('setWa').value.trim()+'",phone:"'+el('setPhone').value.trim()+'",email:"'+el('setEmail').value.trim()+'",address:"'+el('setAddress').value.trim()+'"};';
+    var result=await ghPut('settings.js', content, settingsSha, 'Update contact settings');
+    settingsSha=result.content.sha;
+    msg('settingsMsg','Saved! Changes go live in 1-2 minutes.',true);
+  }catch(e){ msg('settingsMsg','Error: '+e.message,false) }
+};
+
+var faqSha=null, faqArr=[];
+async function loadFaq(){
+  try{
+    var f=await ghGet('faq-data.json');
+    faqSha=f.sha;
+    faqArr=JSON.parse(b64DecodeUnicode(f.content.replace(/\n/g,'')));
+  }catch(e){ faqSha=null; faqArr=[
+    {q:'What is the wallpaper price in Sri Lanka?',a:'Price depends on the material, design and wall size. Send your measurements to ARTYHOMES for a free quote.'},
+    {q:'Can I get custom wallpaper printed in Colombo?',a:'Yes. ARTYHOMES prints custom wall murals and bespoke wallpaper in Colombo.'}
+  ]; }
+  renderFaq();
+}
+function renderFaq(){
+  el('faqList').innerHTML = faqArr.map(function(f,i){
+    return '<div class="card" style="margin-bottom:10px"><label>Question</label><input value="'+escH(f.q)+'" onchange="faqArr['+i+'].q=this.value">'+
+      '<label>Answer</label><textarea onchange="faqArr['+i+'].a=this.value">'+escH(f.a)+'</textarea>'+
+      '<p><button class="btn danger sm" onclick="faqArr.splice('+i+',1);renderFaq()">Remove</button></p></div>';
+  }).join('');
+}
+el('btnAddFaq').onclick=function(){ faqArr.push({q:'',a:''}); renderFaq() };
+el('btnSaveFaq').onclick=async function(){
+  try{
+    var content=JSON.stringify(faqArr,null,2);
+    var result=await ghPut('faq-data.json', content, faqSha, 'Update FAQ');
+    faqSha=result.content.sha;
+    msg('faqMsg','Saved to faq-data.json! (Ask your developer to connect index.html to this file if not already wired up.)',true);
+  }catch(e){ msg('faqMsg','Error: '+e.message,false) }
+};
+</script>
+</body>
+</html>
