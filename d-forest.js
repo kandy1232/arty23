@@ -53,7 +53,7 @@ window.DESIGNS["forest"]=[
     ],
     "format": "mural",
     "sizes": "Custom size",
-    "price": "",
+    "price": "375",
     "desc": "Forest & Woodland wallpaper design. Replace with your own description.",
     "thumb": "forest-forest-woodland-design-3-1790660360663.jpg",
     "full": "forest-forest-woodland-design-3-1790660360663.jpg",
