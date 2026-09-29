@@ -84,6 +84,8 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
 <div id="appView" class="hide">
   <div class="tabs">
     <button data-t="designs" class="on">Designs</button>
+    <button data-t="projects">Our Work / Projects</button>
+    <button data-t="covers">Category Covers</button>
     <button data-t="settings">Contact &amp; Settings</button>
     <button data-t="faq">Q&amp;A / FAQ</button>
   </div>
@@ -106,6 +108,26 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
     </div>
   </div>
 
+  <div id="tab-projects" class="hide">
+    <div class="card">
+      <h2>Our Work / Completed Projects</h2>
+      <p style="font-size:13.5px;color:#666">These appear on the public "Our Work" page. Add real photos of installations you've completed.</p>
+      <div class="toolbar"><span></span><button class="btn o" id="btnNewProject">+ Add Completed Project</button></div>
+      <div id="projectMsg"></div>
+      <table><thead><tr><th>Img</th><th>Title</th><th>Location/Type</th><th>Status</th><th></th></tr></thead><tbody id="projectRows"></tbody></table>
+    </div>
+  </div>
+
+  <div id="tab-covers" class="hide">
+    <div class="card">
+      <h2>Category Cover Images</h2>
+      <p style="font-size:13.5px;color:#666">Set the image shown on the homepage "Shop by Theme" tile for each category. Uploading here does not change the designs inside that category, only its cover picture.</p>
+      <div id="coversMsg"></div>
+      <div id="coversList"></div>
+      <p style="margin-top:16px"><button class="btn" id="btnSaveCovers">Save Cover Changes</button></p>
+    </div>
+  </div>
+
   <div id="tab-settings" class="hide">
     <div class="card">
       <h2>Contact &amp; Business Settings</h2>
@@ -117,6 +139,12 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
       <div class="row">
         <div><label>Email</label><input id="setEmail"></div>
         <div><label>Address</label><input id="setAddress"></div>
+      </div>
+      <h3 style="margin-top:20px">Social Media Links</h3>
+      <div class="row3">
+        <div><label>Facebook URL</label><input id="setFb" placeholder="https://facebook.com/yourpage"></div>
+        <div><label>Instagram URL</label><input id="setIg" placeholder="https://instagram.com/yourpage"></div>
+        <div><label>TikTok URL</label><input id="setTt" placeholder="https://tiktok.com/@yourpage"></div>
       </div>
       <p style="margin-top:16px"><button class="btn" id="btnSaveSettings">Save Settings</button></p>
       <div id="settingsMsg"></div>
@@ -165,6 +193,32 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
         <button class="btn o" id="btnCancelDesign">Cancel</button>
       </p>
       <div id="modalMsg"></div>
+    </div>
+  </div>
+
+  <div id="pmodal" class="hide" style="position:fixed;inset:0;background:#000a;display:flex;align-items:center;justify-content:center;padding:16px;z-index:100">
+    <div class="card" style="max-width:600px;width:100%;max-height:92vh;overflow:auto">
+      <h2 id="pmodalTitle">Add Completed Project</h2>
+      <label>Photo</label>
+      <div id="pdz" class="dz">Drag &amp; drop a project photo here, or click to choose</div>
+      <input type="file" id="pFileInput" accept="image/*" class="hide">
+      <img id="pImgPreview" style="max-width:100%;max-height:160px;margin-top:8px;border-radius:4px;display:none">
+      <label>Project Title</label>
+      <input id="pTitle" placeholder="e.g. Colombo Cafe Feature Wall">
+      <label>Location / Type</label>
+      <input id="pLocation" placeholder="e.g. Colombo, Cafe">
+      <label>Category</label>
+      <input id="pCategory" placeholder="e.g. Cafe, Food & Beverage">
+      <label>Description</label>
+      <textarea id="pDesc"></textarea>
+      <label>Status</label>
+      <select id="pStatus"><option value="active">Active (visible)</option><option value="hidden">Hidden</option></select>
+      <p style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
+        <button class="btn" id="btnSaveProject">Save Project</button>
+        <button class="btn danger hide" id="btnDeleteProject">Delete Project</button>
+        <button class="btn o" id="btnCancelProject">Cancel</button>
+      </p>
+      <div id="pmodalMsg"></div>
     </div>
   </div>
 </div>
@@ -240,9 +294,11 @@ document.querySelectorAll('.tabs button').forEach(function(b){
   b.onclick=function(){
     document.querySelectorAll('.tabs button').forEach(function(x){x.classList.remove('on')});
     b.classList.add('on');
-    ['designs','settings','faq'].forEach(function(t){el('tab-'+t).classList.toggle('hide', t!==b.dataset.t)});
+    ['designs','projects','covers','settings','faq'].forEach(function(t){el('tab-'+t).classList.toggle('hide', t!==b.dataset.t)});
     if(b.dataset.t==='settings') loadSettings();
     if(b.dataset.t==='faq') loadFaq();
+    if(b.dataset.t==='projects') loadProjects();
+    if(b.dataset.t==='covers') loadCovers();
   };
 });
 
@@ -377,17 +433,137 @@ async function loadSettings(){
     var f=await ghGet('settings.js');
     settingsSha=f.sha;
     var text=b64DecodeUnicode(f.content.replace(/\n/g,''));
-    var m=text.match(/wa:"([^"]*)"/), p=text.match(/phone:"([^"]*)"/), e2=text.match(/email:"([^"]*)"/), a=text.match(/address:"([^"]*)"/);
+    var m=text.match(/wa:"([^"]*)"/), p=text.match(/phone:"([^"]*)"/), e2=text.match(/email:"([^"]*)"/), a=text.match(/address:"([^"]*)"/), fb=text.match(/facebook:"([^"]*)"/), ig=text.match(/instagram:"([^"]*)"/), tt=text.match(/tiktok:"([^"]*)"/);
     el('setWa').value=m?m[1]:''; el('setPhone').value=p?p[1]:''; el('setEmail').value=e2?e2[1]:''; el('setAddress').value=a?a[1]:'';
+    el('setFb').value=fb?fb[1]:''; el('setIg').value=ig?ig[1]:''; el('setTt').value=tt?tt[1]:'';
   }catch(e){ msg('settingsMsg','Could not load settings.js: '+e.message,false) }
 }
 el('btnSaveSettings').onclick=async function(){
   try{
-    var content='window.SETTINGS={wa:"'+el('setWa').value.trim()+'",phone:"'+el('setPhone').value.trim()+'",email:"'+el('setEmail').value.trim()+'",address:"'+el('setAddress').value.trim()+'"};';
+    var content='window.SETTINGS={wa:"'+el('setWa').value.trim()+'",phone:"'+el('setPhone').value.trim()+'",email:"'+el('setEmail').value.trim()+'",address:"'+el('setAddress').value.trim()+'",facebook:"'+el('setFb').value.trim()+'",instagram:"'+el('setIg').value.trim()+'",tiktok:"'+el('setTt').value.trim()+'"};';
     var result=await ghPut('settings.js', content, settingsSha, 'Update contact settings');
     settingsSha=result.content.sha;
     msg('settingsMsg','Saved! Changes go live in 1-2 minutes.',true);
   }catch(e){ msg('settingsMsg','Error: '+e.message,false) }
+};
+
+// ---- Projects (Our Work) ----
+var projSha=null, projArr=[], pEditIndex=-1, pPendingFile=null;
+async function loadProjects(){
+  el('projectRows').innerHTML='<tr><td colspan="5">Loading...</td></tr>';
+  try{
+    var f=await ghGet('d-projects.js');
+    projSha=f.sha;
+    var text=b64DecodeUnicode(f.content.replace(/\n/g,''));
+    var fn=new Function(text+'\nreturn window.PROJECTS;');
+    projArr=fn()||[];
+    renderProjects();
+  }catch(e){ el('projectRows').innerHTML='<tr><td colspan="5">Could not load d-projects.js: '+e.message+'</td></tr>' }
+}
+function renderProjects(){
+  el('projectRows').innerHTML = projArr.map(function(p,i){
+    return '<tr><td><img class="thumb" src="'+(p.image||'')+'" onerror="this.style.opacity=0.2"></td><td>'+escH(p.title)+'</td><td>'+escH(p.location)+'</td><td>'+(p.status==='hidden'?'<span class="pill">Hidden</span>':'Active')+'</td><td><button class="btn sm o" onclick="openEditProject('+i+')">Edit</button></td></tr>';
+  }).join('') || '<tr><td colspan="5">No projects yet.</td></tr>';
+}
+function serializeProjects(arr){ return "window.PROJECTS="+JSON.stringify(arr,null,2)+";\n" }
+window.openEditProject=function(i){
+  pEditIndex=i; pPendingFile=null;
+  var p=projArr[i];
+  el('pmodalTitle').textContent='Edit Project';
+  el('pTitle').value=p.title||''; el('pLocation').value=p.location||''; el('pCategory').value=p.category||''; el('pDesc').value=p.desc||''; el('pStatus').value=p.status||'active';
+  el('pImgPreview').src=p.image||''; el('pImgPreview').style.display=p.image?'block':'none';
+  el('btnDeleteProject').classList.remove('hide');
+  el('pmodal').classList.remove('hide');
+};
+el('btnNewProject').onclick=function(){
+  pEditIndex=-1; pPendingFile=null;
+  el('pmodalTitle').textContent='Add Completed Project';
+  ['pTitle','pLocation','pCategory','pDesc'].forEach(function(id){el(id).value=''});
+  el('pStatus').value='active'; el('pImgPreview').style.display='none';
+  el('btnDeleteProject').classList.add('hide');
+  el('pmodal').classList.remove('hide');
+};
+el('btnCancelProject').onclick=function(){el('pmodal').classList.add('hide')};
+el('pdz').onclick=function(){el('pFileInput').click()};
+el('pdz').ondragover=function(e){e.preventDefault();el('pdz').classList.add('over')};
+el('pdz').ondragleave=function(){el('pdz').classList.remove('over')};
+el('pdz').ondrop=function(e){e.preventDefault();el('pdz').classList.remove('over');if(e.dataTransfer.files[0])handlePFile(e.dataTransfer.files[0])};
+el('pFileInput').onchange=function(e){if(e.target.files[0])handlePFile(e.target.files[0])};
+function handlePFile(file){ pPendingFile=file; var r=new FileReader(); r.onload=function(e){el('pImgPreview').src=e.target.result;el('pImgPreview').style.display='block'}; r.readAsDataURL(file); }
+el('btnSaveProject').onclick=async function(){
+  try{
+    el('btnSaveProject').disabled=true;
+    var imgPath=null;
+    if(pPendingFile){
+      var base64=await fileToBase64(pPendingFile);
+      var ext=(pPendingFile.name.split('.').pop()||'jpg').toLowerCase();
+      var safe=(el('pTitle').value||'project').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||('project-'+Date.now());
+      imgPath='project-'+safe+'-'+Date.now()+'.'+ext;
+      await ghPutBinary(imgPath, base64, 'Upload project photo: '+el('pTitle').value);
+    }
+    var p = pEditIndex>=0 ? projArr[pEditIndex] : {id:'project-'+Date.now(), added:new Date().toISOString().slice(0,10)};
+    p.title=el('pTitle').value; p.location=el('pLocation').value; p.category=el('pCategory').value; p.desc=el('pDesc').value; p.status=el('pStatus').value;
+    if(imgPath) p.image=imgPath;
+    if(pEditIndex>=0){projArr[pEditIndex]=p} else {projArr.push(p)}
+    var result=await ghPut('d-projects.js', serializeProjects(projArr), projSha, 'Update project: '+p.title);
+    projSha=result.content.sha;
+    renderProjects(); el('pmodal').classList.add('hide');
+    msg('projectMsg','Saved! Changes go live in 1-2 minutes.',true);
+  }catch(e){ msg('pmodalMsg','Error: '+e.message,false) } finally { el('btnSaveProject').disabled=false }
+};
+el('btnDeleteProject').onclick=async function(){
+  if(!confirm('Delete this project?'))return;
+  try{
+    projArr.splice(pEditIndex,1);
+    var result=await ghPut('d-projects.js', serializeProjects(projArr), projSha, 'Delete project');
+    projSha=result.content.sha;
+    renderProjects(); el('pmodal').classList.add('hide');
+    msg('projectMsg','Deleted.',true);
+  }catch(e){ msg('pmodalMsg','Error: '+e.message,false) }
+};
+
+// ---- Category Covers ----
+var coversSha=null, coversObj={};
+async function loadCovers(){
+  el('coversList').innerHTML='Loading...';
+  try{
+    var f=await ghGet('covers.js');
+    coversSha=f.sha;
+    var text=b64DecodeUnicode(f.content.replace(/\n/g,''));
+    var fn=new Function(text+'\nreturn window.COVERS;');
+    coversObj=fn()||{};
+  }catch(e){ coversSha=null; coversObj={} }
+  renderCovers();
+}
+function renderCovers(){
+  el('coversList').innerHTML = CATS.map(function(c){
+    var img = coversObj[c[0]] || '';
+    return '<div class="card" style="margin-bottom:10px;display:flex;gap:14px;align-items:center">'+
+      '<img class="thumb" style="width:80px;height:60px" src="'+img+'" onerror="this.style.opacity=0.15">'+
+      '<div style="flex:1"><b>'+c[1]+'</b><br><input type="file" accept="image/*" data-cat="'+c[0]+'" class="coverFile"></div></div>';
+  }).join('');
+  document.querySelectorAll('.coverFile').forEach(function(inp){
+    inp.onchange=async function(){
+      if(!inp.files[0])return;
+      try{
+        var base64=await fileToBase64(inp.files[0]);
+        var ext=(inp.files[0].name.split('.').pop()||'jpg').toLowerCase();
+        var path='cover-'+inp.dataset.cat+'-'+Date.now()+'.'+ext;
+        await ghPutBinary(path, base64, 'Upload cover for '+inp.dataset.cat);
+        coversObj[inp.dataset.cat]=path;
+        renderCovers();
+        msg('coversMsg','Cover image uploaded. Click "Save Cover Changes" to publish.',true);
+      }catch(e){ msg('coversMsg','Upload error: '+e.message,false) }
+    };
+  });
+}
+el('btnSaveCovers').onclick=async function(){
+  try{
+    var content='window.COVERS='+JSON.stringify(coversObj,null,2)+';';
+    var result=await ghPut('covers.js', content, coversSha, 'Update category covers');
+    coversSha=result.content.sha;
+    msg('coversMsg','Saved! Homepage covers update in 1-2 minutes.',true);
+  }catch(e){ msg('coversMsg','Error: '+e.message,false) }
 };
 
 var faqSha=null, faqArr=[];
