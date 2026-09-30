@@ -9,5 +9,6 @@ window.COVERS={
   "animals": "cover-animals-1790736837551.jpeg",
   "sports": "cover-sports-1790736815989.jpeg",
   "cafe": "cover-cafe-1790737720033.jpeg",
-  "heritage": "cover-heritage-1790738251715.jpeg"
+  "heritage": "cover-heritage-1790738251715.jpeg",
+  "kids": "cover-kids-1790738926297.jpeg"
 };
