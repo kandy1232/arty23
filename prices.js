@@ -12,7 +12,7 @@ window.PRICES=[
     "price": "100"
   },
   {
-    "material": "Peel &amp; Stick",
+    "material": "single piece ",
     "price": "100"
   },
   {
