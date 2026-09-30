@@ -1,1 +1,22 @@
-window.PRICES=[{"material": "Vinyl", "price": ""}, {"material": "Non-woven", "price": ""}, {"material": "Textured", "price": ""}, {"material": "Peel &amp; Stick", "price": ""}, {"material": "Custom Mural", "price": ""}];
+window.PRICES=[
+  {
+    "material": "Vinyl",
+    "price": "100"
+  },
+  {
+    "material": "Non-woven",
+    "price": "100"
+  },
+  {
+    "material": "Textured",
+    "price": "100"
+  },
+  {
+    "material": "Peel &amp; Stick",
+    "price": "100"
+  },
+  {
+    "material": "Custom Mural",
+    "price": "111111100"
+  }
+];
