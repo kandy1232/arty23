@@ -1,1 +1,1 @@
-window.SETTINGS={wa:"94774399504",phone:"+94 774399504",email:"info@artyhomes.lk",address:"NO 17 , wikramasinhalpura , battramulla , colombo sri lanka",facebook:"",instagram:"",tiktok:""};
+window.SETTINGS={wa:"94774399504",phone:"+94 774399504",email:"info@artyhomes.lk",address:"NO 17 , wikramasinhalpura , battramulla , colombo sri lanka",facebook:"wwww",instagram:"wwww",tiktok:"wwww"};
