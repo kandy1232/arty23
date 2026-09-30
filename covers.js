@@ -7,5 +7,6 @@ window.COVERS={
   "floral": "cover-floral-1790702796816.jpeg",
   "abstract": "cover-abstract-1790702993853.jpeg",
   "animals": "cover-animals-1790736837551.jpeg",
-  "sports": "cover-sports-1790736815989.jpeg"
+  "sports": "cover-sports-1790736815989.jpeg",
+  "cafe": "cover-cafe-1790737720033.jpeg"
 };
