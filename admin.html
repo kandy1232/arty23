@@ -86,6 +86,7 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
     <button data-t="designs" class="on">Designs</button>
     <button data-t="projects">Our Work / Projects</button>
     <button data-t="covers">Category Covers</button>
+    <button data-t="prices">Price Guide</button>
     <button data-t="settings">Contact &amp; Settings</button>
     <button data-t="faq">Q&amp;A / FAQ</button>
   </div>
@@ -125,6 +126,16 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
       <div id="coversMsg"></div>
       <div id="coversList"></div>
       <p style="margin-top:16px"><button class="btn" id="btnSaveCovers">Save Cover Changes</button></p>
+    </div>
+  </div>
+
+  <div id="tab-prices" class="hide">
+    <div class="card">
+      <h2>Price Guide</h2>
+      <p style="font-size:13.5px;color:#666">These prices appear on the public "Wallpaper Price in Sri Lanka" page. Leave blank to show "Request a quote".</p>
+      <div id="pricesMsg"></div>
+      <div id="pricesList"></div>
+      <p style="margin-top:16px"><button class="btn" id="btnSavePrices">Save Prices</button></p>
     </div>
   </div>
 
@@ -294,11 +305,12 @@ document.querySelectorAll('.tabs button').forEach(function(b){
   b.onclick=function(){
     document.querySelectorAll('.tabs button').forEach(function(x){x.classList.remove('on')});
     b.classList.add('on');
-    ['designs','projects','covers','settings','faq'].forEach(function(t){el('tab-'+t).classList.toggle('hide', t!==b.dataset.t)});
+    ['designs','projects','covers','prices','settings','faq'].forEach(function(t){el('tab-'+t).classList.toggle('hide', t!==b.dataset.t)});
     if(b.dataset.t==='settings') loadSettings();
     if(b.dataset.t==='faq') loadFaq();
     if(b.dataset.t==='projects') loadProjects();
     if(b.dataset.t==='covers') loadCovers();
+    if(b.dataset.t==='prices') loadPrices();
   };
 });
 
@@ -564,6 +576,34 @@ el('btnSaveCovers').onclick=async function(){
     coversSha=result.content.sha;
     msg('coversMsg','Saved! Homepage covers update in 1-2 minutes.',true);
   }catch(e){ msg('coversMsg','Error: '+e.message,false) }
+};
+
+// ---- Price Guide ----
+var pricesSha=null, pricesArr=[];
+async function loadPrices(){
+  el('pricesList').innerHTML='Loading...';
+  try{
+    var f=await ghGet('prices.js');
+    pricesSha=f.sha;
+    var text=b64DecodeUnicode(f.content.replace(/\n/g,''));
+    var fn=new Function(text+'\nreturn window.PRICES;');
+    pricesArr=fn()||[];
+  }catch(e){ pricesSha=null; pricesArr=[{material:'Vinyl',price:''},{material:'Non-woven',price:''},{material:'Textured',price:''},{material:'Peel & Stick',price:''},{material:'Custom Mural',price:''}]; }
+  renderPrices();
+}
+function renderPrices(){
+  el('pricesList').innerHTML = pricesArr.map(function(r,i){
+    return '<div class="row" style="margin-bottom:8px"><div><label style="margin:0">Material</label><input value="'+escH(r.material)+'" onchange="pricesArr['+i+'].material=this.value"></div><div><label style="margin:0">Price (e.g. LKR 450/sq ft)</label><input value="'+escH(r.price)+'" onchange="pricesArr['+i+'].price=this.value"></div></div>';
+  }).join('') + '<button class="btn o sm" id="btnAddPriceRow" style="margin-top:6px">+ Add Row</button>';
+  el('btnAddPriceRow').onclick=function(){ pricesArr.push({material:'',price:''}); renderPrices() };
+}
+el('btnSavePrices').onclick=async function(){
+  try{
+    var content='window.PRICES='+JSON.stringify(pricesArr,null,2)+';';
+    var result=await ghPut('prices.js', content, pricesSha, 'Update price guide');
+    pricesSha=result.content.sha;
+    msg('pricesMsg','Saved! The price guide page updates in 1-2 minutes.',true);
+  }catch(e){ msg('pricesMsg','Error: '+e.message,false) }
 };
 
 var faqSha=null, faqArr=[];

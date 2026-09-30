@@ -22,6 +22,8 @@ main{max-width:1220px;margin:auto;padding:30px 5% 10px}
 .btn:hover{background:#a50d24}
 .btn.o{background:transparent;color:#fff;border:1px solid #ffffff55}
 .btn.o:hover{background:#ffffff14;border-color:#fff}
+.btn.dk{background:#fff;color:var(--n2);border:1px solid var(--n2)}
+.btn.dk:hover{background:var(--n2);color:#fff}
 .trust{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin:0 0 36px;padding:18px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .trust span{font-size:13px;font-weight:600;color:var(--n2);letter-spacing:.03em;display:flex;align-items:center;gap:6px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:22px;margin:20px 0}
