@@ -13,7 +13,7 @@ window.PRICES=[
   },
   {
     "material": "Fabric back /single piece ",
-    "price": ""
+    "price": "670 /sqft "
   },
   {
     "material": "Custom Mural",
