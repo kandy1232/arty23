@@ -5,11 +5,11 @@ window.PRICES=[
   },
   {
     "material": "Non-woven",
-    "price": ""
+    "price": "100"
   },
   {
     "material": "Textured",
-    "price": ""
+    "price": "00"
   },
   {
     "material": "Fabric back /single piece ",
@@ -17,6 +17,6 @@ window.PRICES=[
   },
   {
     "material": "Custom Mural",
-    "price": ""
+    "price": "200"
   }
 ];
