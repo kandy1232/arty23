@@ -1,1 +1,1 @@
-window.SETTINGS={wa:"94774399504",phone:"+94 774399504",email:"info@artyhomes.lk",address:"kottawa road",facebook:"ww.facebook.com",instagram:"www.instragam.com",tiktok:"wwww.ticktok.com"};
+window.SETTINGS={wa:"94774399504",phone:"+94 774399504",email:"info@artyhomes.lk",address:"kottawa road",facebook:"https://www.facebook.com/artyhomes.srilanka",instagram:"www.instragam.com",tiktok:"wwww.ticktok.com"};
