@@ -1,1 +1,1 @@
-window.SETTINGS={wa:"94774399504",phone:"+94 774399604",email:"info@artyhomes.lk",address:"no 17 , battaramulla",facebook:"www",instagram:"wwww",tiktok:"wwwww"};
+window.SETTINGS={wa:"94XXXXXXXXX",phone:"+94 XX XXX XXXX",email:"info@artyhomes.lk",address:"[Add your address via /admin.html]"};
