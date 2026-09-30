@@ -32,7 +32,7 @@ window.DESIGNS["forest"]=[
       "washable"
     ],
     "format": "panel",
-    "sizes": "Custom size",
+    "sizes": "portrait ",
     "price": "",
     "desc": "Forest & Woodland wallpaper design. Replace with your own description.",
     "thumb": "forest-forest-woodland-design-2-1790786548878.jpg",
