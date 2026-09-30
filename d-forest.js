@@ -15,8 +15,8 @@ window.DESIGNS["forest"]=[
     "sizes": "Custom size",
     "price": "",
     "desc": "Forest & Woodland wallpaper design. Replace with your own description.",
-    "thumb": "forest-forest-woodland-design-1-1790786519722.jpg",
-    "full": "forest-forest-woodland-design-1-1790786519722.jpg",
+    "thumb": "forest-forest-woodland-design-1-1790787131799.jpg",
+    "full": "forest-forest-woodland-design-1-1790787131799.jpg",
     "status": "active",
     "added": "2026-01-01"
   },
