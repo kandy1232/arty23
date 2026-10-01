@@ -11,5 +11,6 @@ window.COVERS={
   "cafe": "cover-cafe-1790844966909.webp",
   "heritage": "cover-heritage-1790847647086.webp",
   "kids": "cover-kids-1790848770294.webp",
-  "brick": "cover-brick-1790864407717.webp"
+  "brick": "cover-brick-1790864407717.webp",
+  "history": "cover-history-1790867862420.jpeg"
 };
