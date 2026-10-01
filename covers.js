@@ -4,5 +4,6 @@ window.COVERS={
   "tropical": "cover-tropical-1790828192937.webp",
   "beach": "cover-beach-1790828471177.webp",
   "landscape": "cover-landscape-1790831706642.jpeg",
-  "floral": "cover-floral-1790832327673.webp"
+  "floral": "cover-floral-1790832327673.webp",
+  "abstract": "cover-abstract-1790833627147.webp"
 };
