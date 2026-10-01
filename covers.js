@@ -7,5 +7,6 @@ window.COVERS={
   "floral": "cover-floral-1790832327673.webp",
   "abstract": "cover-abstract-1790833705321.webp",
   "animals": "cover-animals-1790843611580.webp",
-  "sports": "cover-sports-1790844517983.webp"
+  "sports": "cover-sports-1790844517983.webp",
+  "cafe": "cover-cafe-1790844966909.webp"
 };
