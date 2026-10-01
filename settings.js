@@ -1,1 +1,1 @@
-window.SETTINGS={wa:"94774399504",phone:"+94 774399504",email:"info@artyhomes.lk",address:"COPORATE OFFICE - nO 31 , WEST TOWER wtc BUILDING , COLOMBO 07 NO 17 , wikramasinghapura, battaramulla",facebook:"https://www.facebook.com/artyhomes.srilanka",instagram:"www.instragam.com",tiktok:"wwww.ticktok.com"};
+window.SETTINGS={wa:"94XXXXXXXXX",phone:"+94 XX XXX XXXX",email:"info@artyhomes.lk",address:"[Add your address via /admin.html]"};
