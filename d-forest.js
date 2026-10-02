@@ -42,21 +42,21 @@ window.DESIGNS["forest"]=[
   },
   {
     "id": "forest-003",
-    "title": "Forest & Woodland Design 3",
+    "title": "Misty Beech Forest Wall Mural Wallpaper",
     "rooms": [
       "living-room",
       "bedroom"
     ],
     "material": [
       "washable",
-      "vinyl"
+      "vinyl nonwoven"
     ],
     "format": "mural",
     "sizes": "Custom size",
-    "price": "",
-    "desc": "Forest & Woodland wallpaper design. Replace with your own description.",
-    "thumb": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232f6b3a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EForest%20%26amp%3B%20Woodland%203%3C/text%3E%3C/svg%3E",
-    "full": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232f6b3a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EForest%20%26amp%3B%20Woodland%203%3C/text%3E%3C/svg%3E",
+    "price": "375",
+    "desc": "Misty beech forest wall mural in soft green and silver-grey tones. Custom-size, washable wallpaper for living rooms and bedrooms. Made to measure in Sri Lanka.",
+    "thumb": "forest-misty-beech-forest-wall-mural-wallpaper-1790963559441.webp",
+    "full": "forest-misty-beech-forest-wall-mural-wallpaper-1790963559441.webp",
     "status": "active",
     "added": "2026-01-01"
   },
