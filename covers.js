@@ -13,5 +13,6 @@ window.COVERS={
   "kids": "cover-kids-1790848770294.webp",
   "brick": "cover-brick-1790864407717.webp",
   "history": "cover-history-1790867862420.jpeg",
-  "bohemian": "cover-bohemian-1790912410342.webp"
+  "bohemian": "cover-bohemian-1790912410342.webp",
+  "minimalist": "cover-minimalist-1790912769309.webp"
 };
