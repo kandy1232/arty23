@@ -31,9 +31,9 @@ window.DESIGNS["forest"]=[
       "textured",
       "washable"
     ],
-    "format": "panel",
+    "format": "mural",
     "sizes": "Custom size",
-    "price": "",
+    "price": "375",
     "desc": "A dreamy, fog-covered forest scene in soft blue-grey tones, perfect as a calming feature wall behind a bed. Printed as a single seamless panel with no visible joins.\"",
     "thumb": "forest-enchanted-forest-bedroom-wallpaper-1790962055339.webp",
     "full": "forest-enchanted-forest-bedroom-wallpaper-1790962055339.webp",
