@@ -132,5 +132,29 @@ window.DESIGNS["tropical"]=[
     "full": "tropical-teal-ginkgo-leaf-wall-mural-minimalist-botanical-wallpaper-sri-lanka-1791101411235.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "tropical-1791104529553",
+    "added": "2026-10-04",
+    "title": "Sage Green Leaf Wall Mural | Luxury Concept Store Wallpaper Sri Lanka",
+    "desc": "Give your space a calm, refined and gallery-like look with this oversized sage green leaf wall mural. Layered leaves in mint, teal, forest green, cream and soft beige, finished with delicate engraved line-work, create depth without overwhelming the room. A single seamless design, printed to your exact wall size with no repeating pattern. Perfect for concept stores, boutiques, spas, cafes, showrooms, living rooms and bedrooms. Designed and supplied by ARTYHOMES, Sri Lanka.",
+    "price": "375",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "concept-store",
+      "boutique",
+      "cafe",
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "washable",
+      "vinyl",
+      "nonwoven"
+    ],
+    "status": "active",
+    "thumb": "tropical-sage-green-leaf-wall-mural-luxury-concept-store-wallpaper-sri-lanka-1791104526706.jpeg",
+    "full": "tropical-sage-green-leaf-wall-mural-luxury-concept-store-wallpaper-sri-lanka-1791104526706.jpeg"
   }
 ];
