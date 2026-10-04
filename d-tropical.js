@@ -156,5 +156,27 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-sage-green-leaf-wall-mural-luxury-concept-store-wallpaper-sri-lanka-1791104526706.jpeg",
     "full": "tropical-sage-green-leaf-wall-mural-luxury-concept-store-wallpaper-sri-lanka-1791104526706.jpeg"
+  },
+  {
+    "id": "tropical-1791105388453",
+    "added": "2026-10-04",
+    "title": "Navy & Gold Palm Leaf Wall Mural | Luxury Hallway Wallpaper Sri Lanka",
+    "desc": "[Colour] [leaf type] wall mural with [detail, e.g. gold line-art]. Made-to-measure wallpaper for hallways, entrances, lobbies and living rooms in Sri Lanka.",
+    "price": "425",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "hallway",
+      "entrance",
+      "hotel-lobby",
+      "living-room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "tropical-navy-gold-palm-leaf-wall-mural-luxury-hallway-wallpaper-sri-lanka-1791105385557.webp",
+    "full": "tropical-navy-gold-palm-leaf-wall-mural-luxury-hallway-wallpaper-sri-lanka-1791105385557.webp"
   }
 ];
