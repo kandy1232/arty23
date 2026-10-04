@@ -48,10 +48,13 @@ window.DESIGNS["urban"]=[
   },
   {
     "id": "urban-003",
-    "title": "Urban & Cityscapes Design 3",
+    "title": "Modern City Skyline Wall Mural | Daytime High-Rise Wallpaper Sri Lanka",
     "rooms": [
       "living-room",
-      "bedroom"
+      "bedroom",
+      "office",
+      "meeting-room",
+      "hotel-suite"
     ],
     "material": [
       "washable",
@@ -59,10 +62,10 @@ window.DESIGNS["urban"]=[
     ],
     "format": "mural",
     "sizes": "Custom size",
-    "price": "",
-    "desc": "Urban & Cityscapes wallpaper design. Replace with your own description.",
-    "thumb": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4a6b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EUrban%20%26amp%3B%20Cityscapes%203%3C/text%3E%3C/svg%3E",
-    "full": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4a6b%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EUrban%20%26amp%3B%20Cityscapes%203%3C/text%3E%3C/svg%3E",
+    "price": "375 ",
+    "desc": "Open up your room with this photorealistic daytime city skyline wall mural. Modern glass and steel high-rise towers rise under a soft blue sky, creating depth and the feel of a panoramic downtown view. A sleek feature wall for living rooms, bedrooms, home offices, corporate offices, meeting rooms, hotel suites and co-working spaces. Printed as one seamless image to your exact wall size on durable material. Designed and supplied by ARTYHOMES, Sri Lanka.",
+    "thumb": "urban-modern-city-skyline-wall-mural-daytime-high-rise-wallpaper-sri-lanka-1791111558839.webp",
+    "full": "urban-modern-city-skyline-wall-mural-daytime-high-rise-wallpaper-sri-lanka-1791111558839.webp",
     "status": "active",
     "added": "2026-01-01"
   },
