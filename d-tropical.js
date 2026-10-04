@@ -160,8 +160,8 @@ window.DESIGNS["tropical"]=[
   {
     "id": "tropical-1791105388453",
     "added": "2026-10-04",
-    "title": "Navy & Gold Palm Leaf Wall Mural | Luxury Hallway Wallpaper Sri Lanka",
-    "desc": "[Colour] [leaf type] wall mural with [detail, e.g. gold line-art]. Made-to-measure wallpaper for hallways, entrances, lobbies and living rooms in Sri Lanka.",
+    "title": "Navy & Gold Ginkgo Leaf Wall Mural | Luxury Hallway Wallpaper Sri Lanka",
+    "desc": "Make a graceful first impression with this navy and gold ginkgo leaf wall mural. Hand-painted style ginkgo leaves in deep indigo and shimmering gold, with fine gold line-art and soft grey-blue watercolour washes, float across a warm cream background. Ideal for hallways, entrances, hotel lobbies, boutique hotels, dining rooms and living rooms. Printed as one seamless design to your exact wall size on premium material. Designed and supplied by ARTYHOMES, Sri Lanka.",
     "price": "425",
     "sizes": "Custom size",
     "format": "mural",
