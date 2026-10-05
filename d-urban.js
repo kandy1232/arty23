@@ -189,5 +189,30 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-golden-gate-bridge-wall-mural-foggy-wallpaper-sri-lanka-1791199672779.webp",
     "full": "urban-golden-gate-bridge-wall-mural-foggy-wallpaper-sri-lanka-1791199672779.webp"
+  },
+  {
+    "id": "urban-1791200121264",
+    "added": "2026-10-05",
+    "title": "Blue Hydrangea Village Wall Mural | Watercolour Wallpaper Sri Lanka",
+    "desc": "Blue hydrangea village wall mural with white cottages and turquoise flowers in ink and watercolour. Made-to-measure wallpaper for cafes, bedrooms and living rooms in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "cafe",
+      "nursery",
+      "boutique",
+      "spa"
+    ],
+    "material": [
+      "non-woven",
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "urban-blue-hydrangea-village-wall-mural-watercolour-wallpaper-sri-lanka-1791200101634.webp",
+    "full": "urban-blue-hydrangea-village-wall-mural-watercolour-wallpaper-sri-lanka-1791200101634.webp"
   }
 ];
