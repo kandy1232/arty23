@@ -165,5 +165,29 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-amsterdam-canal-houses-wall-mural-wallpaper-sri-lanka-1791198181599.webp",
     "full": "urban-amsterdam-canal-houses-wall-mural-wallpaper-sri-lanka-1791198181599.webp"
+  },
+  {
+    "id": "urban-1791199674939",
+    "added": "2026-10-05",
+    "title": "Golden Gate Bridge Wall Mural | Foggy Wallpaper Sri Lanka",
+    "desc": "Misty Golden Gate Bridge wall mural with a red tower rising from soft white fog. Made-to-measure wallpaper for bedrooms, offices and lounges in Sri Lanka.",
+    "price": "375",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "office",
+      "lounge",
+      "meeting-room",
+      "hotel-suite"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven  wallpaper"
+    ],
+    "status": "active",
+    "thumb": "urban-golden-gate-bridge-wall-mural-foggy-wallpaper-sri-lanka-1791199672779.webp",
+    "full": "urban-golden-gate-bridge-wall-mural-foggy-wallpaper-sri-lanka-1791199672779.webp"
   }
 ];
