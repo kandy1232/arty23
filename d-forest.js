@@ -203,5 +203,29 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-autumn-maple-avenue-wall-mural-golden-tree-wallpaper-sri-lanka-1791188516919.jpeg",
     "full": "forest-autumn-maple-avenue-wall-mural-golden-tree-wallpaper-sri-lanka-1791188516919.jpeg"
+  },
+  {
+    "id": "forest-1791189813123",
+    "added": "2026-10-05",
+    "title": "Blue Chinoiserie Tree Wall Mural | Luxury Wallpaper Sri Lanka",
+    "desc": "Elegant blue-grey and gold painted tree wall mural on a soft cream base. Made-to-measure luxury wallpaper for living rooms, bedrooms, lounges and hotels in Sri Lanka.",
+    "price": "375 ",
+    "sizes": "Custom size",
+    "format": "panel",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "dining-room",
+      "lounge",
+      "hotel-lobby",
+      "hallway"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "forest-blue-chinoiserie-tree-wall-mural-luxury-wallpaper-sri-lanka-1791189803276.webp",
+    "full": "forest-blue-chinoiserie-tree-wall-mural-luxury-wallpaper-sri-lanka-1791189803276.webp"
   }
 ];
