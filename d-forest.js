@@ -131,5 +131,29 @@ window.DESIGNS["forest"]=[
     "full": "forest-tea-garden-wall-mural-plantation-wallpaper-sri-lanka-1791139362553.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "forest-1791184788051",
+    "added": "2026-10-05",
+    "title": "Tea Plantation Hills Wall Mural | Rolling Green Hills Wallpaper Sri Lanka",
+    "desc": "Wake up to a peaceful hill-country view with this tea plantation wall mural. Layered lime and emerald terraces roll across the landscape under soft golden light, with hazy blue mountains in the distance for depth and calm. A restful feature wall for bedrooms, living rooms, boutique hotel suites, resorts, spas, tea lounges and offices. Printed as one seamless panoramic design, scaled to your exact wall size with no repeating pattern. Designed and supplied by ARTYHOMES, Sri Lanka.",
+    "price": "375 ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "hotel-suite",
+      "resort",
+      "spa",
+      "office"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "forest-tea-plantation-hills-wall-mural-rolling-green-hills-wallpaper-sri-lanka-1791184756042.jpeg",
+    "full": "forest-tea-plantation-hills-wall-mural-rolling-green-hills-wallpaper-sri-lanka-1791184756042.jpeg"
   }
 ];
