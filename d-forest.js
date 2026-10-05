@@ -155,5 +155,29 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-tea-plantation-hills-wall-mural-rolling-green-hills-wallpaper-sri-lanka-1791184756042.jpeg",
     "full": "forest-tea-plantation-hills-wall-mural-rolling-green-hills-wallpaper-sri-lanka-1791184756042.jpeg"
+  },
+  {
+    "id": "forest-1791186881773",
+    "added": "2026-10-05",
+    "title": "Misty Watercolor Pine Forest Wall Mural | Sage Wallpaper Sri Lanka",
+    "desc": "Soft watercolour pine and birch forest wall mural in sage, olive and mist tones. Made-to-measure wallpaper for bedrooms, clinics and living rooms in Sri Lanka.",
+    "price": "450 ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "clinic",
+      "spa",
+      "yoga-studio",
+      "office"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "forest-misty-watercolor-pine-forest-wall-mural-sage-wallpaper-sri-lanka-1791186878920.jpeg",
+    "full": "forest-misty-watercolor-pine-forest-wall-mural-sage-wallpaper-sri-lanka-1791186878920.jpeg"
   }
 ];
