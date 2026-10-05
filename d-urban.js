@@ -214,5 +214,30 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-blue-hydrangea-village-wall-mural-watercolour-wallpaper-sri-lanka-1791200101634.webp",
     "full": "urban-blue-hydrangea-village-wall-mural-watercolour-wallpaper-sri-lanka-1791200101634.webp"
+  },
+  {
+    "id": "urban-1791200767656",
+    "added": "2026-10-05",
+    "title": "London Rainy Street Wall Mural | Big Ben Wallpaper Sri Lanka",
+    "desc": "Painted London street wall mural with Big Ben, a teal double-decker bus and spring blossom in the rain. Made-to-measure wallpaper for cafes, studies and living rooms in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "cafe",
+      "restaurant",
+      "office",
+      "hallway"
+    ],
+    "material": [
+      "non-woven",
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "urban-london-rainy-street-wall-mural-big-ben-wallpaper-sri-lanka-1791200764427.jpeg",
+    "full": "urban-london-rainy-street-wall-mural-big-ben-wallpaper-sri-lanka-1791200764427.jpeg"
   }
 ];
