@@ -140,5 +140,30 @@ window.DESIGNS["urban"]=[
     "full": "urban-whimsical-town-street-wall-mural-sri-lanka-1791196540183.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "urban-1791198183981",
+    "added": "2026-10-05",
+    "title": "Amsterdam Canal Houses Wall Mural | Wallpaper Sri Lanka",
+    "desc": "Colourful Amsterdam canal houses wall mural with brick facades and mirror reflections. Made-to-measure wallpaper for cafes, offices and homes in Sri Lanka.",
+    "price": "375 ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "cafe",
+      "restaurant",
+      "office",
+      "hallway",
+      "hotel-lobby"
+    ],
+    "material": [
+      "washable",
+      "vinyl",
+      "nonwoven"
+    ],
+    "status": "active",
+    "thumb": "urban-amsterdam-canal-houses-wall-mural-wallpaper-sri-lanka-1791198181599.webp",
+    "full": "urban-amsterdam-canal-houses-wall-mural-wallpaper-sri-lanka-1791198181599.webp"
   }
 ];
