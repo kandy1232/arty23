@@ -179,5 +179,29 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-misty-watercolor-pine-forest-wall-mural-sage-wallpaper-sri-lanka-1791186878920.jpeg",
     "full": "forest-misty-watercolor-pine-forest-wall-mural-sage-wallpaper-sri-lanka-1791186878920.jpeg"
+  },
+  {
+    "id": "forest-1791188519715",
+    "added": "2026-10-05",
+    "title": "Autumn Maple Avenue Wall Mural | Golden Tree Wallpaper Sri Lanka",
+    "desc": "Golden autumn maple tree avenue wall mural with a winding country road and yellow, orange and green leaves. Made-to-measure wallpaper for bedrooms and living rooms in Sri Lanka.",
+    "price": "295 per sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "hotel-suite",
+      "resort",
+      "cafe",
+      "office"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "forest-autumn-maple-avenue-wall-mural-golden-tree-wallpaper-sri-lanka-1791188516919.jpeg",
+    "full": "forest-autumn-maple-avenue-wall-mural-golden-tree-wallpaper-sri-lanka-1791188516919.jpeg"
   }
 ];
