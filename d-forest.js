@@ -227,5 +227,29 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-blue-chinoiserie-tree-wall-mural-luxury-wallpaper-sri-lanka-1791189803276.webp",
     "full": "forest-blue-chinoiserie-tree-wall-mural-luxury-wallpaper-sri-lanka-1791189803276.webp"
+  },
+  {
+    "id": "forest-1791190479742",
+    "added": "2026-10-05",
+    "title": "Silver Birch Trunk Wall Mural | Tree  Wallpaper Sri Lanka",
+    "desc": "Minimalist silver-grey birch trunk wall mural on a white base with fine leaf sprigs. Made-to-measure wallpaper for bedrooms, clinics and offices in Sri Lanka.",
+    "price": "375 ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "nursery",
+      "clinic",
+      "office",
+      "hotel-suite"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp",
+    "full": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp"
   }
 ];
