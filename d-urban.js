@@ -239,5 +239,30 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-london-rainy-street-wall-mural-big-ben-wallpaper-sri-lanka-1791200764427.jpeg",
     "full": "urban-london-rainy-street-wall-mural-big-ben-wallpaper-sri-lanka-1791200764427.jpeg"
+  },
+  {
+    "id": "urban-1791215918889",
+    "added": "2026-10-05",
+    "title": "Paris Eiffel Tower Wall Mural | Illustrated Wallpaper Sri Lanka",
+    "desc": "Illustrated Paris wall mural with the Eiffel Tower, a cathedral and the Seine in soft blue, cream and red. Made-to-measure wallpaper for cafes, bedrooms and living rooms in Sri Lanka.",
+    "price": "LKR400 per sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "cafe",
+      "restaurant",
+      "nursery",
+      "hotel-suite"
+    ],
+    "material": [
+      "non-woven",
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "urban-paris-eiffel-tower-wall-mural-illustrated-wallpaper-sri-lanka-1791215913781.webp",
+    "full": "urban-paris-eiffel-tower-wall-mural-illustrated-wallpaper-sri-lanka-1791215913781.webp"
   }
 ];
