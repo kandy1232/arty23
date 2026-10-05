@@ -251,5 +251,29 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp",
     "full": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp"
+  },
+  {
+    "id": "forest-1791194033643",
+    "added": "2026-10-05",
+    "title": "Pastel Blossom Valley Wall Mural | Folk Art Wallpaper Sri Lanka",
+    "desc": "Colourful folk-art blossom valley wall mural with pink trees, golden fields and tiny villages. Made-to-measure wallpaper for kids' rooms, cafes and living rooms in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "nursery",
+      "cafe",
+      "kids-room",
+      "hotel-suite"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "forest-pastel-blossom-valley-wall-mural-folk-art-wallpaper-sri-lanka-1791194030910.webp",
+    "full": "forest-pastel-blossom-valley-wall-mural-folk-art-wallpaper-sri-lanka-1791194030910.webp"
   }
 ];
