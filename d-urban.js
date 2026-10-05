@@ -264,5 +264,27 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-paris-eiffel-tower-wall-mural-illustrated-wallpaper-sri-lanka-1791215913781.webp",
     "full": "urban-paris-eiffel-tower-wall-mural-illustrated-wallpaper-sri-lanka-1791215913781.webp"
+  },
+  {
+    "id": "urban-1791217906738",
+    "added": "2026-10-05",
+    "title": "New York Skyline Rainbow Wall Mural | Wallpaper Sri Lanka",
+    "desc": "New York skyline wall mural at sunset with a tall tower and a full rainbow over the city. Made-to-measure wallpaper for offices, living rooms and lounges in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "office",
+      "bedroom",
+      "hotel"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "urban-new-york-skyline-rainbow-wall-mural-wallpaper-sri-lanka-1791217893068.webp",
+    "full": "urban-new-york-skyline-rainbow-wall-mural-wallpaper-sri-lanka-1791217893068.webp"
   }
 ];
