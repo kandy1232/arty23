@@ -136,8 +136,8 @@ window.DESIGNS["urban"]=[
     "sizes": "Custom size",
     "price": "375 ",
     "desc": "Whimsical embroidered-style town street wall mural with colourful houses, lamp posts and flower beds. Made-to-measure wallpaper for kids' rooms, nurseries and cafes in Sri Lanka.",
-    "thumb": "urban-whimsical-town-street-wall-mural-sri-lanka-1791196540183.webp",
-    "full": "urban-whimsical-town-street-wall-mural-sri-lanka-1791196540183.webp",
+    "thumb": "urban-whimsical-town-street-wall-mural-sri-lanka-1791215365243.webp",
+    "full": "urban-whimsical-town-street-wall-mural-sri-lanka-1791215365243.webp",
     "status": "active",
     "added": "2026-01-01"
   },
