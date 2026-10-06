@@ -160,5 +160,31 @@ window.DESIGNS["beach"]=[
     "full": "beach-flamingo-sunset-wall-mural-pink-wetland-birds-wallpaper-sri-lanka-1791308342926.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "beach-1791308702997",
+    "added": "2026-10-06",
+    "title": "Maldives Sunset Lagoon Wall Mural | Pink Sand Beach Wallpaper Sri Lanka",
+    "desc": "Serene Maldives-style sunset wall mural with a calm turquoise lagoon, pink sand and a leaning palm. Made-to-measure wallpaper for spas, resorts and bedrooms in Sri Lanka.",
+    "price": "LKR 275 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "spa",
+      "wellness-studio",
+      "meditation-room",
+      "resort",
+      "hotel-suite",
+      "bedroom",
+      "living-room",
+      "office"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "beach-maldives-sunset-lagoon-wall-mural-pink-sand-beach-wallpaper-sri-lanka-1791308700337.webp",
+    "full": "beach-maldives-sunset-lagoon-wall-mural-pink-sand-beach-wallpaper-sri-lanka-1791308700337.webp"
   }
 ];
