@@ -2,7 +2,7 @@ window.DESIGNS=window.DESIGNS||{};
 window.DESIGNS["beach"]=[
   {
     "id": "beach-001",
-    "title": "Dreamy watercolour beach sunset wall mural with pastel pink clouds and gentle turquoise waves. Made-to-measure wallpaper for bedrooms, spas and clinics in Sri Lanka.",
+    "title": "Watercolour Beach Sunset Wall Mural | Pastel Ocean Wallpaper Sri Lanka",
     "rooms": [
       "bedroom",
       "nursery",
