@@ -242,5 +242,32 @@ window.DESIGNS["beach"]=[
     "status": "active",
     "thumb": "beach-sunny-beach-sea-foam-wall-mural-blue-sky-ocean-wallpaper-sri-lanka-1791352170487.webp",
     "full": "beach-sunny-beach-sea-foam-wall-mural-blue-sky-ocean-wallpaper-sri-lanka-1791352170487.webp"
+  },
+  {
+    "id": "beach-1791353506527",
+    "added": "2026-10-07",
+    "title": "Surf Beach Sunset Wall Mural | Retro Camper Van Wallpaper Sri Lanka",
+    "desc": "Give your space a laid-back surf-trip mood with this photorealistic beach wall mural. A vintage teal and cream camper van sits on the sand with colourful surfboards, while seagulls glide across a glowing coral and lavender sunset above the waves. Printed as one seamless piece, it is made to measure to cover your wall from floor to ceiling. It suits bedrooms, living rooms, cafés, gyms, hotels and creative offices. Designed and supplied by ARTYHOMES, Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Hotel",
+      "Café/Restaurant",
+      "Gym/Sports Venue",
+      "Retail",
+      "Office (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "beach-surf-beach-sunset-wall-mural-retro-camper-van-wallpaper-sri-lanka-1791353504145.webp",
+    "full": "beach-surf-beach-sunset-wall-mural-retro-camper-van-wallpaper-sri-lanka-1791353504145.webp"
   }
 ];
