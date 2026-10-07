@@ -186,5 +186,31 @@ window.DESIGNS["beach"]=[
     "status": "active",
     "thumb": "beach-maldives-sunset-lagoon-wall-mural-pink-sand-beach-wallpaper-sri-lanka-1791308700337.webp",
     "full": "beach-maldives-sunset-lagoon-wall-mural-pink-sand-beach-wallpaper-sri-lanka-1791308700337.webp"
+  },
+  {
+    "id": "beach-1791350411477",
+    "added": "2026-10-07",
+    "title": "Oil Painting Seascape Wall Mural | Impasto Ocean Waves Wallpaper Sri Lanka",
+    "desc": "Textured impasto oil painting seascape wall mural with turquoise waves and billowing clouds. Made-to-measure artistic wallpaper for lounges, offices and homes in Sri Lanka.",
+    "price": "LKR 375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "cinema-lounge",
+      "living-room",
+      "bedroom",
+      "hotel-lobby",
+      "restaurant",
+      "office",
+      "spa",
+      "boutique"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "beach-oil-painting-seascape-wall-mural-impasto-ocean-waves-wallpaper-sri-lanka-1791350408471.webp",
+    "full": "beach-oil-painting-seascape-wall-mural-impasto-ocean-waves-wallpaper-sri-lanka-1791350408471.webp"
   }
 ];
