@@ -131,5 +131,34 @@ window.DESIGNS["landscape"]=[
     "full": "landscape-winter-lake-wall-mural-snow-pine-trees-wallpaper-sri-lanka-1791392769788.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "landscape-1791393437223",
+    "added": "2026-10-07",
+    "title": "Autumn Mountain Road Wall Mural | Golden Foliage Wallpaper Sri Lanka",
+    "desc": "Adventure wall mural with a retro camper van on an autumn gravel road, golden foliage and blue mountains. Made-to-measure wallpaper for offices, lounges and cafés in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Office",
+      "Hallway",
+      "Café/Restaurant",
+      "Hotel",
+      "Retail",
+      "Gym/Sports Venue (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "washable",
+      "vinyl",
+      "nonwoven"
+    ],
+    "status": "active",
+    "thumb": "landscape-autumn-mountain-road-wall-mural-golden-foliage-wallpaper-sri-lanka-1791393434439.webp",
+    "full": "landscape-autumn-mountain-road-wall-mural-golden-foliage-wallpaper-sri-lanka-1791393434439.webp"
   }
 ];
