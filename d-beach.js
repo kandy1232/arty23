@@ -269,5 +269,34 @@ window.DESIGNS["beach"]=[
     "status": "active",
     "thumb": "beach-surf-beach-sunset-wall-mural-retro-camper-van-wallpaper-sri-lanka-1791353504145.webp",
     "full": "beach-surf-beach-sunset-wall-mural-retro-camper-van-wallpaper-sri-lanka-1791353504145.webp"
+  },
+  {
+    "id": "beach-1791373403645",
+    "added": "2026-10-07",
+    "title": "Morning Lighthouse Wall Mural | Sunrise Coastal Wallpaper Sri Lanka",
+    "desc": "Peaceful morning lighthouse wall mural with golden sun rays, a calm blue sea and a sandy beach. Made-to-measure coastal wallpaper for bedrooms, hotels and cafés in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Hallway",
+      "Hotel",
+      "Café/Restaurant",
+      "Salon/Spa",
+      "Office",
+      "Bathroom (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "washable",
+      "vinyl",
+      "nonwoven"
+    ],
+    "status": "active",
+    "thumb": "beach-morning-lighthouse-wall-mural-sunrise-coastal-wallpaper-sri-lanka-1791373401157.webp",
+    "full": "beach-morning-lighthouse-wall-mural-sunrise-coastal-wallpaper-sri-lanka-1791373401157.webp"
   }
 ];
