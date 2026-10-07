@@ -212,5 +212,35 @@ window.DESIGNS["beach"]=[
     "status": "active",
     "thumb": "beach-oil-painting-seascape-wall-mural-impasto-ocean-waves-wallpaper-sri-lanka-1791350408471.webp",
     "full": "beach-oil-painting-seascape-wall-mural-impasto-ocean-waves-wallpaper-sri-lanka-1791350408471.webp"
+  },
+  {
+    "id": "beach-1791352172720",
+    "added": "2026-10-07",
+    "title": "Sunny Beach Sea Foam Wall Mural | Blue Sky Ocean Wallpaper Sri Lanka",
+    "desc": "Fresh sunny beach wall mural with white sea foam, turquoise water and a bright blue sky. Made-to-measure wallpaper for gyms, spas and bedrooms in Sri Lanka.",
+    "price": "LKR350 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym/Sports Venue",
+      "Salon/Spa",
+      "Hotel",
+      "Office",
+      "Bathroom",
+      "Bedroom",
+      "Living Room",
+      "Kids Room",
+      "Café/Restaurant  Bedroom",
+      "Living Room",
+      "Office"
+    ],
+    "material": [
+      "washable",
+      "vinyl",
+      "nonwoven"
+    ],
+    "status": "active",
+    "thumb": "beach-sunny-beach-sea-foam-wall-mural-blue-sky-ocean-wallpaper-sri-lanka-1791352170487.webp",
+    "full": "beach-sunny-beach-sea-foam-wall-mural-blue-sky-ocean-wallpaper-sri-lanka-1791352170487.webp"
   }
 ];
