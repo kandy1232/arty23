@@ -298,5 +298,32 @@ window.DESIGNS["beach"]=[
     "status": "active",
     "thumb": "beach-morning-lighthouse-wall-mural-sunrise-coastal-wallpaper-sri-lanka-1791373401157.webp",
     "full": "beach-morning-lighthouse-wall-mural-sunrise-coastal-wallpaper-sri-lanka-1791373401157.webp"
+  },
+  {
+    "id": "beach-1791373760489",
+    "added": "2026-10-07",
+    "title": "Misty Mountain Bay Wall Mural | Blue Mountain Sea Wallpaper Sri Lanka",
+    "desc": "Calm misty mountain bay wall mural with layered blue peaks, a sailing ship and gliding seagulls. Made-to-measure wallpaper for offices, bedrooms and hotels in Sri Lanka",
+    "price": "LKR300 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Office",
+      "Bedroom",
+      "Living Room",
+      "Hallway",
+      "Hotel",
+      "Café/Restaurant",
+      "Salon/Spa (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "beach-misty-mountain-bay-wall-mural-blue-mountain-sea-wallpaper-sri-lanka-1791373758003.webp",
+    "full": "beach-misty-mountain-bay-wall-mural-blue-mountain-sea-wallpaper-sri-lanka-1791373758003.webp"
   }
 ];
