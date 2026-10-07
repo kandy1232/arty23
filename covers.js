@@ -3,7 +3,7 @@ window.COVERS={
   "urban": "cover-urban-1791390519206.webp",
   "tropical": "cover-tropical-1791390215084.webp",
   "beach": "cover-beach-1790828471177.webp",
-  "landscape": "cover-landscape-1790831706642.jpeg",
+  "landscape": "cover-landscape-1791390669783.webp",
   "floral": "cover-floral-1790832327673.webp",
   "abstract": "cover-abstract-1790833705321.webp",
   "animals": "cover-animals-1790843611580.webp",
