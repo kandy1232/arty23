@@ -174,5 +174,34 @@ window.DESIGNS["floral"]=[
     "full": "floral-painterly-floral-wall-mural-fine-art-wallpaper-sri-lanka-1791469975883.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "floral-1791471400146",
+    "added": "2026-10-08",
+    "title": "Aqua Large Flower Wall Mural | Gold Accent Luxury Wallpaper Sri Lanka",
+    "desc": "Luxury aqua large flower wall mural with pearl-white petals and gold-dusted details. Made-to-measure wallpaper for living rooms, bedrooms and hotels in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Kitchen & Dining",
+      "Hotel",
+      "Salon/Spa",
+      "Retail",
+      "Office",
+      "Café/Restaurant (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "floral-aqua-large-flower-wall-mural-gold-accent-luxury-wallpaper-sri-lanka-1791471396185.webp",
+    "full": "floral-aqua-large-flower-wall-mural-gold-accent-luxury-wallpaper-sri-lanka-1791471396185.webp"
   }
 ];
