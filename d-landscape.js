@@ -188,5 +188,30 @@ window.DESIGNS["landscape"]=[
     "status": "active",
     "thumb": "landscape-green-countryside-wall-mural-farmhouse-meadow-wallpaper-sri-lanka-1791428262737.webp",
     "full": "landscape-green-countryside-wall-mural-farmhouse-meadow-wallpaper-sri-lanka-1791428262737.webp"
+  },
+  {
+    "id": "landscape-1791428878617",
+    "added": "2026-10-08",
+    "title": "Green Pine Mountain Painting Wall Mural | Oriental Wallpaper Sri Lanka",
+    "desc": "Calm oriental painting wall mural with green pine-covered ridges and drifting white clouds. Made-to-measure wallpaper for bedrooms, offices and spas in Sri Lanka.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "office",
+      "hallway",
+      "hotel",
+      "salon-spa",
+      "cafe-restaurant",
+      "bathroom"
+    ],
+    "material": [
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "landscape-green-pine-mountain-painting-wall-mural-oriental-wallpaper-sri-lanka-1791428874220.webp",
+    "full": "landscape-green-pine-mountain-painting-wall-mural-oriental-wallpaper-sri-lanka-1791428874220.webp"
   }
 ];
