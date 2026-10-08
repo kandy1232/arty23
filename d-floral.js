@@ -232,5 +232,34 @@ window.DESIGNS["floral"]=[
     "status": "active",
     "thumb": "floral-earth-tone-daisy-wall-mural-minimal-floral-line-art-wallpaper-sri-lanka-1791479027300.jfif",
     "full": "floral-earth-tone-daisy-wall-mural-minimal-floral-line-art-wallpaper-sri-lanka-1791479027300.jfif"
+  },
+  {
+    "id": "floral-1791479375046",
+    "added": "2026-10-08",
+    "title": "Cream Peony Wall Mural | Soft Romantic Floral Wallpaper Sri Lanka",
+    "desc": "Soft romantic cream peony wall mural with pale pink blooms and delicate grey-green leaves. Made-to-measure floral wallpaper for bedrooms, bridal salons and hotels in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Kitchen & Dining",
+      "Hallway",
+      "Hotel",
+      "Salon/Spa",
+      "Retail",
+      "Café/Restaurant",
+      "Office (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "floral-cream-peony-wall-mural-soft-romantic-floral-wallpaper-sri-lanka-1791479371742.webp",
+    "full": "floral-cream-peony-wall-mural-soft-romantic-floral-wallpaper-sri-lanka-1791479371742.webp"
   }
 ];
