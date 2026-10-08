@@ -53,8 +53,8 @@ window.DESIGNS["floral"]=[
     "sizes": "Custom size",
     "price": "LKR375 sqft ",
     "desc": "Bold terracotta floral wall mural with sweeping sage and forest green leaves on a warm cream base. Made-to-measure wallpaper for hallways, living rooms and salons in Sri Lanka.",
-    "thumb": "floral-terracotta-floral-wall-mural-modern-organic-botanical-wallpaper-sri-lanka-1791468416079.jfif",
-    "full": "floral-terracotta-floral-wall-mural-modern-organic-botanical-wallpaper-sri-lanka-1791468416079.jfif",
+    "thumb": "floral-terracotta-floral-wall-mural-modern-organic-botanical-wallpaper-sri-lanka-1791469001394.webp",
+    "full": "floral-terracotta-floral-wall-mural-modern-organic-botanical-wallpaper-sri-lanka-1791469001394.webp",
     "status": "active",
     "added": "2026-01-01"
   },
