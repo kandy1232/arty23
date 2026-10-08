@@ -203,5 +203,34 @@ window.DESIGNS["floral"]=[
     "status": "active",
     "thumb": "floral-aqua-large-flower-wall-mural-gold-accent-luxury-wallpaper-sri-lanka-1791471396185.webp",
     "full": "floral-aqua-large-flower-wall-mural-gold-accent-luxury-wallpaper-sri-lanka-1791471396185.webp"
+  },
+  {
+    "id": "floral-1791479030369",
+    "added": "2026-10-08",
+    "title": "Earth Tone Daisy Wall Mural | Minimal Floral Line Art Wallpaper Sri Lanka",
+    "desc": "Modern earth tone daisy wall mural with fine line-art flowers in rust, brown, peach and cream. Made-to-measure wallpaper for bedrooms, lounges and offices in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Hallway",
+      "Office",
+      "Café/Restaurant",
+      "Hotel",
+      "Salon/Spa",
+      "Retail",
+      "Kitchen & Dining (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "floral-earth-tone-daisy-wall-mural-minimal-floral-line-art-wallpaper-sri-lanka-1791479027300.jfif",
+    "full": "floral-earth-tone-daisy-wall-mural-minimal-floral-line-art-wallpaper-sri-lanka-1791479027300.jfif"
   }
 ];
