@@ -160,5 +160,33 @@ window.DESIGNS["landscape"]=[
     "status": "active",
     "thumb": "landscape-autumn-mountain-road-wall-mural-golden-foliage-wallpaper-sri-lanka-1791393434439.webp",
     "full": "landscape-autumn-mountain-road-wall-mural-golden-foliage-wallpaper-sri-lanka-1791393434439.webp"
+  },
+  {
+    "id": "landscape-1791428267265",
+    "added": "2026-10-08",
+    "title": "Green Countryside Wall Mural | Farmhouse Meadow Wallpaper Sri Lanka",
+    "desc": "Fresh green countryside wall mural with a stone farmhouse, a winding path and a dramatic blue sky. Made-to-measure wallpaper for living rooms, cafés and bedrooms in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Kids Room",
+      "Kitchen & Dining",
+      "Hallway",
+      "Office",
+      "Café/Restaurant",
+      "Hotel",
+      "Retail (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "non woven"
+    ],
+    "status": "active",
+    "thumb": "landscape-green-countryside-wall-mural-farmhouse-meadow-wallpaper-sri-lanka-1791428262737.webp",
+    "full": "landscape-green-countryside-wall-mural-farmhouse-meadow-wallpaper-sri-lanka-1791428262737.webp"
   }
 ];
