@@ -82,8 +82,8 @@ window.DESIGNS["floral"]=[
     "sizes": "Custom size",
     "price": "LKR375 sqft ",
     "desc": "Bold mid-century geometric floral wall mural with coral blooms, an orange sun and teal blocks. Made-to-measure wallpaper for living rooms, cafés and offices in Sri Lanka.",
-    "thumb": "floral-geometric-sun-floral-wall-mural-mid-century-modern-wallpaper-sri-lanka-1791468614421.jfif",
-    "full": "floral-geometric-sun-floral-wall-mural-mid-century-modern-wallpaper-sri-lanka-1791468614421.jfif",
+    "thumb": "floral-geometric-sun-floral-wall-mural-mid-century-modern-wallpaper-sri-lanka-1791469653189.webp",
+    "full": "floral-geometric-sun-floral-wall-mural-mid-century-modern-wallpaper-sri-lanka-1791469653189.webp",
     "status": "active",
     "added": "2026-01-01"
   },
