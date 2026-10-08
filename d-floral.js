@@ -112,8 +112,8 @@ window.DESIGNS["floral"]=[
     "sizes": "Custom size",
     "price": "LKR375 sqft  ",
     "desc": "Striking blue magnolia wall mural with cobalt blooms, red-tipped buds and sculpted branches. Made-to-measure floral wallpaper for living rooms, boutiques and hotels in Sri Lanka.",
-    "thumb": "floral-blue-magnolia-wall-mural-cobalt-floral-wallpaper-sri-lanka-1791468757500.jfif",
-    "full": "floral-blue-magnolia-wall-mural-cobalt-floral-wallpaper-sri-lanka-1791468757500.jfif",
+    "thumb": "floral-blue-magnolia-wall-mural-cobalt-floral-wallpaper-sri-lanka-1791469706357.webp",
+    "full": "floral-blue-magnolia-wall-mural-cobalt-floral-wallpaper-sri-lanka-1791469706357.webp",
     "status": "active",
     "added": "2026-01-01"
   },
