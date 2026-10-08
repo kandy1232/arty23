@@ -261,5 +261,34 @@ window.DESIGNS["floral"]=[
     "status": "active",
     "thumb": "floral-cream-peony-wall-mural-soft-romantic-floral-wallpaper-sri-lanka-1791479371742.webp",
     "full": "floral-cream-peony-wall-mural-soft-romantic-floral-wallpaper-sri-lanka-1791479371742.webp"
+  },
+  {
+    "id": "floral-1791479691394",
+    "added": "2026-10-08",
+    "title": "Slate Blue & Ivory Floral Wall Mural | Luxury Silk Petal Wallpaper Sri Lanka",
+    "desc": "Luxury slate blue and ivory floral wall mural with silky flowing petals and fine gold-beige veining. Made-to-measure wallpaper for living rooms, hotels and offices in Sri Lanka.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Kitchen & Dining",
+      "Hotel",
+      "Retail",
+      "Salon/Spa",
+      "Office",
+      "Café/Restaurant (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "floral-slate-blue-ivory-floral-wall-mural-luxury-silk-petal-wallpaper-sri-lanka-1791479688354.webp",
+    "full": "floral-slate-blue-ivory-floral-wall-mural-luxury-silk-petal-wallpaper-sri-lanka-1791479688354.webp"
   }
 ];
