@@ -24,8 +24,8 @@ window.DESIGNS["floral"]=[
     "sizes": "Custom size",
     "price": "",
     "desc": "Elegant abstract floral wall mural in blush pink, dusty blue and cream with white blossoms and gold line art. Made-to-measure wallpaper for bedrooms, cafés and spas in Sri Lanka.",
-    "thumb": "floral-blush-pink-abstract-floral-wall-mural-gold-line-art-wallpaper-sri-lanka-1791467907979.jfif",
-    "full": "floral-blush-pink-abstract-floral-wall-mural-gold-line-art-wallpaper-sri-lanka-1791467907979.jfif",
+    "thumb": "floral-blush-pink-abstract-floral-wall-mural-gold-line-art-wallpaper-sri-lanka-1791468896235.webp",
+    "full": "floral-blush-pink-abstract-floral-wall-mural-gold-line-art-wallpaper-sri-lanka-1791468896235.webp",
     "status": "active",
     "added": "2026-01-01"
   },
