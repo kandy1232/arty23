@@ -325,7 +325,7 @@ window.DESIGNS["floral"]=[
     "added": "2026-10-09",
     "title": "Blue Garden Butterfly Wall Mural | Delicate Flower Wallpaper Sri Lanka",
     "desc": "Delicate painted garden wall mural with tall blue flowers, golden blooms and fluttering butterflies. Made-to-measure wallpaper for bedrooms, cafés and spas in Sri Lanka.",
-    "price": "",
+    "price": "LKR375 sqft  ",
     "sizes": "Custom size",
     "format": "mural",
     "rooms": [
