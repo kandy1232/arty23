@@ -233,5 +233,34 @@ window.DESIGNS["abstract"]=[
     "status": "active",
     "thumb": "abstract-black-vertical-line-wall-mural-luxury-champagne-stripe-wallpaper-sri-lanka-1791540268602.webp",
     "full": "abstract-black-vertical-line-wall-mural-luxury-champagne-stripe-wallpaper-sri-lanka-1791540268602.webp"
+  },
+  {
+    "id": "abstract-1791547340878",
+    "added": "2026-10-09",
+    "title": "Stone Tile Wave Wall Mural | Sand & Taupe Modern Wallpaper Sri Lanka",
+    "desc": "Elegant stone tile wave wall mural with flowing bands in sand, caramel and taupe. Made-to-measure wallpaper for living rooms, hotels and restaurants in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Hotel",
+      "Café/Restaurant",
+      "Salon/Spa",
+      "Retail",
+      "Kitchen & Dining (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547336415.jfif",
+    "full": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547336415.jfif"
   }
 ];
