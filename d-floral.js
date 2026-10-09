@@ -319,5 +319,34 @@ window.DESIGNS["floral"]=[
     "status": "active",
     "thumb": "floral-white-flower-branch-wall-mural-soft-blue-grey-floral-wallpaper-sri-lanka-1791522987150.webp",
     "full": "floral-white-flower-branch-wall-mural-soft-blue-grey-floral-wallpaper-sri-lanka-1791522987150.webp"
+  },
+  {
+    "id": "floral-1791523683978",
+    "added": "2026-10-09",
+    "title": "Blue Garden Butterfly Wall Mural | Delicate Flower Wallpaper Sri Lanka",
+    "desc": "Delicate painted garden wall mural with tall blue flowers, golden blooms and fluttering butterflies. Made-to-measure wallpaper for bedrooms, cafés and spas in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Kids Room",
+      "Hallway",
+      "Hotel",
+      "Salon/Spa",
+      "Café/Restaurant",
+      "Retail",
+      "Office (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "floral-blue-garden-butterfly-wall-mural-delicate-flower-wallpaper-sri-lanka-1791523681506.webp",
+    "full": "floral-blue-garden-butterfly-wall-mural-delicate-flower-wallpaper-sri-lanka-1791523681506.webp"
   }
 ];
