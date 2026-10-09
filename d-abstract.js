@@ -291,5 +291,34 @@ window.DESIGNS["abstract"]=[
     "status": "active",
     "thumb": "abstract-modern-circles-lines-wall-mural-steel-blue-abstract-wallpaper-sri-lanka-1791548262819.webp",
     "full": "abstract-modern-circles-lines-wall-mural-steel-blue-abstract-wallpaper-sri-lanka-1791548262819.webp"
+  },
+  {
+    "id": "abstract-1791548619396",
+    "added": "2026-10-09",
+    "title": "Modern Curve Abstract Wall Mural | Deep Green & Grey Wallpaper Sri Lanka",
+    "desc": "Calm modern curve abstract wall mural with layered shapes in deep green, teal and soft grey. Made-to-measure wallpaper for salons, offices and living rooms in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Hotel",
+      "Salon/Spa",
+      "Café/Restaurant",
+      "Retail",
+      "Kitchen & Dining (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "abstract-modern-curve-abstract-wall-mural-deep-green-grey-wallpaper-sri-lanka-1791548615089.webp",
+    "full": "abstract-modern-curve-abstract-wall-mural-deep-green-grey-wallpaper-sri-lanka-1791548615089.webp"
   }
 ];
