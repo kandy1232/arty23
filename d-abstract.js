@@ -320,5 +320,34 @@ window.DESIGNS["abstract"]=[
     "status": "active",
     "thumb": "abstract-modern-curve-abstract-wall-mural-deep-green-grey-wallpaper-sri-lanka-1791548615089.webp",
     "full": "abstract-modern-curve-abstract-wall-mural-deep-green-grey-wallpaper-sri-lanka-1791548615089.webp"
+  },
+  {
+    "id": "abstract-1791551210644",
+    "added": "2026-10-09",
+    "title": "Taupe Smoke Wave Wall Mural | Luxury Silk Abstract Wallpaper Sri Lanka",
+    "desc": "Give your wall a moody, elegant presence with this smoke wave mural. Soft translucent ribbons in taupe, sand and cream swirl in layered folds, with glowing edges that fade into a deep espresso background. The calm, flowing movement adds depth and drama without a busy pattern, and it suits modern, luxury and boutique interiors. Printed as one seamless piece, it is made to measure to cover your wall from floor to ceiling. It suits living rooms, bedrooms, hallways, offices, hotels and lobbies, bars and lounges, salons and spas, and retail shops. Designed and supplied by ARTYHOMES, Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Hotel",
+      "Salon/Spa",
+      "Café/Restaurant",
+      "Retail",
+      "Gym/Sports Venue (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "abstract-taupe-smoke-wave-wall-mural-luxury-silk-abstract-wallpaper-sri-lanka-1791551206820.webp",
+    "full": "abstract-taupe-smoke-wave-wall-mural-luxury-silk-abstract-wallpaper-sri-lanka-1791551206820.webp"
   }
 ];
