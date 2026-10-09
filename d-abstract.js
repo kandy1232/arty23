@@ -239,7 +239,7 @@ window.DESIGNS["abstract"]=[
     "added": "2026-10-09",
     "title": "Stone Tile Wave Wall Mural | Sand & Taupe Modern Wallpaper Sri Lanka",
     "desc": "Elegant stone tile wave wall mural with flowing bands in sand, caramel and taupe. Made-to-measure wallpaper for living rooms, hotels and restaurants in Sri Lanka.",
-    "price": "",
+    "price": "LKR450 sqft  ",
     "sizes": "Custom size",
     "format": "mural",
     "rooms": [
@@ -260,7 +260,7 @@ window.DESIGNS["abstract"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547336415.jfif",
-    "full": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547336415.jfif"
+    "thumb": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547439814.webp",
+    "full": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547439814.webp"
   }
 ];
