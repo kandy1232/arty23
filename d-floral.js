@@ -290,5 +290,34 @@ window.DESIGNS["floral"]=[
     "status": "active",
     "thumb": "floral-slate-blue-ivory-floral-wall-mural-luxury-silk-petal-wallpaper-sri-lanka-1791479688354.webp",
     "full": "floral-slate-blue-ivory-floral-wall-mural-luxury-silk-petal-wallpaper-sri-lanka-1791479688354.webp"
+  },
+  {
+    "id": "floral-1791522989897",
+    "added": "2026-10-09",
+    "title": "White Flower Branch Wall Mural | Soft Blue-Grey Floral Wallpaper Sri Lanka",
+    "desc": "Calm white flower branch wall mural with silky blooms on a soft blue-grey background. Made-to-measure floral wallpaper for bedrooms, spas and hotels in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Hallway",
+      "Bathroom",
+      "Hotel",
+      "Salon/Spa",
+      "Retail",
+      "Office",
+      "Café/Restaurant (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "floral-white-flower-branch-wall-mural-soft-blue-grey-floral-wallpaper-sri-lanka-1791522987150.webp",
+    "full": "floral-white-flower-branch-wall-mural-soft-blue-grey-floral-wallpaper-sri-lanka-1791522987150.webp"
   }
 ];
