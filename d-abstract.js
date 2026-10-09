@@ -204,5 +204,34 @@ window.DESIGNS["abstract"]=[
     "status": "active",
     "thumb": "abstract-urban-grid-abstract-wall-mural-modern-city-texture-wallpaper-sri-lanka-1791535384908.jfif",
     "full": "abstract-urban-grid-abstract-wall-mural-modern-city-texture-wallpaper-sri-lanka-1791535384908.jfif"
+  },
+  {
+    "id": "abstract-1791540271873",
+    "added": "2026-10-09",
+    "title": "Black Vertical Line Wall Mural | Luxury Champagne Stripe Wallpaper Sri Lanka",
+    "desc": "Luxury black vertical line wall mural with slender champagne stripes on a charcoal base. Made-to-measure wallpaper for hotels, offices and living rooms in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Hotel",
+      "Salon/Spa",
+      "Retail",
+      "Café/Restaurant",
+      "Gym/Sports Venue (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "washable",
+      "vinyl nonwoven"
+    ],
+    "status": "active",
+    "thumb": "abstract-black-vertical-line-wall-mural-luxury-champagne-stripe-wallpaper-sri-lanka-1791540268602.webp",
+    "full": "abstract-black-vertical-line-wall-mural-luxury-champagne-stripe-wallpaper-sri-lanka-1791540268602.webp"
   }
 ];
