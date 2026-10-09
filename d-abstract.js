@@ -175,5 +175,34 @@ window.DESIGNS["abstract"]=[
     "full": "abstract-weathered-patchwork-wall-mural-modern-abstract-texture-wallpaper-sri-lanka-1791620992486.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "abstract-1791535388021",
+    "added": "2026-10-09",
+    "title": "Urban Grid Abstract Wall Mural | Modern City Texture Wallpaper Sri Lanka",
+    "desc": "Vibrant urban grid abstract wall mural with a fine mosaic texture in orange, blue and grey. Made-to-measure wallpaper for offices, lounges and cafés in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Hotel",
+      "Café/Restaurant",
+      "Retail",
+      "Salon/Spa",
+      "Gym/Sports Venue (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "abstract-urban-grid-abstract-wall-mural-modern-city-texture-wallpaper-sri-lanka-1791535384908.jfif",
+    "full": "abstract-urban-grid-abstract-wall-mural-modern-city-texture-wallpaper-sri-lanka-1791535384908.jfif"
   }
 ];
