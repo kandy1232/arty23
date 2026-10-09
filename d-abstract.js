@@ -148,21 +148,31 @@ window.DESIGNS["abstract"]=[
   },
   {
     "id": "abstract-006",
-    "title": "Abstract & Geometric Design 6",
+    "title": "Weathered Patchwork Wall Mural | Modern Abstract Texture Wallpaper Sri Lanka",
     "rooms": [
-      "living-room",
-      "bedroom"
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Hotel",
+      "Salon/Spa",
+      "Café/Restaurant",
+      "Retail",
+      "Kitchen & Dining (fallback: Bedroom",
+      "Living Room",
+      "Office)"
     ],
     "material": [
       "textured",
-      "washable"
+      "washable",
+      "wallpaper"
     ],
     "format": "mural",
     "sizes": "Custom size",
-    "price": "",
-    "desc": "Abstract & Geometric wallpaper design. Replace with your own description.",
-    "thumb": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a4ab5%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EAbstract%20%26amp%3B%20Geometric%206%3C/text%3E%3C/svg%3E",
-    "full": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236a4ab5%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EAbstract%20%26amp%3B%20Geometric%206%3C/text%3E%3C/svg%3E",
+    "price": "LKR375 sqft ",
+    "desc": "Modern weathered patchwork wall mural with soft blocks in cream, slate blue and rust. Made-to-measure texture wallpaper for living rooms, offices and hotels in Sri Lanka.",
+    "thumb": "abstract-weathered-patchwork-wall-mural-modern-abstract-texture-wallpaper-sri-lanka-1791620992486.webp",
+    "full": "abstract-weathered-patchwork-wall-mural-modern-abstract-texture-wallpaper-sri-lanka-1791620992486.webp",
     "status": "active",
     "added": "2026-01-01"
   }
