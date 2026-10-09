@@ -262,5 +262,34 @@ window.DESIGNS["abstract"]=[
     "status": "active",
     "thumb": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547439814.webp",
     "full": "abstract-stone-tile-wave-wall-mural-sand-taupe-modern-wallpaper-sri-lanka-1791547439814.webp"
+  },
+  {
+    "id": "abstract-1791548265927",
+    "added": "2026-10-09",
+    "title": "Modern Circles & Lines Wall Mural | Steel Blue Abstract Wallpaper Sri Lanka",
+    "desc": "Clean modern abstract wall mural with soft blue-grey circles, thin black lines and fine stripes on a pale base. Made-to-measure wallpaper for offices, hotels and living rooms in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Office",
+      "Living Room",
+      "Bedroom",
+      "Hallway",
+      "Hotel",
+      "Salon/Spa",
+      "Café/Restaurant",
+      "Retail",
+      "Gym/Sports Venue (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "abstract-modern-circles-lines-wall-mural-steel-blue-abstract-wallpaper-sri-lanka-1791548262819.webp",
+    "full": "abstract-modern-circles-lines-wall-mural-steel-blue-abstract-wallpaper-sri-lanka-1791548262819.webp"
   }
 ];
