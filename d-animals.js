@@ -152,5 +152,32 @@ window.DESIGNS["animals"]=[
     "full": "animals-peacock-lotus-garden-wallpaper-dusty-rose-pattern-sri-lanka-1791652022099.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "animals-1791653242220",
+    "added": "2026-10-10",
+    "title": "anther Garden Wallpaper | Tropical Pattern Sri Lanka",
+    "desc": "Playful panther garden wallpaper with big tropical leaves, peach blossoms and orange flowers on soft green. Repeat pattern wallpaper for bedrooms, cafes and hotels in Sri Lanka.",
+    "price": "LKR375 sqft  ",
+    "sizes": "53cm ",
+    "format": "repeat",
+    "rooms": [
+      "Bedroom",
+      "Living Room",
+      "Hallway",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Retail",
+      "Salon/Spa",
+      "Office",
+      "Kids Room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp",
+    "full": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp"
   }
 ];
