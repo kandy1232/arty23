@@ -127,7 +127,7 @@ window.DESIGNS["animals"]=[
     "format": "panel",
     "sizes": "Custom size",
     "price": "LKR375 sqft ",
-    "desc": "Elegant watercolour Sri Lankan leopard wall mural resting on a mossy branch in soft golden and sage tones. Made-to-measure wallpaper for living rooms, lodges and offices in Sri Lanka.",
+    "desc": "Elegant Sri Lankan leopard wall mural resting on a mossy branch in soft golden and sage tones. Made-to-measure wallpaper for living rooms, lodges and offices in Sri Lanka.",
     "thumb": "animals-sri-lankan-leopard-wall-mural-golden-wildlife-wallpaper-sri-lanka-1791625666936.webp",
     "full": "animals-sri-lankan-leopard-wall-mural-golden-wildlife-wallpaper-sri-lanka-1791625666936.webp",
     "status": "active",
