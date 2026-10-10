@@ -179,5 +179,31 @@ window.DESIGNS["animals"]=[
     "status": "active",
     "thumb": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp",
     "full": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp"
+  },
+  {
+    "id": "animals-1791654278036",
+    "added": "2026-10-10",
+    "title": "Leopard Portrait Wall Mural | Big Cat Photo Wallpaper Sri Lanka",
+    "desc": "Striking leopard portrait wall mural with amber eyes and detailed spotted fur. Made-to-measure photo wallpaper for offices, lounges and bedrooms in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Living Room",
+      "Bedroom",
+      "Office",
+      "Hallway",
+      "Hotel",
+      "Cafe/Restaurant",
+      "Gym/Sports Venue",
+      "Salon/Spa",
+      "Retail"
+    ],
+    "material": [
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "animals-leopard-portrait-wall-mural-big-cat-photo-wallpaper-sri-lanka-1791654275852.webp",
+    "full": "animals-leopard-portrait-wall-mural-big-cat-photo-wallpaper-sri-lanka-1791654275852.webp"
   }
 ];
