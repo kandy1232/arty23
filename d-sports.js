@@ -231,5 +231,24 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-athlete-ink-illustration-wall-mural-sports-wallpaper-sri-lanka-1791809662465.webp",
     "full": "sports-athlete-ink-illustration-wall-mural-sports-wallpaper-sri-lanka-1791809662465.webp"
+  },
+  {
+    "id": "sports-1791809793054",
+    "added": "2026-10-12",
+    "title": "Push Harder Training Wall Mural | Dark Skyline Wallpaper Sri Lanka",
+    "desc": "Bold dark wall mural with PUSH HARDER and NO EXCUSES lettering over a fine city skyline. Made-to-measure training wallpaper for gyms, boxing clubs and home offices in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym",
+      "Sports Venue"
+    ],
+    "material": [
+      "pvc"
+    ],
+    "status": "active",
+    "thumb": "sports-push-harder-training-wall-mural-dark-skyline-wallpaper-sri-lanka-1791809786975.jfif",
+    "full": "sports-push-harder-training-wall-mural-dark-skyline-wallpaper-sri-lanka-1791809786975.jfif"
   }
 ];
