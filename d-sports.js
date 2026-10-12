@@ -213,5 +213,23 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-sports-court-art-wall-mural-playroom-wallpaper-sri-lanka-1791806560205.webp",
     "full": "sports-sports-court-art-wall-mural-playroom-wallpaper-sri-lanka-1791806560205.webp"
+  },
+  {
+    "id": "sports-1791809666676",
+    "added": "2026-10-12",
+    "title": "Athlete Ink Illustration Wall Mural | Sports Wallpaper Sri Lanka",
+    "desc": "Striking ivory ink illustration wall mural of athletes sprinting, cycling, lifting and skipping on a deep black background. Made-to-measure functional training wallpaper for gyms, studios and home offices in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym/Sports Venue"
+    ],
+    "material": [
+      "pvc"
+    ],
+    "status": "active",
+    "thumb": "sports-athlete-ink-illustration-wall-mural-sports-wallpaper-sri-lanka-1791809662465.webp",
+    "full": "sports-athlete-ink-illustration-wall-mural-sports-wallpaper-sri-lanka-1791809662465.webp"
   }
 ];
