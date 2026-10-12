@@ -157,5 +157,33 @@ window.DESIGNS["sports"]=[
     "full": "sports-bowler-watercolour-wall-mural-cricket-wallpaper-sri-lanka-1791804846283.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "sports-1791805696653",
+    "added": "2026-10-12",
+    "title": "ctive Lifestyle Words Wallpaper | Navy Wellness Wall Decor Sri Lanka",
+    "desc": "Navy blue wallpaper with workout words and fitness icons in sunny yellow, sky blue and white. Made-to-measure wellness wallpaper for studios, clinics, teen rooms and offices in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym/Sports Venue",
+      "Salon/Spa",
+      "Bedroom",
+      "Hallway",
+      "Cafe/Restaurant",
+      "Office",
+      "Hotel",
+      "Retail (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "sports-ctive-lifestyle-words-wallpaper-navy-wellness-wall-decor-sri-lanka-1791805690633.jfif",
+    "full": "sports-ctive-lifestyle-words-wallpaper-navy-wellness-wall-decor-sri-lanka-1791805690633.jfif"
   }
 ];
