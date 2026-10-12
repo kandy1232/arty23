@@ -321,5 +321,31 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-morning-run-abstract-wall-mural-wellness-wallpaper-sri-lanka-1791811213584.webp",
     "full": "sports-morning-run-abstract-wall-mural-wellness-wallpaper-sri-lanka-1791811213584.webp"
+  },
+  {
+    "id": "sports-1791813495553",
+    "added": "2026-10-12",
+    "title": "Sports Poster Gallery Wall Mural | Bold Wallpaper Sri Lanka",
+    "desc": ": Bold sports poster wall mural with cricket, volleyball, netball and running tiles in bright colour blocks and big lettering. Made-to-measure wallpaper for sports clubs, school halls and offices in Sri Lanka.",
+    "price": "LKR450 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym/Sports Venue",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Retail",
+      "Kids Room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "sports-sports-poster-gallery-wall-mural-bold-wallpaper-sri-lanka-1791813492316.webp",
+    "full": "sports-sports-poster-gallery-wall-mural-bold-wallpaper-sri-lanka-1791813492316.webp"
   }
 ];
