@@ -275,5 +275,33 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-pastel-blossom-valley-wall-mural-folk-art-wallpaper-sri-lanka-1791194030910.webp",
     "full": "forest-pastel-blossom-valley-wall-mural-folk-art-wallpaper-sri-lanka-1791194030910.webp"
+  },
+  {
+    "id": "forest-1791806490267",
+    "added": "2026-10-12",
+    "title": "Sports Court Art Wall Mural | Playroom Wallpaper Sri Lanka",
+    "desc": "Soft sports-themed wall mural with cricket, netball, volleyball, football and basketball prints on watercolour washes. Made-to-measure wallpaper for kids rooms, playrooms and offices in Sri Lanka.",
+    "price": "LKR450 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Kids Room",
+      "Bedroom",
+      "Hallway",
+      "Gym/Sports Venue",
+      "Office",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Retail (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "forest-sports-court-art-wall-mural-playroom-wallpaper-sri-lanka-1791806487606.webp",
+    "full": "forest-sports-court-art-wall-mural-playroom-wallpaper-sri-lanka-1791806487606.webp"
   }
 ];
