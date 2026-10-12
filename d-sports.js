@@ -185,5 +185,33 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-ctive-lifestyle-words-wallpaper-navy-wellness-wall-decor-sri-lanka-1791805690633.jfif",
     "full": "sports-ctive-lifestyle-words-wallpaper-navy-wellness-wall-decor-sri-lanka-1791805690633.jfif"
+  },
+  {
+    "id": "sports-1791806562456",
+    "added": "2026-10-12",
+    "title": "Sports Court Art Wall Mural | Playroom Wallpaper Sri Lanka",
+    "desc": "Soft sports-themed wall mural with cricket, netball, volleyball, football and basketball prints on watercolour washes. Made-to-measure wallpaper for kids rooms, playrooms and offices in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Kids Room",
+      "Bedroom",
+      "Hallway",
+      "Gym/Sports Venue",
+      "Office",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Retail (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "sports-sports-court-art-wall-mural-playroom-wallpaper-sri-lanka-1791806560205.webp",
+    "full": "sports-sports-court-art-wall-mural-playroom-wallpaper-sri-lanka-1791806560205.webp"
   }
 ];
