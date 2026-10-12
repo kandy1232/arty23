@@ -298,5 +298,28 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-barbell-and-kettlebell-pattern-wallpaper-weight-room-decor-sri-lanka-1791810493346.jfif",
     "full": "sports-barbell-and-kettlebell-pattern-wallpaper-weight-room-decor-sri-lanka-1791810493346.jfif"
+  },
+  {
+    "id": "sports-1791811226250",
+    "added": "2026-10-12",
+    "title": "Morning Run Abstract Wall Mural | Wellness Wallpaper Sri Lanka",
+    "desc": "Modern abstract wall mural of a running woman with dumbbells, kettlebells, botanical sprigs and a warm sun disc on a soft cream base. Made-to-measure wellness wallpaper for studios, bedrooms and offices in Sri Lanka.",
+    "price": "LKR450 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym",
+      "Sports",
+      "Venue",
+      "Salon",
+      "Spa"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "thumb": "sports-morning-run-abstract-wall-mural-wellness-wallpaper-sri-lanka-1791811213584.webp",
+    "full": "sports-morning-run-abstract-wall-mural-wellness-wallpaper-sri-lanka-1791811213584.webp"
   }
 ];
