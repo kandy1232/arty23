@@ -278,5 +278,25 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-graffiti-splash-wall-mural-strength-motivation-wallpaper-sri-lanka-1791809996014.jfif",
     "full": "sports-graffiti-splash-wall-mural-strength-motivation-wallpaper-sri-lanka-1791809996014.jfif"
+  },
+  {
+    "id": "sports-1791810495896",
+    "added": "2026-10-12",
+    "title": "Barbell and Kettlebell Pattern Wallpaper | Weight Room Decor Sri Lanka",
+    "desc": "Bold black and white pattern wallpaper with dumbbells, kettlebells, barbells and gym words in a chalkboard style. Made-to-measure weight room wallpaper for gyms, studios and home gyms in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym",
+      "Sports Venue"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "sports-barbell-and-kettlebell-pattern-wallpaper-weight-room-decor-sri-lanka-1791810493346.jfif",
+    "full": "sports-barbell-and-kettlebell-pattern-wallpaper-weight-room-decor-sri-lanka-1791810493346.jfif"
   }
 ];
