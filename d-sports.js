@@ -250,5 +250,33 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-push-harder-training-wall-mural-dark-skyline-wallpaper-sri-lanka-1791809786975.jfif",
     "full": "sports-push-harder-training-wall-mural-dark-skyline-wallpaper-sri-lanka-1791809786975.jfif"
+  },
+  {
+    "id": "sports-1791809998891",
+    "added": "2026-10-12",
+    "title": "Graffiti Splash Wall Mural | Strength Motivation Wallpaper Sri Lanka",
+    "desc": "Bold graffiti wall mural with huge STRENGTH and ENDURANCE lettering and neon paint splashes on a deep brown wall. Made-to-measure motivation wallpaper for gyms, studios and teen rooms in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym/Sports Venue",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Retail",
+      "Salon/Spa (fallback: Bedroom",
+      "Living Room",
+      "Office)"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "sports-graffiti-splash-wall-mural-strength-motivation-wallpaper-sri-lanka-1791809996014.jfif",
+    "full": "sports-graffiti-splash-wall-mural-strength-motivation-wallpaper-sri-lanka-1791809996014.jfif"
   }
 ];
