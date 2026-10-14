@@ -300,5 +300,28 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-coffee-cup-art-wall-mural-modern-cafe-wallpaper-sri-lanka-1791982311549.webp",
     "full": "cafe-coffee-cup-art-wall-mural-modern-cafe-wallpaper-sri-lanka-1791982311549.webp"
+  },
+  {
+    "id": "cafe-1791984449554",
+    "added": "2026-10-14",
+    "title": "Lemon and Olive Grove Wallpaper | Mediterranean Kitchen Decor Sri Lanka",
+    "desc": "Fresh Mediterranean wallpaper with lemons, oranges, limes, olive branches and herbs in detailed painted colour on a warm cream background. Made-to-measure wallpaper for kitchens, dining rooms and cafes in Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Kitchen",
+      "Dining Room",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Living Room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-lemon-and-olive-grove-wallpaper-mediterranean-kitchen-decor-sri-lanka-1791984446614.webp",
+    "full": "cafe-lemon-and-olive-grove-wallpaper-mediterranean-kitchen-decor-sri-lanka-1791984446614.webp"
   }
 ];
