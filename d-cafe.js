@@ -273,5 +273,32 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-fresh-illustrated-fruit-pattern-wallpaper-mural-for-juice-bar-healthy-cafe-1791981566615.webp",
     "full": "cafe-fresh-illustrated-fruit-pattern-wallpaper-mural-for-juice-bar-healthy-cafe-1791981566615.webp"
+  },
+  {
+    "id": "cafe-1791982314252",
+    "added": "2026-10-14",
+    "title": "Coffee Cup Art Wall Mural | Modern Cafe Wallpaper Sri Lanka",
+    "desc": "Bold modern wall mural of a steaming black coffee cup and roasted beans in a layered collage of teal, mustard and coral shapes. Made-to-measure wallpaper for cafes, co-working lounges and offices in Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Cafe/Restaurant",
+      "Office",
+      "Hotel",
+      "Kitchen",
+      "Dining Room",
+      "Living Room",
+      "Bedroom",
+      "Retail",
+      "Salon/Spa"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-coffee-cup-art-wall-mural-modern-cafe-wallpaper-sri-lanka-1791982311549.webp",
+    "full": "cafe-coffee-cup-art-wall-mural-modern-cafe-wallpaper-sri-lanka-1791982311549.webp"
   }
 ];
