@@ -373,5 +373,32 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-vintage-coffee-bakery-pattern-wallpaper-mural-for-cafe-bistro-dessert-shop-1791984829466.webp",
     "full": "cafe-vintage-coffee-bakery-pattern-wallpaper-mural-for-cafe-bistro-dessert-shop-1791984829466.webp"
+  },
+  {
+    "id": "cafe-1791985028941",
+    "added": "2026-10-14",
+    "title": "Contemporary Coffee and Pastry Seamless Wallpaper Mural for Cafés & Bakeries",
+    "desc": "Brighten up your dining and counter space with this contemporary coffee and pastry seamless wallpaper mural. Designed with a stylish, modern-retro repeat pattern in a warm, comforting palette of cream, muted blue, earthy ochre, and natural tan, it features hand-drawn illustrations of classic moka pots, espresso cups, latte art, flaky croissants, and delicate botanical foliage and grain sprigs. This beautifully patterned wall mural is the perfect backdrop for neighborhood cafés, bustling coffee shops, artisan bakeries, and brunch spots looking to create a cozy, stylish, and welcoming visual experience. Custom-printed on durable, high-quality, and easy-to-clean materials, tailored to your exact wall dimensions.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Cafe",
+      "Coffee Shop",
+      "Bakery",
+      "Restaurant",
+      "Dining Room",
+      "Bistro",
+      "Kitchen",
+      "Commercial Space",
+      "Dessert Shop"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "cafe-contemporary-coffee-and-pastry-seamless-wallpaper-mural-for-caf-s-bakeries-1791985025927.webp",
+    "full": "cafe-contemporary-coffee-and-pastry-seamless-wallpaper-mural-for-caf-s-bakeries-1791985025927.webp"
   }
 ];
