@@ -197,5 +197,31 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-rustic-street-food-and-grill-vintage-grid-wallpaper-mural-for-diner-casual-restaurant-1791968776367.webp",
     "full": "cafe-rustic-street-food-and-grill-vintage-grid-wallpaper-mural-for-diner-casual-restaurant-1791968776367.webp"
+  },
+  {
+    "id": "cafe-1791970109404",
+    "added": "2026-10-14",
+    "title": "Fresh Subway and Salad Bar Vintage Grid Wallpaper Mural for Healthy Food Cafe & Juice Shop",
+    "desc": "Brighten up your dining space with this custom vintage Subway & Salad Bar wallpaper mural. Designed with an natural, organic color-block grid in leaf green, vibrant carrot orange, and warm wheat beige, it features hand-drawn chalk-style illustrations of fresh salad bowls, sandwiches, avocados, wraps, and healthy ingredients, paired with rustic typography like \"SALAD\", \"FRESH\", and \"NATURAL\". Perfect for healthy food cafes, salad bars, submarine sandwich shops, juice and smoothie bars, and vegetarian restaurants looking for a fresh, wholesome, and welcoming vibe. Highly durable, easy to clean, and custom-printed to your exact wall dimensions.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Restaurant",
+      "Cafe",
+      "Dining Room",
+      "Salad Bar",
+      "Juice Bar",
+      "Commercial",
+      "Food Court",
+      "Kitchen"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-fresh-subway-and-salad-bar-vintage-grid-wallpaper-mural-for-healthy-food-cafe-juice-shop-1791970106340.webp",
+    "full": "cafe-fresh-subway-and-salad-bar-vintage-grid-wallpaper-mural-for-healthy-food-cafe-juice-shop-1791970106340.webp"
   }
 ];
