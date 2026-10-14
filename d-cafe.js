@@ -250,5 +250,28 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-colorful-kitchen-and-cafe-vintage-collage-wallpaper-mural-for-restaurant-diner-1791978013599.webp",
     "full": "cafe-colorful-kitchen-and-cafe-vintage-collage-wallpaper-mural-for-restaurant-diner-1791978013599.webp"
+  },
+  {
+    "id": "cafe-1791981588940",
+    "added": "2026-10-14",
+    "title": "Fresh Illustrated Fruit Pattern Wallpaper Mural for Juice Bar & Healthy Cafe",
+    "desc": "Vibrant custom fruit-themed wallpaper mural based on image_16.png. Featuring a hand-painted, playful artistic print of oranges, pineapples, bananas, strawberries, and apples on an off-white background, complete with colorful handwritten text like \"ORANGE\", \"Kiwi\", \"banana\", \"Pineapple\", \"APPLE\", \"PEAR\", \"strawberry\", \"cherry\", and \"black BERRY\". Perfect for a modern juice bar, healthy food cafe, salad bar, smoothie shop, or breakfast diner looking for an organic, inviting, and high-energy atmosphere. High-quality, durable, and custom-printed to your exact wall dimensions.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Restaurant",
+      "Cafe",
+      "Dining Room",
+      "Salad Bar",
+      "Juice Bar",
+      "Commercial",
+      "Food Court",
+      "Kitchen"
+    ],
+    "material": [],
+    "status": "active",
+    "thumb": "cafe-fresh-illustrated-fruit-pattern-wallpaper-mural-for-juice-bar-healthy-cafe-1791981566615.webp",
+    "full": "cafe-fresh-illustrated-fruit-pattern-wallpaper-mural-for-juice-bar-healthy-cafe-1791981566615.webp"
   }
 ];
