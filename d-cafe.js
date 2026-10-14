@@ -147,5 +147,29 @@ window.DESIGNS["cafe"]=[
     "full": "cafe-food-and-drink-icon-wall-mural-snack-bar-wallpaper-sri-lanka-1791968214932.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "cafe-1791968566667",
+    "added": "2026-10-14",
+    "title": "Maritime Fish and Chips Vintage Grid Wallpaper Mural for Seafood Restaurant & Café",
+    "desc": "Enhance your dining space with this custom vintage maritime fish and chips wallpaper mural. Featuring an eye-catching retro color-block grid with nautical icons, fresh seafood graphics, coastal anchors, and rustic weathered textures, this wall covering creates an authentic seaside ambiance. Perfectly tailored for seafood restaurants, fish and chips bars, coastal cafés, beach bistro dining rooms, and fast-casual food outlets. Durable, wipeable, and custom-printed to your exact wall dimensions.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Restaurant",
+      "Café",
+      "Commercial",
+      "Dining Room",
+      "Kitchen",
+      "Food Court"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-maritime-fish-and-chips-vintage-grid-wallpaper-mural-for-seafood-restaurant-caf-1791968564113.webp",
+    "full": "cafe-maritime-fish-and-chips-vintage-grid-wallpaper-mural-for-seafood-restaurant-caf-1791968564113.webp"
   }
 ];
