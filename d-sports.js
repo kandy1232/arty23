@@ -347,5 +347,28 @@ window.DESIGNS["sports"]=[
     "status": "active",
     "thumb": "sports-sports-poster-gallery-wall-mural-bold-wallpaper-sri-lanka-1791813492316.webp",
     "full": "sports-sports-poster-gallery-wall-mural-bold-wallpaper-sri-lanka-1791813492316.webp"
+  },
+  {
+    "id": "sports-1791953657898",
+    "added": "2026-10-14",
+    "title": "Urban Street Art Sports Wall Mural | Bold Paint Wash Wallpaper Sri Lanka",
+    "desc": "Bold street-art wall mural with ink-style athletes, hand-lettered slogans and vivid paint washes in orange, green and blue. Made-to-measure wallpaper for gyms, studios and boxing clubs in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Gym/Sports Venue",
+      "Bedroom",
+      "Hallway",
+      "Office",
+      "Cafe/Restaurant",
+      "Hotel",
+      "Retail",
+      "Salon/Spa"
+    ],
+    "material": [],
+    "status": "active",
+    "thumb": "sports-urban-street-art-sports-wall-mural-bold-paint-wash-wallpaper-sri-lanka-1791953653783.webp",
+    "full": "sports-urban-street-art-sports-wall-mural-bold-paint-wash-wallpaper-sri-lanka-1791953653783.webp"
   }
 ];
