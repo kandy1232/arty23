@@ -400,5 +400,31 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-contemporary-coffee-and-pastry-seamless-wallpaper-mural-for-caf-s-bakeries-1791985025927.webp",
     "full": "cafe-contemporary-coffee-and-pastry-seamless-wallpaper-mural-for-caf-s-bakeries-1791985025927.webp"
+  },
+  {
+    "id": "cafe-1791985511460",
+    "added": "2026-10-14",
+    "title": "Aromatic Herbs and Spices Botanical Wallpaper Mural for Commercial Kitchen & Dining",
+    "desc": "Elevate your culinary interior with this botanical aromatic herbs and spices wallpaper mural. Featuring an elegant, detailed botanical illustration of fresh rosemary, basil, bay leaves, mint, cinnamon sticks, star anise, cardamom pods, and dried chili peppers on a warm cream background, this design brings warmth and culinary artistry to any food preparation or dining environment. Perfectly suited for commercial mass kitchens, restaurant dining halls, farm-to-table eateries, bakeries, pizzerias, and culinary studios. Custom-printed on durable, wipeable, high-grade wallpaper material tailored to your exact wall dimensions.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Commercial Kitchen",
+      "Restaurant",
+      "Dining Hall",
+      "Food Court",
+      "Cafe",
+      "Bistro",
+      "Culinary Studio",
+      "Hotel Kitchen"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-aromatic-herbs-and-spices-botanical-wallpaper-mural-for-commercial-kitchen-dining-1791985508590.webp",
+    "full": "cafe-aromatic-herbs-and-spices-botanical-wallpaper-mural-for-commercial-kitchen-dining-1791985508590.webp"
   }
 ];
