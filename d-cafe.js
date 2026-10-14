@@ -223,5 +223,32 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-fresh-subway-and-salad-bar-vintage-grid-wallpaper-mural-for-healthy-food-cafe-juice-shop-1791970106340.webp",
     "full": "cafe-fresh-subway-and-salad-bar-vintage-grid-wallpaper-mural-for-healthy-food-cafe-juice-shop-1791970106340.webp"
+  },
+  {
+    "id": "cafe-1791978016759",
+    "added": "2026-10-14",
+    "title": "Colorful Kitchen and Cafe Vintage Collage Wallpaper Mural for Restaurant & Diner",
+    "desc": "Brighten up your F&B interior with this custom colorful kitchen and café-themed collage wallpaper mural. Designed with a vibrant, heavily distressed retro block layout in cherry red, mustard yellow, jade green, and teal blue, it features hand-drawn illustrations of culinary tools, sweet treats, and fresh veggies like whisks, coffee cups, baking utensils, tomatoes, and vintage typography reading \"WHISK IT!\", \"delicious\", \"COFFEE\", \"spice it up\", \"SPOONFUL OF SUGAR\", \"STIR IT UP!\", and \"roast it!\". Perfect for busy diners, casual restaurants, pastry shops, school cafeterias, hotel breakfast rooms, and eclectic eating outlets seeking a high-energy, nostalgic, and welcoming vibe. Made with durable, wipeable, and custom-printed materials to fit your exact wall dimensions.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Restaurant",
+      "Diner",
+      "Casual Dining",
+      "Café",
+      "Fast Food Outlet",
+      "Kitchen",
+      "Hotel Breakfast Room",
+      "Play Area",
+      "Commercial Space"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-colorful-kitchen-and-cafe-vintage-collage-wallpaper-mural-for-restaurant-diner-1791978013599.webp",
+    "full": "cafe-colorful-kitchen-and-cafe-vintage-collage-wallpaper-mural-for-restaurant-diner-1791978013599.webp"
   }
 ];
