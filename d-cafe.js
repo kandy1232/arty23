@@ -346,5 +346,32 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-ice-cream-and-bubble-tea-wall-mural-cute-dessert-shop-wallpaper-sri-lanka-1791984647068.webp",
     "full": "cafe-ice-cream-and-bubble-tea-wall-mural-cute-dessert-shop-wallpaper-sri-lanka-1791984647068.webp"
+  },
+  {
+    "id": "cafe-1791984842602",
+    "added": "2026-10-14",
+    "title": "Vintage Coffee & Bakery Pattern Wallpaper Mural for Cafe, Bistro, & Dessert Shop",
+    "desc": "Transform your cafe with this custom vintage coffee and pastry wallpaper mural. Featuring a warm, natural hand-painted pattern filled with retro moka pots, espresso cups, croissants, baguettes, pain au chocolat, wheat stalks, and coffee cherries, it captures the perfect old-world European bakery aesthetic. Ideal for cafes, artisan bakeries, dessert shops, bistros, and hotel breakfast rooms looking to create a cozy, nostalgic, and inviting atmosphere. Custom-printed on premium, durable, and easy-to-clean material to fit your exact wall dimensions perfectly.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Cafe",
+      "Bakery",
+      "Restaurant",
+      "Dining Room",
+      "Bistro",
+      "Kitchen",
+      "Commercial Space",
+      "Dessert Shop",
+      "Coffee Shop"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-vintage-coffee-bakery-pattern-wallpaper-mural-for-cafe-bistro-dessert-shop-1791984829466.webp",
+    "full": "cafe-vintage-coffee-bakery-pattern-wallpaper-mural-for-cafe-bistro-dessert-shop-1791984829466.webp"
   }
 ];
