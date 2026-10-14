@@ -194,6 +194,8 @@ window.DESIGNS["cafe"]=[
       "vinyl",
       "non-woven"
     ],
-    "status": "active"
+    "status": "active",
+    "thumb": "cafe-rustic-street-food-and-grill-vintage-grid-wallpaper-mural-for-diner-casual-restaurant-1791968776367.webp",
+    "full": "cafe-rustic-street-food-and-grill-vintage-grid-wallpaper-mural-for-diner-casual-restaurant-1791968776367.webp"
   }
 ];
