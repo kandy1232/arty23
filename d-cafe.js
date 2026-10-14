@@ -171,5 +171,29 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-maritime-fish-and-chips-vintage-grid-wallpaper-mural-for-seafood-restaurant-caf-1791968564113.webp",
     "full": "cafe-maritime-fish-and-chips-vintage-grid-wallpaper-mural-for-seafood-restaurant-caf-1791968564113.webp"
+  },
+  {
+    "id": "cafe-1791968723074",
+    "added": "2026-10-14",
+    "title": "Rustic Street Food and Grill Vintage Grid Wallpaper Mural for Diner & Casual Restaurant",
+    "desc": "Transform your dining area with this custom vintage street food and grill wallpaper mural. Featuring an eye-catching, heavily distressed color-block grid in charcoal gray, brick red, and mustard yellow, it showcases hand-drawn illustrations of food trucks, skewers, kebabs, grilled meats, and BBQ burgers, alongside bold typography reading \"STREET FOOD\", \"GRILL\", and \"YUM\". Perfect for busy diners, casual restaurants, burgers & grill outlets, sports bars, and fast-casual food courts seeking a gritty, industrial, or nostalgic vibe. Highly durable, easy to clean, and custom-printed to fit your wall dimensions perfectly.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Restaurant",
+      "Diner",
+      "Casual Dining",
+      "Café",
+      "Food Court",
+      "Sports Bar",
+      "Kitchen",
+      "Commercial Space"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active"
   }
 ];
