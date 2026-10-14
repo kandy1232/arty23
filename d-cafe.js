@@ -323,5 +323,28 @@ window.DESIGNS["cafe"]=[
     "status": "active",
     "thumb": "cafe-lemon-and-olive-grove-wallpaper-mediterranean-kitchen-decor-sri-lanka-1791984446614.webp",
     "full": "cafe-lemon-and-olive-grove-wallpaper-mediterranean-kitchen-decor-sri-lanka-1791984446614.webp"
+  },
+  {
+    "id": "cafe-1791984650065",
+    "added": "2026-10-14",
+    "title": "Ice Cream and Bubble Tea Wall Mural | Cute Dessert Shop Wallpaper Sri Lanka",
+    "desc": "Cheerful cut-paper wall mural with ice cream cones, a bubble tea cup, popsicles, mango and sprinkles in soft pink, mint and lilac. Made-to-measure wallpaper for ice cream shops, bubble tea bars and cafes in Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Cafe/Restaurant",
+      "Kids Room",
+      "Hotel",
+      "Retail",
+      "Kitchen"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "cafe-ice-cream-and-bubble-tea-wall-mural-cute-dessert-shop-wallpaper-sri-lanka-1791984647068.webp",
+    "full": "cafe-ice-cream-and-bubble-tea-wall-mural-cute-dessert-shop-wallpaper-sri-lanka-1791984647068.webp"
   }
 ];
