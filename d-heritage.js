@@ -21,8 +21,8 @@ window.DESIGNS["heritage"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "Elegant wallpaper with moonstone-inspired medallions, lotus flowers and creeper scrolls in antique gold on deep green. Made-to-measure heritage wallpaper for hotels, dining rooms and hallways in Sri Lanka.",
-    "thumb": "heritage-moonstone-and-lotus-pattern-wallpaper-heritage-gold-decor-sri-lanka-1792061379486.webp",
-    "full": "heritage-moonstone-and-lotus-pattern-wallpaper-heritage-gold-decor-sri-lanka-1792061379486.webp",
+    "thumb": "heritage-moonstone-and-lotus-pattern-wallpaper-heritage-gold-decor-sri-lanka-1792063188307.webp",
+    "full": "heritage-moonstone-and-lotus-pattern-wallpaper-heritage-gold-decor-sri-lanka-1792063188307.webp",
     "status": "active",
     "added": "2026-01-01"
   },
