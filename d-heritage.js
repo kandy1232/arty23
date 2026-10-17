@@ -153,5 +153,29 @@ window.DESIGNS["heritage"]=[
     "full": "heritage-sri-lankan-heritage-panorama-wallpaper-mural-1792258008433.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "heritage-1792258407108",
+    "added": "2026-10-17",
+    "title": "Emerald Gold Lotus Mandala Heritage Wallpaper Mural",
+    "desc": "A rich emerald green and antique gold mandala mural with a central lotus, concentric rings of elephants, horses, lions and swans, and climbing lotus buds and vines. Inspired by traditional Sri Lankan carved stone motifs, in a stylised decorative pattern. A luxurious feature wall for hotel lobbies, lounges, restaurants and living rooms.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "hotel",
+      "living-room",
+      "cafe-restaurant",
+      "hallway",
+      "office",
+      "salon-spa"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "heritage-emerald-gold-lotus-mandala-heritage-wallpaper-mural-1792258404305.webp",
+    "full": "heritage-emerald-gold-lotus-mandala-heritage-wallpaper-mural-1792258404305.webp"
   }
 ];
