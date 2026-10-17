@@ -202,5 +202,25 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-sri-lankan-beach-lagoon-palm-wallpaper-mural-1792258498108.webp",
     "full": "heritage-sri-lankan-beach-lagoon-palm-wallpaper-mural-1792258498108.webp"
+  },
+  {
+    "id": "heritage-1792260468523",
+    "added": "2026-10-17",
+    "title": "The Temple of the Sacred Tooth Relic Wallpaper Mural sri lanka ",
+    "desc": "A soft watercolour mural of a hill-country temple building in the classic Kandyan style, with a white layered octagonal tower, a terracotta-red pavilion roof, long slate-tiled halls and a scalloped white wall, set against green hills and a pale blue sky. Light, airy tones with gentle washes and a fine paper grain. A calm, elegant feature wall for living rooms, hotels, lounges and reception areas. A stylised illustration, not an accurate depiction of any real site.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "hotel"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "heritage-the-temple-of-the-sacred-tooth-relic-wallpaper-mural-sri-lanka-1792260465699.webp",
+    "full": "heritage-the-temple-of-the-sacred-tooth-relic-wallpaper-mural-sri-lanka-1792260465699.webp"
   }
 ];
