@@ -177,5 +177,30 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-emerald-gold-lotus-mandala-heritage-wallpaper-mural-1792258404305.webp",
     "full": "heritage-emerald-gold-lotus-mandala-heritage-wallpaper-mural-1792258404305.webp"
+  },
+  {
+    "id": "heritage-1792258502022",
+    "added": "2026-10-17",
+    "title": " Sri Lankan Beach Lagoon Palm Wallpaper Mural",
+    "desc": "A soft boho coastal mural of a Sri Lankan beach, with a turquoise lagoon, a coral sun disc, sage and coral palms, stilt fishing poles, small boats and a lighthouse-style tower on a rocky headland. Airy aqua, sand and peach tones with fine contour lines and a gentle watercolour grain. A calm feature wall for living rooms, bedrooms, resorts, cafes and spas. A stylised illustration, not an accurate depiction of any real place.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "hallway",
+      "bathroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "heritage-sri-lankan-beach-lagoon-palm-wallpaper-mural-1792258498108.webp",
+    "full": "heritage-sri-lankan-beach-lagoon-palm-wallpaper-mural-1792258498108.webp"
   }
 ];
