@@ -39,8 +39,8 @@ window.DESIGNS["kids"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "A cheerful pattern of friendly dogs in mustard, terracotta, teal and charcoal, each with its own patterned coat, scattered on a warm cream background. A fun, modern repeat print for kids rooms, nurseries, playrooms and pet-friendly spaces. Custom printed to your exact wall size.",
-    "thumb": "kids-playful-dogs-kids-wallpaper-sri-lanka-1792299505739.png",
-    "full": "kids-playful-dogs-kids-wallpaper-sri-lanka-1792299505739.png",
+    "thumb": "kids-playful-dogs-kids-wallpaper-sri-lanka-1792311418094.webp",
+    "full": "kids-playful-dogs-kids-wallpaper-sri-lanka-1792311418094.webp",
     "status": "active",
     "added": "2026-01-01"
   },
