@@ -245,5 +245,29 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-batik-style-sri-lankan-elephant-procession-wallpaper-mural-1792295865718.webp",
     "full": "heritage-batik-style-sri-lankan-elephant-procession-wallpaper-mural-1792295865718.webp"
+  },
+  {
+    "id": "heritage-1792296034049",
+    "added": "2026-10-18",
+    "title": "Red and Gold Sri Lankan Elephant Procession Wallpaper Mural",
+    "desc": "A rich red and gold mural of richly decorated ceremonial elephants under a golden canopy, with attendants, drummers, fans and parasols, framed by blossoming trees, sunburst medallions and a lotus floral border. Deep crimson, saffron and cream tones in a traditional folk art style. A dramatic feature wall for hotel suites, lobbies, restaurants and lounges. A stylised illustration, not an accurate depiction of any real event or place.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "hotel",
+      "bedroom",
+      "cafe-restaurant",
+      "hallway",
+      "living-room",
+      "office"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "heritage-red-and-gold-sri-lankan-elephant-procession-wallpaper-mural-1792296031448.webp",
+    "full": "heritage-red-and-gold-sri-lankan-elephant-procession-wallpaper-mural-1792296031448.webp"
   }
 ];
