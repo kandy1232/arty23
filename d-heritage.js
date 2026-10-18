@@ -269,5 +269,28 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-red-and-gold-sri-lankan-elephant-procession-wallpaper-mural-1792296031448.webp",
     "full": "heritage-red-and-gold-sri-lankan-elephant-procession-wallpaper-mural-1792296031448.webp"
+  },
+  {
+    "id": "heritage-1792296400228",
+    "added": "2026-10-18",
+    "title": "Watercolour Sri Lankan Hill Country Temple Wallpaper Mural ",
+    "desc": "A soft watercolour mural of a hill-country temple complex in the classic Kandyan style, with a white layered octagonal tower, a terracotta-red pavilion roof, long slate-tiled halls and a scalloped white wall with triangular cut-outs, set against green hills and a blue watercolour sky. Warm cream, terracotta and sage tones with gentle washes and a fine paper grain. A calm, elegant feature wall for living rooms, hotels, lounges and reception areas. A stylised watercolour illustration.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "hotel",
+      "hallway",
+      "office",
+      "cafe-restaurant"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "heritage-watercolour-sri-lankan-hill-country-temple-wallpaper-mural-1792296398030.webp",
+    "full": "heritage-watercolour-sri-lankan-hill-country-temple-wallpaper-mural-1792296398030.webp"
   }
 ];
