@@ -222,5 +222,28 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-the-temple-of-the-sacred-tooth-relic-wallpaper-mural-sri-lanka-1792260465699.webp",
     "full": "heritage-the-temple-of-the-sacred-tooth-relic-wallpaper-mural-sri-lanka-1792260465699.webp"
+  },
+  {
+    "id": "heritage-1792295867932",
+    "added": "2026-10-18",
+    "title": "Batik Style Sri Lankan Elephant Procession Wallpaper Mural",
+    "desc": "A vibrant batik-style mural of a richly decorated ceremonial elephant under a canopy, with attendants in white, ornate sun discs and bold patterns in red, saffron and white with a fine crackle texture. A striking feature wall for hotel lobbies, restaurants, lounges and reception areas. A stylised folk art illustration, not an accurate depiction of any real event or place.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "hotel",
+      "cafe-restaurant",
+      "hallway",
+      "office",
+      "living-room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "heritage-batik-style-sri-lankan-elephant-procession-wallpaper-mural-1792295865718.webp",
+    "full": "heritage-batik-style-sri-lankan-elephant-procession-wallpaper-mural-1792295865718.webp"
   }
 ];
