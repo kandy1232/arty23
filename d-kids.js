@@ -145,5 +145,27 @@ window.DESIGNS["kids"]=[
     "status": "active",
     "thumb": "kids-pastel-toy-town-kids-wall-mural-sri-lanka-1792310514612.webp",
     "full": "kids-pastel-toy-town-kids-wall-mural-sri-lanka-1792310514612.webp"
+  },
+  {
+    "id": "kids-1792310953495",
+    "added": "2026-10-18",
+    "title": "Farmyard Patchwork Kids Wallpaper Sri Lanka",
+    "desc": "A gentle watercolour patchwork of farmyard friends in sage green and cream squares, with fluffy ducks, a barn, lambs, chicks, carrots, rain boots, wildflowers and soft gingham panels. A calm, natural repeat print for nurseries, kids rooms, baby rooms and playrooms. Custom printed to your exact wall size.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom",
+      "hallway",
+      "cafe-restaurant"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "kids-farmyard-patchwork-kids-wallpaper-sri-lanka-1792310950537.webp",
+    "full": "kids-farmyard-patchwork-kids-wallpaper-sri-lanka-1792310950537.webp"
   }
 ];
