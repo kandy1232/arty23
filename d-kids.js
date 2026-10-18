@@ -207,6 +207,8 @@ window.DESIGNS["kids"]=[
       "vinyl",
       "non-woven"
     ],
-    "status": "active"
+    "status": "active",
+    "thumb": "kids-fairytale-woodland-cottage-strawberry-kids-wall-mural-sri-lanka-1792314222634.webp",
+    "full": "kids-fairytale-woodland-cottage-strawberry-kids-wall-mural-sri-lanka-1792314222634.webp"
   }
 ];
