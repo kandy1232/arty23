@@ -210,5 +210,24 @@ window.DESIGNS["kids"]=[
     "status": "active",
     "thumb": "kids-fairytale-woodland-cottage-strawberry-kids-wall-mural-sri-lanka-1792314222634.webp",
     "full": "kids-fairytale-woodland-cottage-strawberry-kids-wall-mural-sri-lanka-1792314222634.webp"
+  },
+  {
+    "id": "kids-1792315951760",
+    "added": "2026-10-18",
+    "title": "Jungle Safari Animals Kids Wall Mural Sri Lanka",
+    "desc": "Colorful hand-painted jungle safari wall mural featuring a friendly lion, giraffes, zebra, elephant, hippo and tiger among lush tropical leaves and bright flowers. Perfect for kids' bedrooms, nurseries and playrooms in Sri Lanka. Custom printed to your exact wall size by ARTYHOMES, Colombo, and quoted per sq ft. Request a free quote on WhatsApp.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Jungle Safari Animals Kids Wall Mural Sri Lanka"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "kids-jungle-safari-animals-kids-wall-mural-sri-lanka-1792315948478.webp",
+    "full": "kids-jungle-safari-animals-kids-wall-mural-sri-lanka-1792315948478.webp"
   }
 ];
