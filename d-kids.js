@@ -123,5 +123,27 @@ window.DESIGNS["kids"]=[
     "full": "kids-friendly-jungle-animals-kids-wall-mural-sri-lanka-1792309791171.png",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "kids-1792310518374",
+    "added": "2026-10-18",
+    "title": "Pastel Toy Town Kids Wall Mural Sri Lanka",
+    "desc": "A cheerful pastel wall mural of a little hill town with pink, yellow and mint houses, propeller planes, clouds and stars, and a friendly parade of toy-style buses, a tuk-tuk, a tram and a train on a winding road. Soft sky blue, blush, mint and butter yellow tones with the vehicles placed low so the mural works above furniture. A fun, calm feature wall for kids rooms, nurseries and playrooms. Custom printed to your exact wall size.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom",
+      "hallway",
+      "cafe-restaurant"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "kids-pastel-toy-town-kids-wall-mural-sri-lanka-1792310514612.webp",
+    "full": "kids-pastel-toy-town-kids-wall-mural-sri-lanka-1792310514612.webp"
   }
 ];
