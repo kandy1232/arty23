@@ -17,8 +17,8 @@ window.DESIGNS["kids"]=[
     "sizes": "Custom size",
     "price": "LKR375 sqft ",
     "desc": "A playful jungle pattern of tigers, elephants, monkeys, parrots, palm trees and tropical flowers on a soft cream background, in sage green, teal, mustard and blush tones. A cheerful, calm repeat print for kids rooms, nurseries, playrooms and family spaces. Custom printed to your exact wall size.",
-    "thumb": "kids-jungle-animals-and-palm-kids-wallpaper-sri-lanka-1792297754363.png",
-    "full": "kids-jungle-animals-and-palm-kids-wallpaper-sri-lanka-1792297754363.png",
+    "thumb": "kids-jungle-animals-and-palm-kids-wallpaper-sri-lanka-1792311381135.webp",
+    "full": "kids-jungle-animals-and-palm-kids-wallpaper-sri-lanka-1792311381135.webp",
     "status": "active",
     "added": "2026-01-01"
   },
