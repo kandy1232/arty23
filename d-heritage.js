@@ -292,5 +292,29 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-watercolour-sri-lankan-hill-country-temple-wallpaper-mural-1792296398030.webp",
     "full": "heritage-watercolour-sri-lankan-hill-country-temple-wallpaper-mural-1792296398030.webp"
+  },
+  {
+    "id": "heritage-1792296677771",
+    "added": "2026-10-18",
+    "title": "Sri Lankan Dagaba Lotus Pond Wallpaper Mural",
+    "desc": "A calm boho mural of a peaceful Sri Lankan temple garden at dawn, with a white dome-shaped dagoba, a lotus pond with pink and white blooms, old stone pillars and steps, and a winding stone path through soft green trees. Misty hills and a blush sun disc complete the view in sage, cream, blush and soft sand tones, with fine contour lines and a gentle watercolour grain. A serene feature wall for wellness rooms, spas, hotels, bedrooms and lounges. A stylised illustration, not an accurate depiction of any real site.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "salon-spa",
+      "bedroom",
+      "living-room",
+      "hotel",
+      "office",
+      "hallway"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "heritage-sri-lankan-dagaba-lotus-pond-wallpaper-mural-1792296674920.webp",
+    "full": "heritage-sri-lankan-dagaba-lotus-pond-wallpaper-mural-1792296674920.webp"
   }
 ];
