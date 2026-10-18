@@ -35,7 +35,7 @@ window.DESIGNS["kids"]=[
       "textured",
       "washable"
     ],
-    "format": "panel",
+    "format": "repeat",
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "A cheerful pattern of friendly dogs in mustard, terracotta, teal and charcoal, each with its own patterned coat, scattered on a warm cream background. A fun, modern repeat print for kids rooms, nurseries, playrooms and pet-friendly spaces. Custom printed to your exact wall size.",
