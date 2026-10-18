@@ -187,5 +187,26 @@ window.DESIGNS["kids"]=[
     "status": "active",
     "thumb": "kids-pastel-spring-bunnies-and-tulips-wall-mural-sri-lanka-1792312444290.webp",
     "full": "kids-pastel-spring-bunnies-and-tulips-wall-mural-sri-lanka-1792312444290.webp"
+  },
+  {
+    "id": "kids-1792314198085",
+    "added": "2026-10-18",
+    "title": "Fairytale Woodland Cottage Strawberry Kids Wall Mural Sri Lanka",
+    "desc": "A fresh storybook wall mural of a little round cottage with a spotted mushroom-cap roof in a sunny woodland clearing, with a tiny fox, toadstools, butterflies and a lush meadow of oversized strawberries and wildflowers. Lime green, sage, cream, terracotta and strawberry red tones, with the main scenes placed low so the mural works above furniture. A cheerful feature wall for kids rooms, nurseries and playrooms. Custom printed to your exact wall size.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom",
+      "hallway",
+      "cafe-restaurant",
+      "living-room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active"
   }
 ];
