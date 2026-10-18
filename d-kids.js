@@ -239,11 +239,8 @@ window.DESIGNS["kids"]=[
     "sizes": "Custom size",
     "format": "mural",
     "rooms": [
-      "Dreamy watercolor unicorn and princess wall mural with a magical pink fairytale castle",
-      "soft pastel clouds and blooming flowers. Perfect for girls' bedrooms",
-      "nurseries and playrooms in Sri Lanka. Custom printed to your exact wall size by ARTYHOMES",
-      "Colombo",
-      "and quoted per sq ft. Request a free quote on WhatsApp."
+      "kids-room",
+      "bedroom"
     ],
     "material": [
       "vinyl",
