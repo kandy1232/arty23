@@ -247,7 +247,7 @@ window.DESIGNS["kids"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792316848856.webp",
-    "full": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792316848856.webp"
+    "thumb": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792317078740.webp",
+    "full": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792317078740.webp"
   }
 ];
