@@ -229,5 +229,28 @@ window.DESIGNS["kids"]=[
     "status": "active",
     "thumb": "kids-jungle-safari-animals-kids-wall-mural-sri-lanka-1792315948478.webp",
     "full": "kids-jungle-safari-animals-kids-wall-mural-sri-lanka-1792315948478.webp"
+  },
+  {
+    "id": "kids-1792316851400",
+    "added": "2026-10-18",
+    "title": "Unicorn Princess Castle Kids Wall Mural Sri Lanka",
+    "desc": "Dreamy watercolor unicorn and princess wall mural with a magical pink fairytale castle, soft pastel clouds and blooming flowers. Perfect for girls' bedrooms, nurseries and playrooms in Sri Lanka. Custom printed to your exact wall size by ARTYHOMES, Colombo, and quoted per sq ft. Request a free quote on WhatsApp.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "Dreamy watercolor unicorn and princess wall mural with a magical pink fairytale castle",
+      "soft pastel clouds and blooming flowers. Perfect for girls' bedrooms",
+      "nurseries and playrooms in Sri Lanka. Custom printed to your exact wall size by ARTYHOMES",
+      "Colombo",
+      "and quoted per sq ft. Request a free quote on WhatsApp."
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792316848856.webp",
+    "full": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792316848856.webp"
   }
 ];
