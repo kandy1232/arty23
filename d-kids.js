@@ -167,5 +167,25 @@ window.DESIGNS["kids"]=[
     "status": "active",
     "thumb": "kids-farmyard-patchwork-kids-wallpaper-sri-lanka-1792310950537.webp",
     "full": "kids-farmyard-patchwork-kids-wallpaper-sri-lanka-1792310950537.webp"
+  },
+  {
+    "id": "kids-1792312456902",
+    "added": "2026-10-18",
+    "title": "Pastel Spring Bunnies and Tulips Wall Mural Sri Lanka",
+    "desc": "A dreamy pastel wall mural of cuddly rabbits among blush, yellow and lilac tulips beside a gentle stream, with flowering lilac trees, a small garden cottage and soft rolling hills under a swirling lavender sky. Calm lavender, blush, aqua and cream tones with the rabbits placed low so the mural works above furniture. A soft feature wall for kids rooms, nurseries and bedrooms. Custom printed to your exact wall size.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "kids-pastel-spring-bunnies-and-tulips-wall-mural-sri-lanka-1792312444290.webp",
+    "full": "kids-pastel-spring-bunnies-and-tulips-wall-mural-sri-lanka-1792312444290.webp"
   }
 ];
