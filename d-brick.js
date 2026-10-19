@@ -292,5 +292,33 @@ window.DESIGNS["brick"]=[
     "status": "active",
     "thumb": "brick-dark-burgundy-glazed-brick-wallpaper-sri-lanka-1792403199991.webp",
     "full": "brick-dark-burgundy-glazed-brick-wallpaper-sri-lanka-1792403199991.webp"
+  },
+  {
+    "id": "brick-1792403917940",
+    "added": "2026-10-19",
+    "title": "Aged Lichen Brick Wallpaper Sri Lanka",
+    "desc": "A realistic aged brick wall pattern with weathered terracotta, dusty rose and grey-brown bricks, soft yellow-green lichen patches and crumbly grey-beige mortar. A characterful, rustic feature wall for living rooms, bedrooms, cafés, restaurants, offices, hotels, retail shops and hallways. Custom printed to your exact wall size with a seamless repeat.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "brick-aged-lichen-brick-wallpaper-sri-lanka-1792403915024.webp",
+    "full": "brick-aged-lichen-brick-wallpaper-sri-lanka-1792403915024.webp"
   }
 ];
