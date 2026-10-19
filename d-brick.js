@@ -236,5 +236,33 @@ window.DESIGNS["brick"]=[
     "status": "active",
     "thumb": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792400813095.png",
     "full": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792400813095.png"
+  },
+  {
+    "id": "brick-1792402445676",
+    "added": "2026-10-19",
+    "title": "Antique Red Brick Wallpaper Sri Lanka",
+    "desc": "A realistic antique brick wall pattern with rough, hand-made terracotta, rust and brown bricks, chalky lime splashes and crumbly grey-beige mortar. A rich, characterful feature wall for living rooms, bedrooms, cafés, restaurants, offices, hotels, retail shops and hallways. Custom printed to your exact wall size with a seamless repeat.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "brick-antique-red-brick-wallpaper-sri-lanka-1792402443512.webp",
+    "full": "brick-antique-red-brick-wallpaper-sri-lanka-1792402443512.webp"
   }
 ];
