@@ -119,8 +119,8 @@ window.DESIGNS["bohemian"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft  ",
     "desc": "A calm abstract wall mural of flowing sage, blush and peach hills with fine antique-gold contour lines and a soft coral sun disc on a warm cream sky. A serene, minimalist feature wall for living rooms, bedrooms, salons, spas, hotels, offices, cafés, retail shops and hallways. Custom printed to your exact wall size.",
-    "thumb": "bohemian-japandi-sage-and-blush-landscape-wall-mural-sri-lanka-1792431773051.jfif",
-    "full": "bohemian-japandi-sage-and-blush-landscape-wall-mural-sri-lanka-1792431773051.jfif",
+    "thumb": "bohemian-japandi-sage-and-blush-landscape-wall-mural-sri-lanka-1792432226125.webp",
+    "full": "bohemian-japandi-sage-and-blush-landscape-wall-mural-sri-lanka-1792432226125.webp",
     "status": "active",
     "added": "2026-01-01"
   },
