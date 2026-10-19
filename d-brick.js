@@ -28,9 +28,9 @@ window.DESIGNS["brick"]=[
     "id": "brick-002",
     "title": "Exposed Aggregate Stone Brick Wallpaper Sri Lanka",
     "rooms": [
+      "office",
       "cafe-restaurant",
       "living-room",
-      "office",
       "retail",
       "hallway",
       "hotel"
