@@ -180,5 +180,33 @@ window.DESIGNS["brick"]=[
     "status": "active",
     "thumb": "brick-handmade-small-red-brick-wallpaper-sri-lanka-1792399638761.webp",
     "full": "brick-handmade-small-red-brick-wallpaper-sri-lanka-1792399638761.webp"
+  },
+  {
+    "id": "brick-1792400266476",
+    "added": "2026-10-19",
+    "title": "Whitewashed Brick Wallpaper Sri Lanka",
+    "desc": "A realistic whitewashed brick wall pattern with chalky cream, dusty pink and soft grey-blue limewash over warm terracotta bricks and thin cream mortar lines. A light, airy feature wall for living rooms, bedrooms, cafés, restaurants, offices, hotels, salons, retail shops and hallways. Custom printed to your exact wall size with a seamless repeat.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "brick-whitewashed-brick-wallpaper-sri-lanka-1792400263955.webp",
+    "full": "brick-whitewashed-brick-wallpaper-sri-lanka-1792400263955.webp"
   }
 ];
