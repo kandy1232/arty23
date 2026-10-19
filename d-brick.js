@@ -208,5 +208,33 @@ window.DESIGNS["brick"]=[
     "status": "active",
     "thumb": "brick-whitewashed-brick-wallpaper-sri-lanka-1792400263955.webp",
     "full": "brick-whitewashed-brick-wallpaper-sri-lanka-1792400263955.webp"
+  },
+  {
+    "id": "brick-1792400821828",
+    "added": "2026-10-19",
+    "title": "Plastered Brick Texture Wallpaper Sri Lanka",
+    "desc": "A realistic plastered brick wall texture in soft greige, taupe and sandy tones, with faint brick outlines, hand-troweled marks and tiny terracotta flecks. A calm, neutral feature wall for offices, living rooms, bedrooms, cafés, restaurants, hotels, salons, retail shops and hallways. Custom printed to your exact wall size with a seamless repeat.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792400813095.png",
+    "full": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792400813095.png"
   }
 ];
