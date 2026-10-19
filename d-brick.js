@@ -264,5 +264,33 @@ window.DESIGNS["brick"]=[
     "status": "active",
     "thumb": "brick-antique-red-brick-wallpaper-sri-lanka-1792402443512.webp",
     "full": "brick-antique-red-brick-wallpaper-sri-lanka-1792402443512.webp"
+  },
+  {
+    "id": "brick-1792403203066",
+    "added": "2026-10-19",
+    "title": "Dark Burgundy Glazed Brick Wallpaper Sri Lanka",
+    "desc": "A realistic dark glazed brick wall pattern in deep burgundy, chocolate brown and aubergine tones with a soft glossy finish and thin warm caramel mortar lines. A refined, moody feature wall for restaurants, bars, living rooms, offices, hotels, cafés, retail shops and hallways. Custom printed to your exact wall size with a seamless repeat.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "brick-dark-burgundy-glazed-brick-wallpaper-sri-lanka-1792403199991.webp",
+    "full": "brick-dark-burgundy-glazed-brick-wallpaper-sri-lanka-1792403199991.webp"
   }
 ];
