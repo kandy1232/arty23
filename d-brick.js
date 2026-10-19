@@ -152,5 +152,33 @@ window.DESIGNS["brick"]=[
     "full": "brick-reclaimed-mixed-brick-wallpaper-sri-lanka-1792388443204.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "brick-1792399641136",
+    "added": "2026-10-19",
+    "title": "Handmade Small Red Brick Wallpaper Sri Lanka",
+    "desc": "A realistic handmade small-brick wall pattern in warm terracotta, rust and brown tones with thin sandy mortar lines and a fine, weathered finish. A warm, classic feature wall for bedrooms, living rooms, cafés, restaurants, offices, hotels, retail shops and hallways. Custom printed to your exact wall size with a seamless repeat.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven fabric"
+    ],
+    "status": "active",
+    "thumb": "brick-handmade-small-red-brick-wallpaper-sri-lanka-1792399638761.webp",
+    "full": "brick-handmade-small-red-brick-wallpaper-sri-lanka-1792399638761.webp"
   }
 ];
