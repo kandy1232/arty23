@@ -226,5 +226,33 @@ window.DESIGNS["bohemian"]=[
     "status": "active",
     "thumb": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792467889857.png",
     "full": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792467889857.png"
+  },
+  {
+    "id": "bohemian-1792470210560",
+    "added": "2026-10-20",
+    "title": "Boho Watercolour Mustard and Teal Stripe Wallpaper",
+    "desc": "Bring warmth and a hand-painted feel to your walls with this boho watercolour stripe wallpaper. Soft vertical stripes in mustard ochre, deep teal, pale gold and sand are finished with fine rust pinstripes on a warm white background. The seamless repeating pattern adds gentle height and calm colour to living rooms, bedrooms, dining areas, cafes, offices, hotels and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "kids-room",
+      "cafe-restaurant",
+      "office",
+      "hallway",
+      "hotel",
+      "kitchen-dining",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "bohemian-boho-watercolour-mustard-and-teal-stripe-wallpaper-1792470206469.webp",
+    "full": "bohemian-boho-watercolour-mustard-and-teal-stripe-wallpaper-1792470206469.webp"
   }
 ];
