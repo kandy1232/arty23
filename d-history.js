@@ -183,5 +183,31 @@ window.DESIGNS["history"]=[
     "status": "active",
     "thumb": "history-vintage-floral-medallion-wallpaper-teal-terracotta-1792517987270.webp",
     "full": "history-vintage-floral-medallion-wallpaper-teal-terracotta-1792517987270.webp"
+  },
+  {
+    "id": "history-1792518603460",
+    "added": "2026-10-20",
+    "title": "Luxury Royal Palace Hallway Wallpaper Mural",
+    "desc": "Transform your interiors with this luxury palace hallway wallpaper mural, featuring majestic columns, elegant chandeliers, arched ceilings and marble floors. Perfect for living rooms, hotels, offices and feature walls.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "history-luxury-royal-palace-hallway-wallpaper-mural-1792518589696.webp",
+    "full": "history-luxury-royal-palace-hallway-wallpaper-mural-1792518589696.webp"
   }
 ];
