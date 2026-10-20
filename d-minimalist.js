@@ -294,5 +294,33 @@ window.DESIGNS["minimalist"]=[
     "status": "active",
     "thumb": "minimalist-minimalist-pastel-sun-and-rolling-hills-mural-1792497513411.webp",
     "full": "minimalist-minimalist-pastel-sun-and-rolling-hills-mural-1792497513411.webp"
+  },
+  {
+    "id": "minimalist-1792497917311",
+    "added": "2026-10-20",
+    "title": "Minimalist Calm Sea Sailboat Mural",
+    "desc": "Bring a peaceful, open feel to your walls with this minimalist calm sea sailboat mural. A lone white sailboat rests on a still blue sea beneath soft clouds and a wide pale sky, with gentle ripples and a quiet reflection. The calm blue and white palette suits living rooms, bedrooms, kids rooms, bathrooms, hallways, offices, cafes, hotels, spas and reception areas. Printed as one seamless scene on textured, washable material and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-calm-sea-sailboat-mural-1792497914499.webp",
+    "full": "minimalist-minimalist-calm-sea-sailboat-mural-1792497914499.webp"
   }
 ];
