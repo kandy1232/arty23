@@ -186,5 +186,33 @@ window.DESIGNS["minimalist"]=[
     "status": "active",
     "thumb": "minimalist-minimalist-sage-fern-leaf-geometric-texture-wallpaper-1792491360108.webp",
     "full": "minimalist-minimalist-sage-fern-leaf-geometric-texture-wallpaper-1792491360108.webp"
+  },
+  {
+    "id": "minimalist-1792491970268",
+    "added": "2026-10-20",
+    "title": "Minimalist Sage Teal Veined Stone Wallpaper",
+    "desc": "Bring a calm, natural stone look to your walls with this minimalist sage teal veined stone wallpaper. Soft sage and teal patches with fine sandy grain are woven together by winding cream veins and touches of warm taupe, creating a quiet, premium surface with organic movement. The seamless repeating pattern suits living rooms, bedrooms, hallways, offices, bathrooms, cafes, restaurants, hotels, spas and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "cafe-restaurant",
+      "office",
+      "hallway",
+      "hotel",
+      "kitchen-dining",
+      "bathroom",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-sage-teal-veined-stone-wallpaper-1792491967592.webp",
+    "full": "minimalist-minimalist-sage-teal-veined-stone-wallpaper-1792491967592.webp"
   }
 ];
