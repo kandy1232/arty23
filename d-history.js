@@ -67,8 +67,8 @@ window.DESIGNS["history"]=[
     "sizes": "Custom size",
     "price": "LKR375 sqft ",
     "desc": "Bring the past to life with this vintage sepia street mural. A busy mid-century shopping street scene shows a row of parked classic cars, tall colonial commercial buildings, shopfronts with hanging signs, a distant clock tower and townspeople in light summer clothes, all in a soft antique photograph tone. Printed as one seamless scene, it makes a striking feature wall for living rooms, studies, offices, hallways, cafes, hotels and heritage-style restaurants. Textured, washable and available in custom sizes for any wall.",
-    "thumb": "history-vintage-sepia-mid-century-shopping-street-mural-1792516548247.png",
-    "full": "history-vintage-sepia-mid-century-shopping-street-mural-1792516548247.png",
+    "thumb": "history-vintage-sepia-mid-century-shopping-street-mural-1792516584399.webp",
+    "full": "history-vintage-sepia-mid-century-shopping-street-mural-1792516584399.webp",
     "status": "active",
     "added": "2026-01-01"
   },
