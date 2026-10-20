@@ -214,5 +214,31 @@ window.DESIGNS["minimalist"]=[
     "status": "active",
     "thumb": "minimalist-minimalist-sage-teal-veined-stone-wallpaper-1792491967592.webp",
     "full": "minimalist-minimalist-sage-teal-veined-stone-wallpaper-1792491967592.webp"
+  },
+  {
+    "id": "minimalist-1792492560548",
+    "added": "2026-10-20",
+    "title": "Minimalist Greige Flowing Contour Lines Wallpaper",
+    "desc": "Add calm movement to your walls with this minimalist greige flowing contour lines wallpaper. Sweeping bands of fine parallel lines in pale cream curve and loop across a soft greige ground, like raked zen-garden ripples, for a quiet, architectural look. The seamless repeating pattern suits living rooms, bedrooms, hallways, offices, reception areas, cafes, hotels, spas and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-greige-flowing-contour-lines-wallpaper-1792492557769.webp",
+    "full": "minimalist-minimalist-greige-flowing-contour-lines-wallpaper-1792492557769.webp"
   }
 ];
