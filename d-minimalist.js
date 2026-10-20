@@ -160,5 +160,31 @@ window.DESIGNS["minimalist"]=[
     "full": "minimalist-minimalist-pale-sage-palm-frond-wallpaper-1792490407035.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "minimalist-1792491363099",
+    "added": "2026-10-20",
+    "title": "Minimalist Sage Fern Leaf Geometric Texture Wallpaper",
+    "desc": "Bring a soft, layered, natural look to your walls with this minimalist sage fern leaf wallpaper. Large hand-painted fern fronds in muted sage green sit over a tone-on-tone geometric background of arches and blocks in warm greige, with a subtle linen and plaster texture. The seamless repeating pattern adds quiet depth and a calm, premium feel to living rooms, bedrooms, hallways, offices, dining areas, cafes, hotels, spas and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-sage-fern-leaf-geometric-texture-wallpaper-1792491360108.webp",
+    "full": "minimalist-minimalist-sage-fern-leaf-geometric-texture-wallpaper-1792491360108.webp"
   }
 ];
