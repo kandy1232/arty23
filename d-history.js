@@ -87,8 +87,8 @@ window.DESIGNS["history"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "Bring maritime history to life with this vintage Royal George sailing ship mural. Inspired by an antique 18th-century engraving, the artwork features a magnificent historic sailing ship with towering masts, intricate rigging, billowing sails and an elaborately decorated stern, surrounded by a calm sea and softly illustrated clouds. Fine hand-drawn details and warm sepia tones create a timeless nautical atmosphere. Printed as one seamless scene, it makes a striking feature wall for living rooms, studies, offices, libraries, hallways, cafes, hotels and heritage-style restaurants. Textured, washable and available in custom sizes for any wall.",
-    "thumb": "history-vintage-royal-george-sailing-ship-heritage-mural-1792517220695.png",
-    "full": "history-vintage-royal-george-sailing-ship-heritage-mural-1792517220695.png",
+    "thumb": "history-vintage-royal-george-sailing-ship-heritage-mural-1792518393193.webp",
+    "full": "history-vintage-royal-george-sailing-ship-heritage-mural-1792518393193.webp",
     "status": "active",
     "added": "2026-01-01"
   },
