@@ -280,5 +280,33 @@ window.DESIGNS["bohemian"]=[
     "status": "active",
     "thumb": "bohemian-boho-sage-green-forest-trees-wallpaper-1792470700199.webp",
     "full": "bohemian-boho-sage-green-forest-trees-wallpaper-1792470700199.webp"
+  },
+  {
+    "id": "bohemian-1792471778041",
+    "added": "2026-10-20",
+    "title": "Boho Watercolour Abstract Shapes and Leaf Wallpaper",
+    "desc": "Give your walls an artistic, designer look with this boho abstract watercolour wallpaper. Overlapping arches, half-circles and soft shapes in terracotta, apricot, ochre and olive sit with leaf clusters and agave fans on a warm white background. The seamless repeating pattern suits living rooms, bedrooms, cafes, offices, hotel lounges, salons and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "bohemian-boho-watercolour-abstract-shapes-and-leaf-wallpaper-1792471775364.webp",
+    "full": "bohemian-boho-watercolour-abstract-shapes-and-leaf-wallpaper-1792471775364.webp"
   }
 ];
