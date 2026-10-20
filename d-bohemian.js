@@ -177,5 +177,27 @@ window.DESIGNS["bohemian"]=[
     "status": "active",
     "thumb": "bohemian-japandi-sage-and-blush-landscape-wall-mural-sri-lanka-1792432493741.webp",
     "full": "bohemian-japandi-sage-and-blush-landscape-wall-mural-sri-lanka-1792432493741.webp"
+  },
+  {
+    "id": "bohemian-1792465643961",
+    "added": "2026-10-20",
+    "title": "Japandi Sage and Blush Landscape Mural",
+    "desc": "A calm watercolour landscape mural of rolling sage and blush hills, a winding dotted path, soft distant mountains and a pale sun, with delicate pampas grass and lavender in the foreground. The muted Japandi palette brings a quiet, restful feel to living rooms, bedrooms, spas, hotel lounges and reception areas.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom",
+      "hallway",
+      "cafe-restaurant"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "bohemian-japandi-sage-and-blush-landscape-mural-1792465640335.jfif",
+    "full": "bohemian-japandi-sage-and-blush-landscape-mural-1792465640335.jfif"
   }
 ];
