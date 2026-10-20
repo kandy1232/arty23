@@ -278,7 +278,7 @@ window.DESIGNS["bohemian"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "bohemian-boho-sage-green-forest-trees-wallpaper-1792470631297.png",
-    "full": "bohemian-boho-sage-green-forest-trees-wallpaper-1792470631297.png"
+    "thumb": "bohemian-boho-sage-green-forest-trees-wallpaper-1792470700199.webp",
+    "full": "bohemian-boho-sage-green-forest-trees-wallpaper-1792470700199.webp"
   }
 ];
