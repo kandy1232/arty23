@@ -197,7 +197,7 @@ window.DESIGNS["bohemian"]=[
       "textured"
     ],
     "status": "active",
-    "thumb": "bohemian-japandi-sage-and-blush-landscape-mural-1792465640335.jfif",
-    "full": "bohemian-japandi-sage-and-blush-landscape-mural-1792465640335.jfif"
+    "thumb": "bohemian-japandi-sage-and-blush-landscape-mural-1792465662521.webp",
+    "full": "bohemian-japandi-sage-and-blush-landscape-mural-1792465662521.webp"
   }
 ];
