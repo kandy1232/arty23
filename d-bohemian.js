@@ -308,5 +308,33 @@ window.DESIGNS["bohemian"]=[
     "status": "active",
     "thumb": "bohemian-boho-watercolour-abstract-shapes-and-leaf-wallpaper-1792471775364.webp",
     "full": "bohemian-boho-watercolour-abstract-shapes-and-leaf-wallpaper-1792471775364.webp"
+  },
+  {
+    "id": "bohemian-1792472796770",
+    "added": "2026-10-20",
+    "title": "Boho Tropical Hills and Golden Sun Landscape Mural",
+    "desc": "Transform your walls with this boho tropical landscape mural. Rolling golden and blush hills, misty green mountains, a winding river, palm trees and a soft setting sun are framed by lush leaves and delicate frangipani-style flowers, finished with fine gold line details. The warm sage, apricot and gold palette adds a calm, exotic feel to living rooms, bedrooms, hotel lounges, cafes, spas and reception areas. Printed as one seamless scene on textured, washable material and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "bohemian-boho-tropical-hills-and-golden-sun-landscape-mural-1792472793812.webp",
+    "full": "bohemian-boho-tropical-hills-and-golden-sun-landscape-mural-1792472793812.webp"
   }
 ];
