@@ -262,7 +262,7 @@ window.DESIGNS["bohemian"]=[
     "desc": "Bring a fresh, calming woodland feel to your walls with this boho sage green forest wallpaper. Stylised dotted and bare-branch trees in soft sage, eucalyptus green, sand and blush peach sit over gentle rolling hills on a mint background. The seamless repeating pattern suits living rooms, bedrooms, kids rooms, home offices, cafes, hotels and boutique spaces. Textured, washable and available in custom sizes for any wall.",
     "price": "LKR450 sqft ",
     "sizes": "Custom size",
-    "format": "mural",
+    "format": "repeat",
     "rooms": [
       "living-room",
       "bedroom",
