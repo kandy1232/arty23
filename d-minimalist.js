@@ -266,5 +266,33 @@ window.DESIGNS["minimalist"]=[
     "status": "active",
     "thumb": "minimalist-minimalist-blue-fine-line-fan-wallpaper-1792496855278.webp",
     "full": "minimalist-minimalist-blue-fine-line-fan-wallpaper-1792496855278.webp"
+  },
+  {
+    "id": "minimalist-1792497516276",
+    "added": "2026-10-20",
+    "title": "Minimalist Pastel Sun and Rolling Hills Mural",
+    "desc": "Bring a soft, calm, modern feel to your walls with this minimalist pastel sun and rolling hills mural. Two gentle circles float over layered hills in sage, blush, powder blue and apricot, finished with fine white line details on a warm cream sky. Printed as one seamless scene, it suits living rooms, bedrooms, kids rooms, nurseries, hallways, offices, cafes, hotels, yoga studios, spas and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-pastel-sun-and-rolling-hills-mural-1792497513411.webp",
+    "full": "minimalist-minimalist-pastel-sun-and-rolling-hills-mural-1792497513411.webp"
   }
 ];
