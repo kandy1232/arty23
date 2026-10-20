@@ -157,5 +157,31 @@ window.DESIGNS["history"]=[
     "status": "active",
     "thumb": "history-vintage-sepia-colonial-island-town-street-mural-1792509053775.webp",
     "full": "history-vintage-sepia-colonial-island-town-street-mural-1792509053775.webp"
+  },
+  {
+    "id": "history-1792517990367",
+    "added": "2026-10-20",
+    "title": "Vintage Floral Medallion Wallpaper – Teal & Terracotta",
+    "desc": "Transform your interiors with this vintage floral medallion wallpaper, featuring elegant teal, terracotta and cream motifs. Perfect for bedrooms, living rooms, hotels and feature walls. Washable, customizable and stylish.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "history-vintage-floral-medallion-wallpaper-teal-terracotta-1792517987270.webp",
+    "full": "history-vintage-floral-medallion-wallpaper-teal-terracotta-1792517987270.webp"
   }
 ];
