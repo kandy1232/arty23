@@ -322,5 +322,31 @@ window.DESIGNS["minimalist"]=[
     "status": "active",
     "thumb": "minimalist-minimalist-calm-sea-sailboat-mural-1792497914499.webp",
     "full": "minimalist-minimalist-calm-sea-sailboat-mural-1792497914499.webp"
+  },
+  {
+    "id": "minimalist-1792498922438",
+    "added": "2026-10-20",
+    "title": "Minimalist Misty Ink Mountain Mural",
+    "desc": "Create a quiet, meditative focal wall with this minimalist misty ink mountain mural. Soft grey ink wash ridges fade into pale mist above a still, empty lake, with one tiny wooden boat for a sense of scale and calm. The airy monochrome palette suits living rooms, bedrooms, hallways, offices, tea rooms, cafes, hotels, spas and reception areas. Printed as one seamless scene on textured, washable material and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-misty-ink-mountain-mural-1792498918190.webp",
+    "full": "minimalist-minimalist-misty-ink-mountain-mural-1792498918190.webp"
   }
 ];
