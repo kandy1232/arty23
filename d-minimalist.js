@@ -240,5 +240,31 @@ window.DESIGNS["minimalist"]=[
     "status": "active",
     "thumb": "minimalist-minimalist-greige-flowing-contour-lines-wallpaper-1792492557769.webp",
     "full": "minimalist-minimalist-greige-flowing-contour-lines-wallpaper-1792492557769.webp"
+  },
+  {
+    "id": "minimalist-1792496858290",
+    "added": "2026-10-20",
+    "title": "Minimalist Blue Fine Line Fan Wallpaper",
+    "desc": "Add a delicate, airy elegance to your walls with this minimalist blue fine line fan wallpaper. Overlapping fan shapes made of hair-fine powder blue and dusty blue lines sit on a clean white ground, reading as soft texture from a distance and crisp detail up close. The seamless repeating pattern suits living rooms, bedrooms, kids rooms, hallways, offices, bathrooms, cafes, hotels, spas and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "minimalist-minimalist-blue-fine-line-fan-wallpaper-1792496855278.webp",
+    "full": "minimalist-minimalist-blue-fine-line-fan-wallpaper-1792496855278.webp"
   }
 ];
