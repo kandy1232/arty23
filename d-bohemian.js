@@ -199,5 +199,32 @@ window.DESIGNS["bohemian"]=[
     "status": "active",
     "thumb": "bohemian-japandi-sage-and-blush-landscape-mural-1792465662521.webp",
     "full": "bohemian-japandi-sage-and-blush-landscape-mural-1792465662521.webp"
+  },
+  {
+    "id": "bohemian-1792467907224",
+    "added": "2026-10-20",
+    "title": "Boho Hand-Painted Wavy Zigzag Wallpaper",
+    "desc": "Add a relaxed, artistic feel to your walls with this boho wavy zigzag wallpaper. Soft hand-painted dry-brush stripes in peach terracotta, sage green, dusty mauve and blush pink flow in gentle waves across a warm off-white background. The seamless repeating pattern suits living rooms, bedrooms, kids rooms, cafes, offices, hotels and boutique spaces. Textured, washable and available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "kids-room",
+      "cafe-restaurant",
+      "office",
+      "hallway",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792467889857.png",
+    "full": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792467889857.png"
   }
 ];
