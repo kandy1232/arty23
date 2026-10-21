@@ -163,8 +163,8 @@ window.DESIGNS["wellness"]=[
       "textured"
     ],
     "status": "active",
-    "thumb": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792582414482.png",
-    "full": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792582414482.png"
+    "thumb": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792591011632.webp",
+    "full": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792591011632.webp"
   },
   {
     "id": "wellness-1792582782938",
