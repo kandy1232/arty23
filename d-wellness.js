@@ -187,7 +187,7 @@ window.DESIGNS["wellness"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792582780418.webp",
-    "full": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792582780418.webp"
+    "thumb": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792583076942.webp",
+    "full": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792583076942.webp"
   }
 ];
