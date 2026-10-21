@@ -103,21 +103,23 @@ window.DESIGNS["wellness"]=[
   },
   {
     "id": "wellness-005",
-    "title": "Wellness, Zen & Spiritual Design 5",
+    "title": "Zen Abstract Teal and Copper Serene Face Wallpaper Mural",
     "rooms": [
+      "living-room",
       "office",
-      "living-room"
+      "hotel",
+      "salon-spa"
     ],
     "material": [
       "non-woven",
       "textured"
     ],
-    "format": "panel",
+    "format": "mural",
     "sizes": "Custom size",
-    "price": "",
-    "desc": "Wellness, Zen & Spiritual wallpaper design. Replace with your own description.",
-    "thumb": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235a8a7a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EWellness%2C%20Zen%20%26amp%3B%20Spiritual%205%3C/text%3E%3C/svg%3E",
-    "full": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235a8a7a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EWellness%2C%20Zen%20%26amp%3B%20Spiritual%205%3C/text%3E%3C/svg%3E",
+    "price": "LKR450 sqft ",
+    "desc": "Create a calm, contemplative focal wall with this zen abstract mural. A serene stylised face with closed eyes is painted in layered teal, turquoise and burnt copper on a weathered, textured ground with soft ivory highlights and plenty of quiet open space. Printed as one seamless scene, it suits meditation rooms, wellness studios, spas, living rooms, hotels and offices across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
+    "thumb": "wellness-zen-abstract-teal-and-copper-serene-face-wallpaper-mural-1792573628301.png",
+    "full": "wellness-zen-abstract-teal-and-copper-serene-face-wallpaper-mural-1792573628301.png",
     "status": "active",
     "added": "2026-01-01"
   },
