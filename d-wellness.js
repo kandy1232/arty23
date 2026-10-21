@@ -50,10 +50,15 @@ window.DESIGNS["wellness"]=[
   },
   {
     "id": "wellness-003",
-    "title": "Wellness, Zen & Spiritual Design 3",
+    "title": "Zen Mountain Lake Wallpaper Mural Sri Lanka ",
     "rooms": [
       "living-room",
-      "bedroom"
+      "bedroom",
+      "cafe-restaurant",
+      "office",
+      "hotel",
+      "bathroom",
+      "salon-spa"
     ],
     "material": [
       "washable",
@@ -61,10 +66,10 @@ window.DESIGNS["wellness"]=[
     ],
     "format": "mural",
     "sizes": "Custom size",
-    "price": "",
-    "desc": "Wellness, Zen & Spiritual wallpaper design. Replace with your own description.",
-    "thumb": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235a8a7a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EWellness%2C%20Zen%20%26amp%3B%20Spiritual%203%3C/text%3E%3C/svg%3E",
-    "full": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20600%20450%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235a8a7a%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23faf7f2%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22600%22%20height%3D%22450%22%20fill%3D%22url%28%23g%29%22/%3E%3Ctext%20x%3D%22300%22%20y%3D%22235%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%3EWellness%2C%20Zen%20%26amp%3B%20Spiritual%203%3C/text%3E%3C/svg%3E",
+    "price": "LKR450 sqft ",
+    "desc": "Create a serene focal wall with this zen teal mountain lake mural. Soft misty teal mountains, a deep green forested hillside and a mirror-still lake with a perfect reflection and one quiet empty boat fade into a bright white sky. Printed as one seamless scene, it suits spas, wellness clinics, bedrooms, living rooms, hotels, offices and cafes across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
+    "thumb": "wellness-zen-mountain-lake-wallpaper-mural-sri-lanka-1792570502778.webp",
+    "full": "wellness-zen-mountain-lake-wallpaper-mural-sri-lanka-1792570502778.webp",
     "status": "active",
     "added": "2026-01-01"
   },
