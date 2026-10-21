@@ -217,5 +217,31 @@ window.DESIGNS["wellness"]=[
     "status": "active",
     "thumb": "wellness-zen-cranes-and-pine-misty-mountain-wallpaper-mural-1792590967110.webp",
     "full": "wellness-zen-cranes-and-pine-misty-mountain-wallpaper-mural-1792590967110.webp"
+  },
+  {
+    "id": "wellness-1792593172263",
+    "added": "2026-10-21",
+    "title": "Misty Mountain Sunrise  zen Wallpaper Mural Sri Lanka",
+    "desc": "Transform your interiors with this elegant misty mountain wallpaper, featuring soft blue mountains, floating clouds, pink cherry blossoms and a peaceful sunrise. Perfect for bedrooms, living rooms and offices.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "wellness-misty-mountain-sunrise-zen-wallpaper-mural-sri-lanka-1792593162600.webp",
+    "full": "wellness-misty-mountain-sunrise-zen-wallpaper-mural-sri-lanka-1792593162600.webp"
   }
 ];
