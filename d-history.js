@@ -273,5 +273,33 @@ window.DESIGNS["history"]=[
     "status": "active",
     "thumb": "history-e-magical-misty-castle-wallpaper-mural-sri-lanka-1792556186832.webp",
     "full": "history-e-magical-misty-castle-wallpaper-mural-sri-lanka-1792556186832.webp"
+  },
+  {
+    "id": "history-1792556973743",
+    "added": "2026-10-21",
+    "title": " Vintage Sailing Ship Nautical Wallpaper Mural Sri Lanka",
+    "desc": "Transform your interiors with this vintage sailing ship wallpaper, featuring majestic sails, antique nautical maps, compass illustrations and warm parchment tones. Perfect for living rooms, offices, hotels and restaurants.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "history-vintage-sailing-ship-nautical-wallpaper-mural-sri-lanka-1792556971105.webp",
+    "full": "history-vintage-sailing-ship-nautical-wallpaper-mural-sri-lanka-1792556971105.webp"
   }
 ];
