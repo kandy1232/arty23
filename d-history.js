@@ -137,8 +137,8 @@ window.DESIGNS["history"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "Transform your interiors with this vintage sepia tramway wallpaper mural, featuring a historic steam tram, colonial architecture and bustling streets. Perfect for living rooms, offices, cafes, hotels and restaurants.",
-    "thumb": "history-vintage-sepia-tramway-street-wallpaper-mural-1792552754625.png",
-    "full": "history-vintage-sepia-tramway-street-wallpaper-mural-1792552754625.png",
+    "thumb": "history-vintage-sepia-tramway-street-wallpaper-mural-1792552796735.webp",
+    "full": "history-vintage-sepia-tramway-street-wallpaper-mural-1792552796735.webp",
     "status": "active",
     "added": "2026-01-01"
   },
