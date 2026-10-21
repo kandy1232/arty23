@@ -99,8 +99,8 @@ window.DESIGNS["kids"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "A charming pattern of fluffy cream lambs with pretty bows, folk-art flowers, leaves and little seed pods in blush pink, dusty blue, sage and mustard on a deep charcoal background. A cosy, modern repeat print for nurseries, kids rooms, baby rooms and playrooms. Custom printed to your exact wall size.",
-    "thumb": "kids-woolly-lambs-and-flowers-kids-wallpaper-sri-lanka-1792308951683.png",
-    "full": "kids-woolly-lambs-and-flowers-kids-wallpaper-sri-lanka-1792308951683.png",
+    "thumb": "kids-woolly-lambs-and-flowers-kids-wallpaper-sri-lanka-1792601594306.webp",
+    "full": "kids-woolly-lambs-and-flowers-kids-wallpaper-sri-lanka-1792601594306.webp",
     "status": "active",
     "added": "2026-01-01"
   },
