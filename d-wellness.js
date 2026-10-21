@@ -189,5 +189,33 @@ window.DESIGNS["wellness"]=[
     "status": "active",
     "thumb": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792583076942.webp",
     "full": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792583076942.webp"
+  },
+  {
+    "id": "wellness-1792590971536",
+    "added": "2026-10-21",
+    "title": "Zen Cranes and Pine Misty Mountain Wallpaper Mural",
+    "desc": "Bring timeless Asian ink painting to your walls with this zen cranes and pine mural. Two elegant red-crowned cranes stand on a rocky ledge beneath an arching pine branch, with misty layered mountains, flying birds and a soft red sun in a warm cream sky. Printed as one seamless scene, it suits living rooms, bedrooms, offices, hotel lounges, spas, tea rooms and restaurants across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "wellness-zen-cranes-and-pine-misty-mountain-wallpaper-mural-1792590967110.webp",
+    "full": "wellness-zen-cranes-and-pine-misty-mountain-wallpaper-mural-1792590967110.webp"
   }
 ];
