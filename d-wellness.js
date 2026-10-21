@@ -118,8 +118,8 @@ window.DESIGNS["wellness"]=[
     "sizes": "Custom size",
     "price": "LKR450 sqft ",
     "desc": "Create a calm, contemplative focal wall with this zen abstract mural. A serene stylised face with closed eyes is painted in layered teal, turquoise and burnt copper on a weathered, textured ground with soft ivory highlights and plenty of quiet open space. Printed as one seamless scene, it suits meditation rooms, wellness studios, spas, living rooms, hotels and offices across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
-    "thumb": "wellness-zen-abstract-teal-and-copper-serene-face-wallpaper-mural-1792573628301.png",
-    "full": "wellness-zen-abstract-teal-and-copper-serene-face-wallpaper-mural-1792573628301.png",
+    "thumb": "wellness-zen-abstract-teal-and-copper-serene-face-wallpaper-mural-1792573700109.webp",
+    "full": "wellness-zen-abstract-teal-and-copper-serene-face-wallpaper-mural-1792573700109.webp",
     "status": "active",
     "added": "2026-01-01"
   },
