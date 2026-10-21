@@ -224,8 +224,8 @@ window.DESIGNS["bohemian"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792467889857.png",
-    "full": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792467889857.png"
+    "thumb": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792600495919.webp",
+    "full": "bohemian-boho-hand-painted-wavy-zigzag-wallpaper-1792600495919.webp"
   },
   {
     "id": "bohemian-1792470210560",
