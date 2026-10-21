@@ -142,5 +142,28 @@ window.DESIGNS["wellness"]=[
     "full": "wellness-zen-pale-blue-water-ripple-wallpaper-1792575679251.webp",
     "status": "active",
     "added": "2026-01-01"
+  },
+  {
+    "id": "wellness-1792582444064",
+    "added": "2026-10-21",
+    "title": "Zen Dewdrop Lotus Leaf and Bud Wallpaper Mural",
+    "desc": "Bring fresh morning calm to your walls with this zen dewdrop lotus leaf mural. A large pale green leaf covered in glossy dewdrops and a quiet closed bud rise from soft aqua mist, with gentle sage and blush tones and plenty of open space. Printed as one seamless scene, it suits living rooms, bedrooms, spas, wellness studios, hotel lounges and offices across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "office",
+      "hotel",
+      "salon-spa"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792582414482.png",
+    "full": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792582414482.png"
   }
 ];
