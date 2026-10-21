@@ -165,5 +165,29 @@ window.DESIGNS["wellness"]=[
     "status": "active",
     "thumb": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792582414482.png",
     "full": "wellness-zen-dewdrop-lotus-leaf-and-bud-wallpaper-mural-1792582414482.png"
+  },
+  {
+    "id": "wellness-1792582782938",
+    "added": "2026-10-21",
+    "title": "Zen Red Plum Blossom Misty Lake Wallpaper Mural",
+    "desc": "Bring quiet beauty to your walls with this zen red plum blossom mural. A gnarled branch of bright red blossoms with two small birds arches over layered misty mountains and a still lake, with a tiny boat drifting in the soft blush and cream haze. Printed as one seamless scene, it suits living rooms, bedrooms, offices, hotel lounges, spas, tea rooms and restaurants across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "cafe-restaurant",
+      "office",
+      "hotel",
+      "salon-spa"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792582780418.webp",
+    "full": "wellness-zen-red-plum-blossom-misty-lake-wallpaper-mural-1792582780418.webp"
   }
 ];
