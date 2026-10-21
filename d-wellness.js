@@ -243,5 +243,33 @@ window.DESIGNS["wellness"]=[
     "status": "active",
     "thumb": "wellness-misty-mountain-sunrise-zen-wallpaper-mural-sri-lanka-1792593162600.webp",
     "full": "wellness-misty-mountain-sunrise-zen-wallpaper-mural-sri-lanka-1792593162600.webp"
+  },
+  {
+    "id": "wellness-1792593670253",
+    "added": "2026-10-21",
+    "title": "Japanese Pine Tree Wallpaper Mural Sri Lanka",
+    "desc": "Transform your interiors with this elegant Japanese pine tree wallpaper, featuring delicate ink-brush branches, soft sage tones and textured beige backgrounds. Perfect for bedrooms, dining rooms and luxury interiors.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593665602.webp",
+    "full": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593665602.webp"
   }
 ];
