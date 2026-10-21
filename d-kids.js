@@ -119,8 +119,8 @@ window.DESIGNS["kids"]=[
     "sizes": "Custom size",
     "price": "LKR375 sqft ",
     "desc": "A cheerful jungle wall mural with a gentle elephant calf, leopard cub, sloth, fawn, peacock and monkey among tall green trees, tropical leaves, butterflies and flowers in fresh sage, mint, mustard and coral tones. A calm, friendly feature wall for kids rooms, nurseries and playrooms, with the animals placed low so the mural works above furniture. Custom printed to your exact wall size.",
-    "thumb": "kids-friendly-jungle-animals-kids-wall-mural-sri-lanka-1792601650152.webp",
-    "full": "kids-friendly-jungle-animals-kids-wall-mural-sri-lanka-1792601650152.webp",
+    "thumb": "kids-friendly-jungle-animals-kids-wall-mural-sri-lanka-1792601788319.webp",
+    "full": "kids-friendly-jungle-animals-kids-wall-mural-sri-lanka-1792601788319.webp",
     "status": "active",
     "added": "2026-01-01"
   },
