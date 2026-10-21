@@ -271,5 +271,33 @@ window.DESIGNS["wellness"]=[
     "status": "active",
     "thumb": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593881671.webp",
     "full": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593881671.webp"
+  },
+  {
+    "id": "wellness-1792594321008",
+    "added": "2026-10-21",
+    "title": "Black and White Water Ripple Wallpaper Mural Sri Lanka",
+    "desc": "Transform your interiors with this elegant black and white water ripple wallpaper, featuring concentric raindrop circles, artistic reflections and calming monochrome tones. Perfect for living rooms, offices and spas.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "wellness-black-and-white-water-ripple-wallpaper-mural-sri-lanka-1792594281359.png",
+    "full": "wellness-black-and-white-water-ripple-wallpaper-mural-sri-lanka-1792594281359.png"
   }
 ];
