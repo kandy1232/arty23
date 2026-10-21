@@ -243,7 +243,7 @@ window.DESIGNS["history"]=[
       "washable"
     ],
     "status": "active",
-    "thumb": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553281787.webp",
-    "full": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553281787.webp"
+    "thumb": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553315434.webp",
+    "full": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553315434.webp"
   }
 ];
