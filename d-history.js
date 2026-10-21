@@ -245,5 +245,33 @@ window.DESIGNS["history"]=[
     "status": "active",
     "thumb": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553315434.webp",
     "full": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553315434.webp"
+  },
+  {
+    "id": "history-1792556193731",
+    "added": "2026-10-21",
+    "title": "e: Magical Misty Castle Wallpaper Mural Sri Lanka",
+    "desc": "Transform your interiors with this magical castle wallpaper mural, featuring majestic towers, misty mountains, lush forests and a peaceful lake. Perfect for bedrooms, living rooms, hotels and luxury interiors.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "history-e-magical-misty-castle-wallpaper-mural-sri-lanka-1792556186832.webp",
+    "full": "history-e-magical-misty-castle-wallpaper-mural-sri-lanka-1792556186832.webp"
   }
 ];
