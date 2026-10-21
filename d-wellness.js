@@ -269,7 +269,7 @@ window.DESIGNS["wellness"]=[
       "textured"
     ],
     "status": "active",
-    "thumb": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593665602.webp",
-    "full": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593665602.webp"
+    "thumb": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593881671.webp",
+    "full": "wellness-japanese-pine-tree-wallpaper-mural-sri-lanka-1792593881671.webp"
   }
 ];
