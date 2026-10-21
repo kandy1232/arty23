@@ -234,8 +234,8 @@ window.DESIGNS["brick"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792400813095.png",
-    "full": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792400813095.png"
+    "thumb": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792601959878.webp",
+    "full": "brick-plastered-brick-texture-wallpaper-sri-lanka-1792601959878.webp"
   },
   {
     "id": "brick-1792402445676",
