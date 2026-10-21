@@ -217,5 +217,33 @@ window.DESIGNS["history"]=[
     "status": "active",
     "thumb": "history-luxury-royal-palace-hallway-wallpaper-mural-1792518589696.webp",
     "full": "history-luxury-royal-palace-hallway-wallpaper-mural-1792518589696.webp"
+  },
+  {
+    "id": "history-1792553291984",
+    "added": "2026-10-21",
+    "title": "Vintage Sailing Ship Blueprint Wallpaper Mural Sri Lanka",
+    "desc": "Transform your interiors with vintage sailing ship blueprint wallpaper in Sri Lanka, featuring intricate nautical drawings, antique maps and technical details. Perfect for living rooms, offices, hotels and restaurants.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553281787.webp",
+    "full": "history-vintage-sailing-ship-blueprint-wallpaper-mural-sri-lanka-1792553281787.webp"
   }
 ];
