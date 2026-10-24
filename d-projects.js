@@ -37,6 +37,6 @@ window.PROJECTS=[
     "category": "Hotel & Hospitality",
     "desc": "A large custom wallpaper project completed by ARTYHOMES for the banquet hall at Citrus Hotel, Waskaduwa, covering 18,000 sq ft. We supplied and installed golden textured wallpaper across the hall and entrance areas, which gives the walls a warm, elegant look under the wall lighting. Every roll was custom printed to the exact wall size, so there is no wasted material and no awkward joins. ARTYHOMES supplies custom and ready-made wallpaper across Sri Lanka for hotels, banquet halls, restaurants, homes and offices. Contact us for your next project.",
     "status": "active",
-    "image": "project-hotel-citrus-waskaduwa-banquet-hall-1792814242264.jpg"
+    "image": "project-hotel-citrus-waskaduwa-banquet-hall-1792814446759.webp"
   }
 ];
