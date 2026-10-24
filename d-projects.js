@@ -38,5 +38,15 @@ window.PROJECTS=[
     "desc": "A large custom wallpaper project completed by ARTYHOMES for the banquet hall at Citrus Hotel, Waskaduwa, covering 18,000 sq ft. We supplied and installed golden textured wallpaper across the hall and entrance areas, which gives the walls a warm, elegant look under the wall lighting. Every roll was custom printed to the exact wall size, so there is no wasted material and no awkward joins. ARTYHOMES supplies custom and ready-made wallpaper across Sri Lanka for hotels, banquet halls, restaurants, homes and offices. Contact us for your next project.",
     "status": "active",
     "image": "project-hotel-citrus-waskaduwa-banquet-hall-1792814446759.webp"
+  },
+  {
+    "id": "project-1792816304204",
+    "added": "2026-10-24",
+    "title": "Dhananjaya Bandara Bridal Beauty Salon",
+    "location": "Kassapa Road, Colombo 05, ",
+    "category": "Salon & Spa",
+    "desc": "A custom wallpaper project completed by ARTYHOMES for the Dhananjaya Bandara bridal beauty salon on Kassapa Road, Colombo 05, covering 7,600 sq ft. We supplied and installed wallpaper across the salon walls, creating an elegant, welcoming look that suits a bridal and beauty space. Every roll was custom printed to the exact wall size, so there is no wasted material and no awkward joins. ARTYHOMES supplies custom and ready-made wallpaper across Sri Lanka for salons, spas, hotels, restaurants, homes and offices. Contact us for your next project.",
+    "status": "active",
+    "image": "project-dhananjaya-bandara-bridal-beauty-salon-1792816301606.webp"
   }
 ];
