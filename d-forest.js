@@ -466,5 +466,33 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-blue-watercolor-misty-forest-wallpaper-sri-lanka-1793028191340.webp",
     "full": "forest-blue-watercolor-misty-forest-wallpaper-sri-lanka-1793028191340.webp"
+  },
+  {
+    "id": "forest-1793029025737",
+    "added": "2026-10-26",
+    "title": "Navy Blue Stylized Forest Wallpaper Mural Sri Lanka",
+    "desc": "A modern wallpaper mural of tall stylized leaf-shaped trees in navy, slate blue and white linework over a cloudy, textured dark blue background with a misty grass line. Custom printed wallpaper and wall mural made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, bedroom wallpaper, office, hotel, restaurant, lounge and salon feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "forest-navy-blue-stylized-forest-wallpaper-mural-sri-lanka-1793029021850.webp",
+    "full": "forest-navy-blue-stylized-forest-wallpaper-mural-sri-lanka-1793029021850.webp"
   }
 ];
