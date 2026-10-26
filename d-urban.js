@@ -286,5 +286,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-new-york-skyline-rainbow-wall-mural-wallpaper-sri-lanka-1791217893068.webp",
     "full": "urban-new-york-skyline-rainbow-wall-mural-wallpaper-sri-lanka-1791217893068.webp"
+  },
+  {
+    "id": "urban-1793035874312",
+    "added": "2026-10-26",
+    "title": "Modern City Skyline Wallpaper Mural Sri Lanka",
+    "desc": "A modern wallpaper mural of a layered city skyline with tall skyscrapers in slate blue, taupe, brown and charcoal over soft cream vertical stripes. Custom printed wallpaper and wall mural made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, office, boys room, hallway, hotel, cafe, restaurant and retail feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "urban-modern-city-skyline-wallpaper-mural-sri-lanka-1793035870274.webp",
+    "full": "urban-modern-city-skyline-wallpaper-mural-sri-lanka-1793035870274.webp"
   }
 ];
