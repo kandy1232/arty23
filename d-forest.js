@@ -275,5 +275,33 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-pastel-blossom-valley-wall-mural-folk-art-wallpaper-sri-lanka-1791194030910.webp",
     "full": "forest-pastel-blossom-valley-wall-mural-folk-art-wallpaper-sri-lanka-1791194030910.webp"
+  },
+  {
+    "id": "forest-1793010789119",
+    "added": "2026-10-26",
+    "title": "Tea Estate Mountain Wallpaper Mural Sri Lanka",
+    "desc": "A fresh tea estate wall mural for homes and businesses across Sri Lanka, with bright green tea terraces, misty hills and a tall conical peak under a clear blue sky. Custom printed wallpaper made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, bedroom wallpaper, office, hotel, cafe and salon feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "forest-tea-estate-mountain-wallpaper-mural-sri-lanka-1793010784586.webp",
+    "full": "forest-tea-estate-mountain-wallpaper-mural-sri-lanka-1793010784586.webp"
   }
 ];
