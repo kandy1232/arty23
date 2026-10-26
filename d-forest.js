@@ -410,5 +410,34 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-geometric-mountain-forest-wall-mural-sri-lanka-1793016758793.webp",
     "full": "forest-geometric-mountain-forest-wall-mural-sri-lanka-1793016758793.webp"
+  },
+  {
+    "id": "forest-1793017225346",
+    "added": "2026-10-26",
+    "title": "Beige Misty Pine Forest Wallpaper Sri Lanka",
+    "desc": "A calm wall mural of a misty pine forest with tall trees, soft fog and a few birds in warm beige, taupe and cream tones. Custom printed wallpaper made to your exact wall size, priced per sq ft. Ideal for bedroom wallpaper behind the bed, living room, hotel room, spa, salon, office and cafe feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "bathroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "forest-beige-misty-pine-forest-wallpaper-sri-lanka-1793017222390.webp",
+    "full": "forest-beige-misty-pine-forest-wallpaper-sri-lanka-1793017222390.webp"
   }
 ];
