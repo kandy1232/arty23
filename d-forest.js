@@ -356,5 +356,33 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-green-mountain-forest-geometric-wallpaper-sri-lanka-1793013781982.webp",
     "full": "forest-green-mountain-forest-geometric-wallpaper-sri-lanka-1793013781982.webp"
+  },
+  {
+    "id": "forest-1793016262515",
+    "added": "2026-10-26",
+    "title": "Blue Misty Forest Deer Wall Mural Sri Lanka",
+    "desc": "A serene wall mural of a misty blue forest with tall trees, ferns and a pair of deer in soft navy, slate blue and pearl grey tones. Custom printed wallpaper made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, bedroom wallpaper, office, hotel lobby, cafe, salon and spa feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "forest-blue-misty-forest-deer-wall-mural-sri-lanka-1793016259509.webp",
+    "full": "forest-blue-misty-forest-deer-wall-mural-sri-lanka-1793016259509.webp"
   }
 ];
