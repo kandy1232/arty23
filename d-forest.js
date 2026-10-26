@@ -303,5 +303,31 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-tea-estate-mountain-wallpaper-mural-sri-lanka-1793010784586.webp",
     "full": "forest-tea-estate-mountain-wallpaper-mural-sri-lanka-1793010784586.webp"
+  },
+  {
+    "id": "forest-1793012485163",
+    "added": "2026-10-26",
+    "title": "Embroidered Green Hills Landscape Wall Mural Sri Lanka",
+    "desc": "A calm landscape wall mural with rolling sage and moss green hills, blossom bushes and slender trees in a hand-embroidered textile style on a soft oatmeal sky. Custom printed wallpaper made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, bedroom wallpaper, office, hotel, cafe, salon and spa feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "forest-embroidered-green-hills-landscape-wall-mural-sri-lanka-1793012480908.webp",
+    "full": "forest-embroidered-green-hills-landscape-wall-mural-sri-lanka-1793012480908.webp"
   }
 ];
