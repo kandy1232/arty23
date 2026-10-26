@@ -329,5 +329,32 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-embroidered-green-hills-landscape-wall-mural-sri-lanka-1793012480908.webp",
     "full": "forest-embroidered-green-hills-landscape-wall-mural-sri-lanka-1793012480908.webp"
+  },
+  {
+    "id": "forest-1793013786758",
+    "added": "2026-10-26",
+    "title": "Green Mountain Forest Geometric Wallpaper Sri Lanka",
+    "desc": "A modern geometric wallpaper with layered sage and forest green mountain triangles, misty cloud washes, pine trees and fine silver foil lines. Custom printed wallpaper made to your exact wall size, priced per sq ft, with a seamless repeat. Ideal for living room wallpaper, dining room, bedroom wallpaper, office, hotel, cafe and salon feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "kitchen-dining",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "forest-green-mountain-forest-geometric-wallpaper-sri-lanka-1793013781982.webp",
+    "full": "forest-green-mountain-forest-geometric-wallpaper-sri-lanka-1793013781982.webp"
   }
 ];
