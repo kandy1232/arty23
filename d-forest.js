@@ -384,5 +384,31 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-blue-misty-forest-deer-wall-mural-sri-lanka-1793016259509.webp",
     "full": "forest-blue-misty-forest-deer-wall-mural-sri-lanka-1793016259509.webp"
+  },
+  {
+    "id": "forest-1793016761523",
+    "added": "2026-10-26",
+    "title": "Geometric Mountain forest  Wall Mural Sri Lanka",
+    "desc": "A bold geometric wall mural of layered teal, green and mustard mountains with striped peaks, pine trees, a radiating sun and wavy water lines on a warm cream background. Custom printed wallpaper made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, bedroom wallpaper, hallway, office, kids room, cafe, hotel and salon feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "forest-geometric-mountain-forest-wall-mural-sri-lanka-1793016758793.webp",
+    "full": "forest-geometric-mountain-forest-wall-mural-sri-lanka-1793016758793.webp"
   }
 ];
