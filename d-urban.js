@@ -314,5 +314,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-modern-city-skyline-wallpaper-mural-sri-lanka-1793035870274.webp",
     "full": "urban-modern-city-skyline-wallpaper-mural-sri-lanka-1793035870274.webp"
+  },
+  {
+    "id": "urban-1793036638468",
+    "added": "2026-10-26",
+    "title": "Modern Architectural City Skyscraper Wallpaper Sri Lanka",
+    "desc": "Premium modern city skyscraper wallpaper custom-made to your exact wall measurements. Adds stunning urban depth and luxury to living rooms, executive offices, and commercial spaces in Sri Lanka. Durable, fade-resistant printing with professional island-wide installation.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "urban-modern-architectural-city-skyscraper-wallpaper-sri-lanka-1793036634795.webp",
+    "full": "urban-modern-architectural-city-skyscraper-wallpaper-sri-lanka-1793036634795.webp"
   }
 ];
