@@ -178,5 +178,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-navy-gold-palm-leaf-wall-mural-luxury-hallway-wallpaper-sri-lanka-1791105385557.webp",
     "full": "tropical-navy-gold-palm-leaf-wall-mural-luxury-hallway-wallpaper-sri-lanka-1791105385557.webp"
+  },
+  {
+    "id": "tropical-1793018139930",
+    "added": "2026-10-26",
+    "title": "Beige Fan Palm Botanical Wall Mural Sri Lanka",
+    "desc": "A calm botanical wall mural of fan palm leaves, blossom branches, banana leaves and swallows over soft beige geometric circles on a weathered plaster-style background in warm neutral tones. Custom printed wallpaper made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, hallway, bedroom, office, hotel lobby, cafe, salon and spa feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "tropical-beige-fan-palm-botanical-wall-mural-sri-lanka-1793018136974.webp",
+    "full": "tropical-beige-fan-palm-botanical-wall-mural-sri-lanka-1793018136974.webp"
   }
 ];
