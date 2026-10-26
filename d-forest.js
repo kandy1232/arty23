@@ -439,5 +439,32 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-beige-misty-pine-forest-wallpaper-sri-lanka-1793017222390.webp",
     "full": "forest-beige-misty-pine-forest-wallpaper-sri-lanka-1793017222390.webp"
+  },
+  {
+    "id": "forest-1793028194831",
+    "added": "2026-10-26",
+    "title": "Blue Watercolor Misty Forest Wallpaper Sri Lanka",
+    "desc": "A soft watercolor forest wallpaper with misty blue and grey trees on a pale cream background, in calm, airy tones. Custom printed wallpaper and wall mural made to your exact wall size, priced per sq ft. Ideal for living room wallpaper, bedroom wallpaper, hallway, office, hotel, cafe, salon and spa feature walls. Order from ARTYHOMES, wallpaper shop in Colombo, with delivery across Sri Lanka.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bathroom",
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "forest-blue-watercolor-misty-forest-wallpaper-sri-lanka-1793028191340.webp",
+    "full": "forest-blue-watercolor-misty-forest-wallpaper-sri-lanka-1793028191340.webp"
   }
 ];
