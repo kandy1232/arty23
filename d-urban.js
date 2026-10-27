@@ -450,7 +450,7 @@ window.DESIGNS["urban"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "urban-skyline-painting-style-wallpaper-colombo-1793124259860.webp",
-    "full": "urban-skyline-painting-style-wallpaper-colombo-1793124259860.webp"
+    "thumb": "urban-skyline-painting-style-wallpaper-colombo-1793124763042.webp",
+    "full": "urban-skyline-painting-style-wallpaper-colombo-1793124763042.webp"
   }
 ];
