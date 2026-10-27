@@ -370,5 +370,31 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-manhattan-bridge-3d-wallpaper-sri-lanka-1793119191214.webp",
     "full": "urban-manhattan-bridge-3d-wallpaper-sri-lanka-1793119191214.webp"
+  },
+  {
+    "id": "urban-1793121730257",
+    "added": "2026-10-27",
+    "title": "Marina Bay City Lights 3D Wallpaper Sri Lanka",
+    "desc": "Transform your space with this Singapore skyline night wall mural. Neon city lights, a glowing bridge and colourful river reflections create a bold focal wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a free quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "urban-marina-bay-city-lights-3d-wallpaper-sri-lanka-1793121726048.webp",
+    "full": "urban-marina-bay-city-lights-3d-wallpaper-sri-lanka-1793121726048.webp"
   }
 ];
