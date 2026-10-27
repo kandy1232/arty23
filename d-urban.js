@@ -342,5 +342,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-modern-architectural-city-skyscraper-wallpaper-sri-lanka-1793036634795.webp",
     "full": "urban-modern-architectural-city-skyscraper-wallpaper-sri-lanka-1793036634795.webp"
+  },
+  {
+    "id": "urban-1793119194275",
+    "added": "2026-10-27",
+    "title": "Manhattan Bridge 3D Wallpaper Sri Lanka",
+    "desc": "Transform your space with this Manhattan Bridge night skyline wall mural. Glowing city lights and shimmering river reflections create a stunning focal wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a free quote today.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "urban-manhattan-bridge-3d-wallpaper-sri-lanka-1793119191214.webp",
+    "full": "urban-manhattan-bridge-3d-wallpaper-sri-lanka-1793119191214.webp"
   }
 ];
