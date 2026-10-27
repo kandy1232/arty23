@@ -452,5 +452,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-skyline-painting-style-wallpaper-colombo-1793124763042.webp",
     "full": "urban-skyline-painting-style-wallpaper-colombo-1793124763042.webp"
+  },
+  {
+    "id": "urban-1793124835314",
+    "added": "2026-10-27",
+    "title": "Abstract Geometric Skyline Wallpaper Sri Lanka",
+    "desc": "Make a bold statement with this modern pop art city mural. Vibrant yellow, red and blue shapes with a metro train bring energy to any wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "urban-abstract-geometric-skyline-wallpaper-sri-lanka-1793124832073.webp",
+    "full": "urban-abstract-geometric-skyline-wallpaper-sri-lanka-1793124832073.webp"
   }
 ];
