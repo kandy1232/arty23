@@ -48,5 +48,15 @@ window.PROJECTS=[
     "desc": "A custom wallpaper project completed by ARTYHOMES for the Dhananjaya Bandara bridal beauty salon on Kassapa Road, Colombo 05, covering 7,600 sq ft. We supplied and installed wallpaper across the salon walls, creating an elegant, welcoming look that suits a bridal and beauty space. Every roll was custom printed to the exact wall size, so there is no wasted material and no awkward joins. ARTYHOMES supplies custom and ready-made wallpaper across Sri Lanka for salons, spas, hotels, restaurants, homes and offices. Contact us for your next project.",
     "status": "active",
     "image": "project-dhananjaya-bandara-bridal-beauty-salon-1792816301606.webp"
+  },
+  {
+    "id": "project-1793101397002",
+    "added": "2026-10-27",
+    "title": "Blue Orbit Lotus Tower Wallpaper Installation Sri Lanka",
+    "location": "Colombo, Revolving Restaurant",
+    "category": "Commercial Projects / Restaurant and Hotel Wall Covering",
+    "desc": "Luxury decorative wall covering installed at Blue Orbit, Lotus Tower Colombo. Metallic, damask and textured wallpaper for restaurants and hotels.",
+    "status": "active",
+    "image": "project-blue-orbit-lotus-tower-wallpaper-installation-sri-lanka-1793101392865.webp"
   }
 ];
