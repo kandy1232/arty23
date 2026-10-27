@@ -396,5 +396,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-marina-bay-city-lights-3d-wallpaper-sri-lanka-1793121726048.webp",
     "full": "urban-marina-bay-city-lights-3d-wallpaper-sri-lanka-1793121726048.webp"
+  },
+  {
+    "id": "urban-1793122147175",
+    "added": "2026-10-27",
+    "title": "Hillside Valley Landscape Wallpaper Sri Lanka  ",
+    "desc": "Bring a peaceful hillside town view to your wall with this aerial landscape mural. Red rooftops, green forests and a calm river create depth. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "urban-hillside-valley-landscape-wallpaper-sri-lanka-1793122142685.webp",
+    "full": "urban-hillside-valley-landscape-wallpaper-sri-lanka-1793122142685.webp"
   }
 ];
