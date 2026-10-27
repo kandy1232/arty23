@@ -424,5 +424,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-hillside-valley-landscape-wallpaper-sri-lanka-1793122142685.webp",
     "full": "urban-hillside-valley-landscape-wallpaper-sri-lanka-1793122142685.webp"
+  },
+  {
+    "id": "urban-1793124262936",
+    "added": "2026-10-27",
+    "title": "Skyline Painting Style Wallpaper Colombo ",
+    "desc": "Add a touch of art to your wall with this painted city skyline mural. Golden lights, autumn trees and glowing reflections create a warm, dreamy mood. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "urban-skyline-painting-style-wallpaper-colombo-1793124259860.webp",
+    "full": "urban-skyline-painting-style-wallpaper-colombo-1793124259860.webp"
   }
 ];
