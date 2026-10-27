@@ -58,5 +58,15 @@ window.PROJECTS=[
     "desc": "Luxury decorative wall covering installed at Blue Orbit, Lotus Tower Colombo. Metallic, damask and textured wallpaper for restaurants and hotels.",
     "status": "active",
     "image": "project-blue-orbit-lotus-tower-wallpaper-installation-sri-lanka-1793101392865.webp"
+  },
+  {
+    "id": "project-1793102815257",
+    "added": "2026-10-27",
+    "title": "Elephant House Factory Complex Ranala",
+    "location": " Ceylon Cold Stores Manufacturing Plant Ranala ",
+    "category": "Commercial Projects / Office Wall Covering",
+    "desc": "Premium office wall covering installed at the Elephant House factory complex in Ranala, Colombo. Sage green geometric wallpaper for the executive office, with tropical leaf botanical wallpaper for the meeting room and reception lounge. A calm, natural colour palette that creates a professional and welcoming workspace. Ideal for corporate offices, factories, showrooms and reception areas across Sri Lanka. Contact us for a free consultation and quotation.",
+    "status": "active",
+    "image": "project-elephant-house-factory-complex-ranala-1793102790889.webp"
   }
 ];
