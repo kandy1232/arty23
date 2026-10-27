@@ -68,5 +68,15 @@ window.PROJECTS=[
     "desc": "Premium office wall covering installed at the Elephant House factory complex in Ranala, Colombo. Sage green geometric wallpaper for the executive office, with tropical leaf botanical wallpaper for the meeting room and reception lounge. A calm, natural colour palette that creates a professional and welcoming workspace. Ideal for corporate offices, factories, showrooms and reception areas across Sri Lanka. Contact us for a free consultation and quotation.",
     "status": "active",
     "image": "project-elephant-house-factory-complex-ranala-1793102790889.webp"
+  },
+  {
+    "id": "project-1793104609836",
+    "added": "2026-10-27",
+    "title": "K Food Kottawa Restaurant Wall Mural",
+    "location": "Kottawa, Korean Restaurant",
+    "category": "Restaurant / Wall Mural",
+    "desc": "Custom cherry blossom wall mural installed at K Food, Kottawa, Colombo. A night-time pink blossom and lantern street scene wraps the private dining room in deep blue, creating an immersive Korean-style atmosphere for family and group dining. A good example of themed restaurant wallpaper and custom wall murals in Sri Lanka. Ideal for restaurants, cafés, hotels and themed dining rooms. Contact us for a free consultation and quotation.",
+    "status": "active",
+    "image": "project-k-food-kottawa-restaurant-wall-mural-1793104606186.webp"
   }
 ];
