@@ -234,5 +234,31 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168298919.webp",
     "full": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168298919.webp"
+  },
+  {
+    "id": "tropical-1793168914499",
+    "added": "2026-10-28",
+    "title": "Golden Palm Leaves Luxury Wall Mural | Neutral Tropical Wallpaper",
+    "desc": "Create an elegant, calming space with this golden palm leaf mural. Soft beige and champagne fronds over a textured white wall add quiet luxury. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "tropical-golden-palm-leaves-luxury-wall-mural-neutral-tropical-wallpaper-1793168911830.webp",
+    "full": "tropical-golden-palm-leaves-luxury-wall-mural-neutral-tropical-wallpaper-1793168911830.webp"
   }
 ];
