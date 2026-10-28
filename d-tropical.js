@@ -232,7 +232,7 @@ window.DESIGNS["tropical"]=[
       "non-woven"
     ],
     "status": "active",
-    "thumb": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168261107.png",
-    "full": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168261107.png"
+    "thumb": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168298919.webp",
+    "full": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168298919.webp"
   }
 ];
