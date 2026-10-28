@@ -316,5 +316,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-beige-monstera-leaves-wall-mural-neutral-tropical-wallpaper-1793211203448.webp",
     "full": "tropical-beige-monstera-leaves-wall-mural-neutral-tropical-wallpaper-1793211203448.webp"
+  },
+  {
+    "id": "tropical-1793211412767",
+    "added": "2026-10-28",
+    "title": "Olive Green Ginkgo Line Art Wall Mural | Botanical Wallpaper",
+    "desc": "Add depth and calm with this olive green ginkgo line art mural. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. ",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "tropical-olive-green-ginkgo-line-art-wall-mural-botanical-wallpaper-1793211410045.webp",
+    "full": "tropical-olive-green-ginkgo-line-art-wall-mural-botanical-wallpaper-1793211410045.webp"
   }
 ];
