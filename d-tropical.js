@@ -260,5 +260,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-golden-palm-leaves-luxury-wall-mural-neutral-tropical-wallpaper-1793168911830.webp",
     "full": "tropical-golden-palm-leaves-luxury-wall-mural-neutral-tropical-wallpaper-1793168911830.webp"
+  },
+  {
+    "id": "tropical-1793169698715",
+    "added": "2026-10-28",
+    "title": "Beige Blue Large Leaf Wall Mural | Linen Texture Botanical Wallpaper",
+    "desc": "Add soft luxury to your space with this large leaf mural. Cream and dusty blue watercolor leaves on a linen-textured background create a calm, elegant wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "tropical-beige-blue-large-leaf-wall-mural-linen-texture-botanical-wallpaper-1793169695980.webp",
+    "full": "tropical-beige-blue-large-leaf-wall-mural-linen-texture-botanical-wallpaper-1793169695980.webp"
   }
 ];
