@@ -344,5 +344,32 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-olive-green-ginkgo-line-art-wall-mural-botanical-wallpaper-1793211410045.webp",
     "full": "tropical-olive-green-ginkgo-line-art-wall-mural-botanical-wallpaper-1793211410045.webp"
+  },
+  {
+    "id": "tropical-1793211531728",
+    "added": "2026-10-28",
+    "title": "Teal Bamboo Leaves Wall Mural | Concrete Texture Wallpaper",
+    "desc": "Bring fresh, natural character to your bedroom or living space with this teal bamboo leaf mural on a rustic concrete-effect background. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote. ",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "dining-room",
+      "home-office",
+      "hallway",
+      "spa",
+      "salon",
+      "cafe",
+      "hotel"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "tropical-teal-bamboo-leaves-wall-mural-concrete-texture-wallpaper-1793211528747.webp",
+    "full": "tropical-teal-bamboo-leaves-wall-mural-concrete-texture-wallpaper-1793211528747.webp"
   }
 ];
