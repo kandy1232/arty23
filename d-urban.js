@@ -480,5 +480,31 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-lack-grey-city-skyline-wall-mural-monochrome-wallpaper-1793165102434.webp",
     "full": "urban-lack-grey-city-skyline-wall-mural-monochrome-wallpaper-1793165102434.webp"
+  },
+  {
+    "id": "urban-1793167572822",
+    "added": "2026-10-28",
+    "title": "New York Street Sketch Wall Mural | Black White Red Wallpaper",
+    "desc": "Add a stylish urban edge with this New York street sketch mural. Black and white line art with bold red accents creates a modern focal wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "home-office",
+      "studio",
+      "living-room",
+      "office",
+      "bedroom",
+      "cafe",
+      "restaurant",
+      "teen-room"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "urban-new-york-street-sketch-wall-mural-black-white-red-wallpaper-1793167566228.webp",
+    "full": "urban-new-york-street-sketch-wall-mural-black-white-red-wallpaper-1793167566228.webp"
   }
 ];
