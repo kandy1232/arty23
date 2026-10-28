@@ -288,5 +288,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-beige-blue-large-leaf-wall-mural-linen-texture-botanical-wallpaper-1793169695980.webp",
     "full": "tropical-beige-blue-large-leaf-wall-mural-linen-texture-botanical-wallpaper-1793169695980.webp"
+  },
+  {
+    "id": "tropical-1793211206900",
+    "added": "2026-10-28",
+    "title": "Beige Monstera Leaves Wall Mural | Neutral Tropical Wallpaper",
+    "desc": "Bring a calm tropical feel to your space with this beige monstera leaf mural. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Available colours: 🟤 Beige | 🟢 Sage | ⚪ Greige | 🔵 Slate",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "tropical-beige-monstera-leaves-wall-mural-neutral-tropical-wallpaper-1793211203448.webp",
+    "full": "tropical-beige-monstera-leaves-wall-mural-neutral-tropical-wallpaper-1793211203448.webp"
   }
 ];
