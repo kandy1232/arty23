@@ -398,5 +398,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-cream-skeleton-leaf-vein-wall-mural-neutral-botanical-wallpaper-1793211650772.webp",
     "full": "tropical-cream-skeleton-leaf-vein-wall-mural-neutral-botanical-wallpaper-1793211650772.webp"
+  },
+  {
+    "id": "tropical-1793211920316",
+    "added": "2026-10-28",
+    "title": "Sage Green Eucalyptus Wall Mural | Watercolor Botanical Wallpaper",
+    "desc": "Bring a fresh, serene feel to your home with this sage green eucalyptus watercolor mural. Golden grasses on a soft cream background add warmth. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "tropical-sage-green-eucalyptus-wall-mural-watercolor-botanical-wallpaper-1793211917394.webp",
+    "full": "tropical-sage-green-eucalyptus-wall-mural-watercolor-botanical-wallpaper-1793211917394.webp"
   }
 ];
