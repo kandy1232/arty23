@@ -206,5 +206,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-beige-fan-palm-botanical-wall-mural-sri-lanka-1793018136974.webp",
     "full": "tropical-beige-fan-palm-botanical-wall-mural-sri-lanka-1793018136974.webp"
+  },
+  {
+    "id": "tropical-1793168278793",
+    "added": "2026-10-28",
+    "title": "Green Ginkgo Leaves Watercolor Wall Mural | Botanical Wallpaper",
+    "desc": "Bring calm, natural energy to your space with this green watercolor leaf mural. Soft ginkgo leaves in fresh lime and emerald shades create a serene focal wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168261107.png",
+    "full": "tropical-green-ginkgo-leaves-watercolor-wall-mural-botanical-wallpaper-1793168261107.png"
   }
 ];
