@@ -452,5 +452,33 @@ window.DESIGNS["urban"]=[
     "status": "active",
     "thumb": "urban-abstract-geometric-skyline-wallpaper-sri-lanka-1793124832073.webp",
     "full": "urban-abstract-geometric-skyline-wallpaper-sri-lanka-1793124832073.webp"
+  },
+  {
+    "id": "urban-1793165105547",
+    "added": "2026-10-28",
+    "title": "lack & Grey City Skyline Wall Mural | Monochrome Wallpaper",
+    "desc": "Give your wall a sleek urban look with this modern city skyline silhouette mural. Charcoal buildings with golden window accents add depth and style. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "thumb": "urban-lack-grey-city-skyline-wall-mural-monochrome-wallpaper-1793165102434.webp",
+    "full": "urban-lack-grey-city-skyline-wall-mural-monochrome-wallpaper-1793165102434.webp"
   }
 ];
