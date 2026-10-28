@@ -371,5 +371,32 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-teal-bamboo-leaves-wall-mural-concrete-texture-wallpaper-1793211528747.webp",
     "full": "tropical-teal-bamboo-leaves-wall-mural-concrete-texture-wallpaper-1793211528747.webp"
+  },
+  {
+    "id": "tropical-1793211653564",
+    "added": "2026-10-28",
+    "title": "Cream Skeleton Leaf Vein Wall Mural | Neutral Botanical Wallpaper",
+    "desc": "Create a soft, airy atmosphere with this cream skeleton leaf mural. Delicate golden-olive veins add subtle texture and quiet elegance. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka. Request a quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "dining-room",
+      "home-office",
+      "hallway",
+      "spa",
+      "salon",
+      "boutique",
+      "hotel"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "tropical-cream-skeleton-leaf-vein-wall-mural-neutral-botanical-wallpaper-1793211650772.webp",
+    "full": "tropical-cream-skeleton-leaf-vein-wall-mural-neutral-botanical-wallpaper-1793211650772.webp"
   }
 ];
