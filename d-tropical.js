@@ -426,5 +426,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-sage-green-eucalyptus-wall-mural-watercolor-botanical-wallpaper-1793211917394.webp",
     "full": "tropical-sage-green-eucalyptus-wall-mural-watercolor-botanical-wallpaper-1793211917394.webp"
+  },
+  {
+    "id": "tropical-1793293583154",
+    "added": "2026-10-29",
+    "title": "Terracotta Dried Palm Leaves Wall Mural | Rustic Wallpaper",
+    "desc": "Add warm, earthy character to your space with this dried palm fan leaf mural. Terracotta and cream tones on a textured stone-effect backdrop create a bold focal wall. Custom-size wallpaper in Colombo, with island-wide delivery across Sri Lanka.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "tropical-terracotta-dried-palm-leaves-wall-mural-rustic-wallpaper-1793293580223.webp",
+    "full": "tropical-terracotta-dried-palm-leaves-wall-mural-rustic-wallpaper-1793293580223.webp"
   }
 ];
