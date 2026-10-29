@@ -454,5 +454,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-terracotta-dried-palm-leaves-wall-mural-rustic-wallpaper-1793293580223.webp",
     "full": "tropical-terracotta-dried-palm-leaves-wall-mural-rustic-wallpaper-1793293580223.webp"
+  },
+  {
+    "id": "tropical-1793294517909",
+    "added": "2026-10-29",
+    "title": "Sage Green Banana Leaf Line Art Wall Mural | Tropical Wallpaper",
+    "desc": "Bring a relaxed tropical feel to your bedroom with this hand-drawn banana leaf line art mural. Soft sage green strokes on a cream background keep the room calm and airy, perfect for villas, resorts and homes. Ask for a quote",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "thumb": "tropical-sage-green-banana-leaf-line-art-wall-mural-tropical-wallpaper-1793294515036.webp",
+    "full": "tropical-sage-green-banana-leaf-line-art-wall-mural-tropical-wallpaper-1793294515036.webp"
   }
 ];
