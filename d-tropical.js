@@ -482,5 +482,33 @@ window.DESIGNS["tropical"]=[
     "status": "active",
     "thumb": "tropical-sage-green-banana-leaf-line-art-wall-mural-tropical-wallpaper-1793294515036.webp",
     "full": "tropical-sage-green-banana-leaf-line-art-wall-mural-tropical-wallpaper-1793294515036.webp"
+  },
+  {
+    "id": "tropical-1793294690364",
+    "added": "2026-10-29",
+    "title": "Vintage Tree Forest Wall Mural | Sage Green Scenic Wallpaper sri lanka ",
+    "desc": "Bring the calm of an old-world woodland into your home with this hand-painted style tree mural. Sweeping branches in sage green and dusty blue over a warm beige wall add depth and character to living rooms, bedrooms and dining areas. Request a quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "thumb": "tropical-vintage-tree-forest-wall-mural-sage-green-scenic-wallpaper-sri-lanka-1793294687423.webp",
+    "full": "tropical-vintage-tree-forest-wall-mural-sage-green-scenic-wallpaper-sri-lanka-1793294687423.webp"
   }
 ];
