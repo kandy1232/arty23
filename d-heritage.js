@@ -316,5 +316,33 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-sri-lankan-dagaba-lotus-pond-wallpaper-mural-1792296674920.webp",
     "full": "heritage-sri-lankan-dagaba-lotus-pond-wallpaper-mural-1792296674920.webp"
+  },
+  {
+    "id": "heritage-1793252233207",
+    "added": "2026-10-29",
+    "title": "Ink Toile sri lanka  Port Wallpaper",
+    "desc": "Bring island nostalgia to your walls with this ink toile tropical port wallpaper. Fine hand-inked clock towers, verandah buildings, a steam train on a viaduct, outrigger boats, rickshaws and palms sit on a warm white ground with soft grey wash clouds and touches of antique gold. The seamless repeating pattern suits bedrooms, living rooms, hallways, hotels, cafes, offices and boutique spaces across Sri Lanka. Textured, washable and available in custom sizes.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "thumb": "heritage-ink-toile-sri-lanka-port-wallpaper-1793252230033.webp",
+    "full": "heritage-ink-toile-sri-lanka-port-wallpaper-1793252230033.webp"
   }
 ];
