@@ -250,7 +250,25 @@ window.DESIGNS["forest"]=[
     ],
     "status": "active",
     "thumb": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp",
-    "full": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp"
+    "full": "forest-silver-birch-trunk-wall-mural-tree-wallpaper-sri-lanka-1791190476748.webp",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Clay",
+        "h": "#b66e53"
+      },
+      {
+        "n": "Olive",
+        "h": "#556b2f"
+      },
+      {
+        "n": "Emerald",
+        "h": "#046307"
+      }
+    ]
   },
   {
     "id": "forest-1791194033643",
