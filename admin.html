@@ -196,6 +196,12 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
       <input id="fRooms">
       <label>Material (comma separated, e.g. vinyl,non-woven)</label>
       <input id="fMaterial">
+      <label>Colours available for this design (tick the ones customers can choose)</label>
+      <div id="palWrap"></div>
+      <div id="clrList"></div>
+      <p id="clrCount" style="font-size:13px;margin:8px 0"></p>
+      <p style="margin:8px 0"><button type="button" class="btn o sm" id="btnAddClr">+ Add custom colour</button> <button type="button" class="btn danger sm" id="btnNoClr">No colour option</button></p>
+      <small class="hint">Tick 4 or 5 colours for this design. Customers only see the ticked colours. Leave everything unticked for photographic designs.</small>
       <label>Status</label>
       <select id="fStatus"><option value="active">Active (visible)</option><option value="hidden">Hidden</option></select>
       <p style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
@@ -345,6 +351,20 @@ function renderDesigns(){
 }
 function escH(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 
+var clrs=[];
+var PAL_HOME=[["Greige","#f2ebd9"],["Taupe","#d9c5b2"],["Sage","#9caf88"],["Olive","#556b2f"],["Soft Blue","#8da399"],["Slate","#708090"],["Terra","#c86d51"],["Clay","#b66e53"]];
+var PAL_HOTEL=[["Alabaster","#fdfbf7"],["Cream","#fffdd0"],["Emerald","#046307"],["Navy","#001f3f"],["Teal","#004d40"],["Charcoal","#36454f"],["Black","#212121"],["Brass","#c5a059"],["Ochre","#cc7722"],["Sand","#c2b280"],["Coral","#d97d64"]];
+function inPal(n){return PAL_HOME.concat(PAL_HOTEL).some(function(p){return p[0]===n})}
+function hasClr(n){return clrs.some(function(c){return c.n===n})}
+function togClr(n,h,on){if(on){if(!hasClr(n))clrs.push({n:n,h:h})}else{clrs=clrs.filter(function(c){return c.n!==n})}renderClr()}
+function palGroup(t,arr){return '<p style="font-size:12px;font-weight:700;color:#1b2a6b;margin:10px 0 4px">'+t+'</p><div style="display:flex;flex-wrap:wrap;gap:8px">'+arr.map(function(p){var on=hasClr(p[0]);return '<label style="display:flex;align-items:center;gap:6px;margin:0;padding:5px 8px;border:1px solid '+(on?'#1b2a6b':'#ddd6c6')+';border-radius:4px;background:'+(on?'#eef0fa':'#fff')+';cursor:pointer;text-transform:none;letter-spacing:0;font-size:13px;font-weight:500;color:#22252b"><input type="checkbox" style="width:auto;margin:0" '+(on?'checked ':'')+'onchange="togClr(\''+p[0]+'\',\''+p[1]+'\',this.checked)"><span style="width:26px;height:14px;border-radius:4px;border:1px solid #bbb;background:'+p[1]+';display:inline-block"></span>'+p[0]+'</label>'}).join('')+'</div>'}
+function renderClr(){
+  el('palWrap').innerHTML=palGroup('Home colours',PAL_HOME)+palGroup('Hotel colours',PAL_HOTEL);
+  el('clrList').innerHTML=clrs.map(function(c,i){return inPal(c.n)?'':'<div style="display:flex;gap:8px;align-items:center;margin:4px 0"><input type="color" value="'+c.h+'" onchange="clrs['+i+'].h=this.value" style="width:46px;height:36px;padding:2px;flex:none"><input value="'+escH(c.n)+'" onchange="clrs['+i+'].n=this.value" placeholder="Custom colour name"><button type="button" class="btn danger sm" onclick="clrs.splice('+i+',1);renderClr()">&times;</button></div>'}).join('');
+  var N=clrs.filter(function(c){return c.n&&c.n.trim()}).length;
+  el('clrCount').innerHTML=N===0?'<span style="color:#6b665b">No colours selected - customers will not see a colour option.</span>':(N>5?'<span style="color:#a3222e">'+N+' colours selected - more than 5 may be hard for customers to choose.</span>':'<span style="color:#256a35">'+N+' colour'+(N>1?'s':'')+' selected (recommended 4 to 5).</span>')}
+el('btnAddClr').onclick=function(){clrs.push({n:'',h:'#cccccc'});renderClr()};
+el('btnNoClr').onclick=function(){clrs=[];renderClr()};
 window.openEdit=function(i){
   editIndex=i; pendingFile=null;
   var d=curDesigns[i];
@@ -355,7 +375,7 @@ window.openEdit=function(i){
   el('fSizes').value=d.sizes||'Custom size';
   el('fFormat').value=d.format||'mural';
   el('fRooms').value=(d.rooms||[]).join(',');
-  el('fMaterial').value=(d.material||[]).join(',');
+  el('fMaterial').value=(d.material||[]).join(',');clrs=JSON.parse(JSON.stringify(d.colours||[]));renderClr();
   el('fStatus').value=d.status||'active';
   el('imgPreview').src=d.thumb||''; el('imgPreview').style.display=d.thumb?'block':'none';
   el('btnDeleteDesign').classList.remove('hide');
@@ -364,7 +384,7 @@ window.openEdit=function(i){
 el('btnNewDesign').onclick=function(){
   editIndex=-1; pendingFile=null;
   el('modalTitle').textContent='Add New Design';
-  ['fTitle','fDesc','fPrice','fRooms','fMaterial'].forEach(function(id){el(id).value=''});
+  ['fTitle','fDesc','fPrice','fRooms','fMaterial'].forEach(function(id){el(id).value=''});clrs=[];renderClr();
   el('fSizes').value='Custom size'; el('fFormat').value='mural'; el('fStatus').value='active';
   el('imgPreview').style.display='none';
   el('btnDeleteDesign').classList.add('hide');
@@ -403,7 +423,7 @@ el('btnSaveDesign').onclick=async function(){
     d.format=el('fFormat').value;
     d.rooms=el('fRooms').value.split(',').map(function(s){return s.trim()}).filter(Boolean);
     d.material=el('fMaterial').value.split(',').map(function(s){return s.trim()}).filter(Boolean);
-    d.status=el('fStatus').value;
+    d.status=el('fStatus').value;d.colours=clrs.filter(function(c){return c.n&&c.n.trim()});
     if(imgPath){d.thumb=imgPath; d.full=imgPath}
     if(editIndex>=0){curDesigns[editIndex]=d} else {curDesigns.push(d)}
     var newText=serializeDesignsFile(curCat, curDesigns);
