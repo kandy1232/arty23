@@ -429,5 +429,39 @@ window.DESIGNS["beach"]=[
     "colours": [],
     "thumb": "beach-golden-hour-beach-palm-trees-wall-mural-peach-sunset-wallpaper-1793433158048.webp",
     "full": "beach-golden-hour-beach-palm-trees-wall-mural-peach-sunset-wallpaper-1793433158048.webp"
+  },
+  {
+    "id": "beach-1793433468847",
+    "added": "2026-10-31",
+    "title": "turquoise-ocean-wave-crashing-blue-sea-wall-mural-sri-lanka.jpg",
+    "desc": "Feel the power and freshness of the sea with this crashing turquoise wave mural. Sparkling white foam, deep blue water and fluffy clouds under a bright sky turn bathrooms, spas, living rooms and beach cafes into a lively coastal retreat. Ask for a quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Slate",
+        "h": "#708090"
+      }
+    ],
+    "thumb": "beach-turquoise-ocean-wave-crashing-blue-sea-wall-mural-sri-lanka-jpg-1793433465669.webp",
+    "full": "beach-turquoise-ocean-wave-crashing-blue-sea-wall-mural-sri-lanka-jpg-1793433465669.webp"
   }
 ];
