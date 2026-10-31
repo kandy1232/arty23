@@ -354,5 +354,51 @@ window.DESIGNS["beach"]=[
     "colours": [],
     "thumb": "beach-misty-ocean-sunrise-wall-mural-fishing-boats-seascape-wallpaper-sri-lanka-1793432768982.webp",
     "full": "beach-misty-ocean-sunrise-wall-mural-fishing-boats-seascape-wallpaper-sri-lanka-1793432768982.webp"
+  },
+  {
+    "id": "beach-1793432911118",
+    "added": "2026-10-31",
+    "title": "Powder Blue Seashell Fan Wall Mural | Coastal Pattern Wallpaper sri lanka ",
+    "desc": "Give your home a breezy seaside charm with this powder blue seashell mural. Hundreds of fine hand-drawn lines form overlapping fans that feel light, rhythmic and fresh, perfect for beach villas, living rooms and nurseries. Message Arty Homes for pricing.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      }
+    ],
+    "thumb": "beach-powder-blue-seashell-fan-wall-mural-coastal-pattern-wallpaper-sri-lanka-1793432907130.webp",
+    "full": "beach-powder-blue-seashell-fan-wall-mural-coastal-pattern-wallpaper-sri-lanka-1793432907130.webp"
   }
 ];
