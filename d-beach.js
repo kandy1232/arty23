@@ -463,5 +463,34 @@ window.DESIGNS["beach"]=[
     ],
     "thumb": "beach-turquoise-ocean-wave-crashing-blue-sea-wall-mural-sri-lanka-jpg-1793433465669.webp",
     "full": "beach-turquoise-ocean-wave-crashing-blue-sea-wall-mural-sri-lanka-jpg-1793433465669.webp"
+  },
+  {
+    "id": "beach-1793434196835",
+    "added": "2026-10-31",
+    "title": "Crescent Moon Sailboat Night Sky Wall Mural | Teal Line Art Wallpaper sri lanka ",
+    "desc": "Drift into a peaceful midnight scene with this glowing crescent moon mural. A lone sailboat glides across dark, silky water beneath twinkling stars and hand-drawn clouds, giving bedrooms, nurseries, lounges and reading corners a dreamy, soothing atmosphere. Send us your wall size.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "beach-crescent-moon-sailboat-night-sky-wall-mural-teal-line-art-wallpaper-sri-lanka-1793434193934.webp",
+    "full": "beach-crescent-moon-sailboat-night-sky-wall-mural-teal-line-art-wallpaper-sri-lanka-1793434193934.webp"
   }
 ];
