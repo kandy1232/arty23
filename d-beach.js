@@ -534,5 +534,32 @@ window.DESIGNS["beach"]=[
     ],
     "thumb": "beach-navy-coral-abstract-waves-wall-mural-modern-art-wallpaper-sri-lanka-1793435908973.webp",
     "full": "beach-navy-coral-abstract-waves-wall-mural-modern-art-wallpaper-sri-lanka-1793435908973.webp"
+  },
+  {
+    "id": "beach-1793437721031",
+    "added": "2026-10-31",
+    "title": "Blue Ocean Waves and Rocky Shore Wallpaper sri lanka ",
+    "desc": "Bring the sea indoors with this blue ocean waves mural. Rolling hand-painted waves in deep teal and indigo crash against dark rocks and a soft sandy shore, with fine white foam and spray, framed by olive-like branches on a warm cream sky. Printed as one seamless scene, it suits living rooms, bedrooms, dining rooms, cafes, restaurants, hotel lobbies, spas and reception areas across Sri Lanka. Textured, washable wallpaper material, available in custom sizes for any wall.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "beach-blue-ocean-waves-and-rocky-shore-wallpaper-sri-lanka-1793437718498.webp",
+    "full": "beach-blue-ocean-waves-and-rocky-shore-wallpaper-sri-lanka-1793437718498.webp"
   }
 ];
