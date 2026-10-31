@@ -603,5 +603,47 @@ window.DESIGNS["beach"]=[
     ],
     "thumb": "beach-teal-aerial-beach-coastline-wall-mural-abstract-ocean-wallpaper-1793437964165.webp",
     "full": "beach-teal-aerial-beach-coastline-wall-mural-abstract-ocean-wallpaper-1793437964165.webp"
+  },
+  {
+    "id": "beach-1793438745918",
+    "added": "2026-10-31",
+    "title": "Navy Blue Beige Swirl Abstract Wall Mural | Ocean Current Wallpaper sri lankla ",
+    "desc": "Let your wall flow like a gentle tide with this swirling abstract mural. Deep navy melts into soft sky blue and sandy cream, traced with delicate white spirals that bring calm luxury to living rooms, lounges, hotel lobbies and master bedrooms.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Navy",
+        "h": "#001f3f"
+      },
+      {
+        "n": "Emerald",
+        "h": "#046307"
+      }
+    ],
+    "thumb": "beach-navy-blue-beige-swirl-abstract-wall-mural-ocean-current-wallpaper-sri-lankla-1793438740353.webp",
+    "full": "beach-navy-blue-beige-swirl-abstract-wall-mural-ocean-current-wallpaper-sri-lankla-1793438740353.webp"
   }
 ];
