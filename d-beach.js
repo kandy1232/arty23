@@ -492,5 +492,47 @@ window.DESIGNS["beach"]=[
     "colours": [],
     "thumb": "beach-crescent-moon-sailboat-night-sky-wall-mural-teal-line-art-wallpaper-sri-lanka-1793434193934.webp",
     "full": "beach-crescent-moon-sailboat-night-sky-wall-mural-teal-line-art-wallpaper-sri-lanka-1793434193934.webp"
+  },
+  {
+    "id": "beach-1793435911983",
+    "added": "2026-10-31",
+    "title": "Navy Coral Abstract Waves Wall Mural | Modern Art Wallpaper sri lanka ",
+    "desc": "Add rhythm and movement to your walls with this abstract wave mural. Layers of navy, sky blue, coral and cream swirl together in textured brush-like strokes, creating a bold yet harmonious focal point for dining rooms, offices, lounges and cafes. Ask us for pricing.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Emerald",
+        "h": "#046307"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      }
+    ],
+    "thumb": "beach-navy-coral-abstract-waves-wall-mural-modern-art-wallpaper-sri-lanka-1793435908973.webp",
+    "full": "beach-navy-coral-abstract-waves-wall-mural-modern-art-wallpaper-sri-lanka-1793435908973.webp"
   }
 ];
