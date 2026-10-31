@@ -400,5 +400,34 @@ window.DESIGNS["beach"]=[
     ],
     "thumb": "beach-powder-blue-seashell-fan-wall-mural-coastal-pattern-wallpaper-sri-lanka-1793432907130.webp",
     "full": "beach-powder-blue-seashell-fan-wall-mural-coastal-pattern-wallpaper-sri-lanka-1793432907130.webp"
+  },
+  {
+    "id": "beach-1793433164753",
+    "added": "2026-10-31",
+    "title": "Golden Hour Beach Palm Trees Wall Mural | Peach Sunset Wallpaper",
+    "desc": "Bring the hush of a warm evening shoreline into your room with this painted beach mural. A glowing sun, rolling waves and two leaning palms over soft sand create a dreamy tropical escape for bedrooms, villas and relaxing lounges. Request a custom quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "beach-golden-hour-beach-palm-trees-wall-mural-peach-sunset-wallpaper-1793433158048.webp",
+    "full": "beach-golden-hour-beach-palm-trees-wall-mural-peach-sunset-wallpaper-1793433158048.webp"
   }
 ];
