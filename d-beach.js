@@ -325,5 +325,34 @@ window.DESIGNS["beach"]=[
     "status": "active",
     "thumb": "beach-misty-mountain-bay-wall-mural-blue-mountain-sea-wallpaper-sri-lanka-1791373758003.webp",
     "full": "beach-misty-mountain-bay-wall-mural-blue-mountain-sea-wallpaper-sri-lanka-1791373758003.webp"
+  },
+  {
+    "id": "beach-1793432774765",
+    "added": "2026-10-31",
+    "title": "Misty Ocean Sunrise Wall Mural | Fishing Boats Seascape Wallpaper sri lanka ",
+    "desc": "Wake up to a golden sunrise over a calm blue sea with this seascape mural. Fishing boats, misty mountain layers and soaring seagulls bring peaceful coastal energy to living rooms, bedrooms, resorts and cafes across Sri Lanka. Ask us for a quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "beach-misty-ocean-sunrise-wall-mural-fishing-boats-seascape-wallpaper-sri-lanka-1793432768982.webp",
+    "full": "beach-misty-ocean-sunrise-wall-mural-fishing-boats-seascape-wallpaper-sri-lanka-1793432768982.webp"
   }
 ];
