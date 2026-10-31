@@ -561,5 +561,47 @@ window.DESIGNS["beach"]=[
     "colours": [],
     "thumb": "beach-blue-ocean-waves-and-rocky-shore-wallpaper-sri-lanka-1793437718498.webp",
     "full": "beach-blue-ocean-waves-and-rocky-shore-wallpaper-sri-lanka-1793437718498.webp"
+  },
+  {
+    "id": "beach-1793437967401",
+    "added": "2026-10-31",
+    "title": "Teal Aerial Beach Coastline Wall Mural | Abstract Ocean Wallpaper",
+    "desc": "See the shore from above with this abstract coastline mural. A tiny rowing boat drifts through deep teal water, where flowing white lines, soft aqua bands and a sandy edge create a calm, modern focal wall for entrances, lounges, spas and bedrooms.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Navy",
+        "h": "#001f3f"
+      }
+    ],
+    "thumb": "beach-teal-aerial-beach-coastline-wall-mural-abstract-ocean-wallpaper-1793437964165.webp",
+    "full": "beach-teal-aerial-beach-coastline-wall-mural-abstract-ocean-wallpaper-1793437964165.webp"
   }
 ];
