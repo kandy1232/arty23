@@ -666,5 +666,55 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-misty-pine-forest-wall-mural-foggy-green-mountain-wallpaper-sri-lanka-1793542674396.webp",
     "full": "landscape-misty-pine-forest-wall-mural-foggy-green-mountain-wallpaper-sri-lanka-1793542674396.webp"
+  },
+  {
+    "id": "landscape-1793542798167",
+    "added": "2026-11-01",
+    "title": "Jade Green Watercolor Mountains Wall Mural | Misty Hills Buy Wallpaper sri lanka ",
+    "desc": "Bring spa-like serenity to your walls with soft jade mountains dissolving into watercolor mist. Delicate flowing lines and a subtle patterned band add quiet detail, making this mural a restful choice for dining rooms, bedrooms, clinics and meditation spaces.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Alabaster",
+        "h": "#fdfbf7"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Ochre",
+        "h": "#cc7722"
+      },
+      {
+        "n": "Coral",
+        "h": "#d97d64"
+      },
+      {
+        "n": "Sand",
+        "h": "#c2b280"
+      }
+    ],
+    "thumb": "landscape-jade-green-watercolor-mountains-wall-mural-misty-hills-buy-wallpaper-sri-lanka-1793542787833.webp",
+    "full": "landscape-jade-green-watercolor-mountains-wall-mural-misty-hills-buy-wallpaper-sri-lanka-1793542787833.webp"
   }
 ];
