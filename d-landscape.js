@@ -637,5 +637,34 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-misty-valley-sunrise-wall-mural-terraced-tea-hills-wallpaper-sri-lanka-1793542374092.webp",
     "full": "landscape-misty-valley-sunrise-wall-mural-terraced-tea-hills-wallpaper-sri-lanka-1793542374092.webp"
+  },
+  {
+    "id": "landscape-1793542677603",
+    "added": "2026-11-01",
+    "title": "Misty Pine Forest Wall Mural | Foggy Green Mountain Wallpaper Sri lanka ",
+    "desc": "Step into the stillness of a rain-washed forest with this immersive mural. Dark green pines rise through drifting white mist, with soft blue ridges fading behind, creating a fresh, grounding view for dining areas, tea rooms, lounges, offices and wellness spaces.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-misty-pine-forest-wall-mural-foggy-green-mountain-wallpaper-sri-lanka-1793542674396.webp",
+    "full": "landscape-misty-pine-forest-wall-mural-foggy-green-mountain-wallpaper-sri-lanka-1793542674396.webp"
   }
 ];
