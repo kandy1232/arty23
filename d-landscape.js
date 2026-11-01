@@ -407,5 +407,34 @@ window.DESIGNS["landscape"]=[
     ],
     "thumb": "landscape-light-blue-watercolor-hills-wall-mural-minimal-abstract-wallpaper-sri-lanka-1793540132479.webp",
     "full": "landscape-light-blue-watercolor-hills-wall-mural-minimal-abstract-wallpaper-sri-lanka-1793540132479.webp"
+  },
+  {
+    "id": "landscape-1793540291774",
+    "added": "2026-11-01",
+    "title": "Sunrise Pine Tree Mountains Wall Mural | Oriental Cloud Wallpaper Sri Lanka ",
+    "desc": "Greet each day with a golden dawn rising over a sea of clouds. A weathered pine clings to a cliff while misty peaks float below, bringing timeless oriental calm to entrances, living rooms, tea lounges, wellness studios and executive offices.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-sunrise-pine-tree-mountains-wall-mural-oriental-cloud-wallpaper-sri-lanka-1793540289191.webp",
+    "full": "landscape-sunrise-pine-tree-mountains-wall-mural-oriental-cloud-wallpaper-sri-lanka-1793540289191.webp"
   }
 ];
