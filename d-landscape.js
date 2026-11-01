@@ -213,5 +213,34 @@ window.DESIGNS["landscape"]=[
     "status": "active",
     "thumb": "landscape-green-pine-mountain-painting-wall-mural-oriental-wallpaper-sri-lanka-1791428874220.webp",
     "full": "landscape-green-pine-mountain-painting-wall-mural-oriental-wallpaper-sri-lanka-1791428874220.webp"
+  },
+  {
+    "id": "landscape-1793534812560",
+    "added": "2026-11-01",
+    "title": "Misty Mauve Mountains Wall Mural | Pine Forest Landscape Wallpaper sri lanka ",
+    "desc": "Create a quiet, spa-like retreat with these soft layered hills drifting in morning fog. Muted mauve, taupe and sage tones with a faint pine skyline calm the mind, making this mural ideal behind a TV unit, bed or reading corner.",
+    "price": "LKR275 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-misty-mauve-mountains-wall-mural-pine-forest-landscape-wallpaper-sri-lanka-1793534809707.webp",
+    "full": "landscape-misty-mauve-mountains-wall-mural-pine-forest-landscape-wallpaper-sri-lanka-1793534809707.webp"
   }
 ];
