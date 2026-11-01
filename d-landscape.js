@@ -242,5 +242,34 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-misty-mauve-mountains-wall-mural-pine-forest-landscape-wallpaper-sri-lanka-1793534809707.webp",
     "full": "landscape-misty-mauve-mountains-wall-mural-pine-forest-landscape-wallpaper-sri-lanka-1793534809707.webp"
+  },
+  {
+    "id": "landscape-1793535204802",
+    "added": "2026-11-01",
+    "title": "Japanese Crane Red Sun Wall Mural | Cherry Blossom Wallpaper",
+    "desc": "Invite elegance and good fortune into your space with this oriental watercolor mural. A white crane glides past a glowing red sun and blooming branches, adding graceful drama to lounges, boutiques, restaurants, jewellery showrooms and living rooms.",
+    "price": "LKR275 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-japanese-crane-red-sun-wall-mural-cherry-blossom-wallpaper-1793535202284.webp",
+    "full": "landscape-japanese-crane-red-sun-wall-mural-cherry-blossom-wallpaper-1793535202284.webp"
   }
 ];
