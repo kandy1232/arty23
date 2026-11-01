@@ -361,5 +361,51 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-red-autumn-pagoda-lake-wall-mural-oriental-landscape-wallpaper-1793539783101.webp",
     "full": "landscape-red-autumn-pagoda-lake-wall-mural-oriental-landscape-wallpaper-1793539783101.webp"
+  },
+  {
+    "id": "landscape-1793540135279",
+    "added": "2026-11-01",
+    "title": "Light Blue Watercolor Hills Wall Mural | Minimal Abstract Wallpaper sri lanka ",
+    "desc": "Breathe easy with this airy watercolor mural of gentle blue hills mirrored in still water. Soft gradients from icy white to deep cobalt create a refreshing, open feel for dressing rooms, bedrooms, wellness studios, clinics and compact living spaces.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Clay",
+        "h": "#b66e53"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      }
+    ],
+    "thumb": "landscape-light-blue-watercolor-hills-wall-mural-minimal-abstract-wallpaper-sri-lanka-1793540132479.webp",
+    "full": "landscape-light-blue-watercolor-hills-wall-mural-minimal-abstract-wallpaper-sri-lanka-1793540132479.webp"
   }
 ];
