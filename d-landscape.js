@@ -463,5 +463,55 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-blue-grey-misty-mountains-wall-mural-foggy-lake-wallpaper-sri-lanka-1793540372252.webp",
     "full": "landscape-blue-grey-misty-mountains-wall-mural-foggy-lake-wallpaper-sri-lanka-1793540372252.webp"
+  },
+  {
+    "id": "landscape-1793540481426",
+    "added": "2026-11-01",
+    "title": "Olive Green Rolling Hills Wall Mural | Abstract Landscape Wallpaper Sri Lanka ",
+    "desc": "Refresh your space with layers of gentle green hills painted in soft watercolor washes. Olive, sage and forest tones flow across a creamy sky, giving yoga studios, bedrooms, offices and living rooms a grounded, restful, nature-inspired backdrop.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Coral",
+        "h": "#d97d64"
+      },
+      {
+        "n": "Alabaster",
+        "h": "#fdfbf7"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Brass",
+        "h": "#c5a059"
+      }
+    ],
+    "thumb": "landscape-olive-green-rolling-hills-wall-mural-abstract-landscape-wallpaper-sri-lanka-1793540478725.webp",
+    "full": "landscape-olive-green-rolling-hills-wall-mural-abstract-landscape-wallpaper-sri-lanka-1793540478725.webp"
   }
 ];
