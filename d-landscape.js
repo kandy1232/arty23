@@ -551,5 +551,33 @@ window.DESIGNS["landscape"]=[
     ],
     "thumb": "landscape-sunrise-valley-wall-mural-teal-sand-landscape-wallpaper-1793540690594.webp",
     "full": "landscape-sunrise-valley-wall-mural-teal-sand-landscape-wallpaper-1793540690594.webp"
+  },
+  {
+    "id": "landscape-1793541270649",
+    "added": "2026-11-01",
+    "title": "Blush Mountains Pine Forest Wall Mural | Bear Lake Wallpaper Sri Lanka ",
+    "desc": "Bring the hush of a wild northern dawn indoors with this forest mural. Blush-toned peaks rise above misty pines and a quiet lake, while a lone bear wanders the meadow, adding adventure to home offices, bedrooms, lounges and cafes.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "fabric single piece"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-blush-mountains-pine-forest-wall-mural-bear-lake-wallpaper-sri-lanka-1793541265640.webp",
+    "full": "landscape-blush-mountains-pine-forest-wall-mural-bear-lake-wallpaper-sri-lanka-1793541265640.webp"
   }
 ];
