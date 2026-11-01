@@ -579,5 +579,34 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-blush-mountains-pine-forest-wall-mural-bear-lake-wallpaper-sri-lanka-1793541265640.webp",
     "full": "landscape-blush-mountains-pine-forest-wall-mural-bear-lake-wallpaper-sri-lanka-1793541265640.webp"
+  },
+  {
+    "id": "landscape-1793542206668",
+    "added": "2026-11-01",
+    "title": "Turquoise River Valley Wall Mural | Autumn Mountain Wallpaper Sri lanka ",
+    "desc": "Open up your wall with a sweeping mountain valley view. A glittering turquoise river winds between blue ridges and golden autumn slopes under a bright sky, giving living rooms, libraries, offices, lounges and hotel lobbies real depth and energy.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-turquoise-river-valley-wall-mural-autumn-mountain-wallpaper-sri-lanka-1793542203126.webp",
+    "full": "landscape-turquoise-river-valley-wall-mural-autumn-mountain-wallpaper-sri-lanka-1793542203126.webp"
   }
 ];
