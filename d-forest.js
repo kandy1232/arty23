@@ -512,55 +512,5 @@ window.DESIGNS["forest"]=[
     "status": "active",
     "thumb": "forest-navy-blue-stylized-forest-wallpaper-mural-sri-lanka-1793029021850.webp",
     "full": "forest-navy-blue-stylized-forest-wallpaper-mural-sri-lanka-1793029021850.webp"
-  },
-  {
-    "id": "forest-1793539950335",
-    "added": "2026-11-01",
-    "title": "Light Blue Watercolor Hills Wall Mural | Minimal Abstract Wallpaper sri lanka ",
-    "desc": "Breathe easy with this airy watercolor mural of gentle blue hills mirrored in still water. Soft gradients from icy white to deep cobalt create a refreshing, open feel for dressing rooms, bedrooms, wellness studios, clinics and compact living spaces.",
-    "price": "LKR375 sqft ",
-    "sizes": "Custom size",
-    "format": "mural",
-    "rooms": [
-      "living-room",
-      "bedroom",
-      "hallway",
-      "office",
-      "cafe-restaurant",
-      "hotel",
-      "gym-sports-venue",
-      "salon-spa",
-      "retail",
-      "kitchen-dining"
-    ],
-    "material": [
-      "non-woven",
-      "textured"
-    ],
-    "status": "active",
-    "colours": [
-      {
-        "n": "Sage",
-        "h": "#9caf88"
-      },
-      {
-        "n": "Clay",
-        "h": "#b66e53"
-      },
-      {
-        "n": "Emerald",
-        "h": "#046307"
-      },
-      {
-        "n": "Brass",
-        "h": "#c5a059"
-      },
-      {
-        "n": "Charcoal",
-        "h": "#36454f"
-      }
-    ],
-    "thumb": "forest-light-blue-watercolor-hills-wall-mural-minimal-abstract-wallpaper-sri-lanka-1793539947668.webp",
-    "full": "forest-light-blue-watercolor-hills-wall-mural-minimal-abstract-wallpaper-sri-lanka-1793539947668.webp"
   }
 ];
