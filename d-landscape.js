@@ -436,5 +436,32 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-sunrise-pine-tree-mountains-wall-mural-oriental-cloud-wallpaper-sri-lanka-1793540289191.webp",
     "full": "landscape-sunrise-pine-tree-mountains-wall-mural-oriental-cloud-wallpaper-sri-lanka-1793540289191.webp"
+  },
+  {
+    "id": "landscape-1793540374819",
+    "added": "2026-11-01",
+    "title": "Blue Grey Misty Mountains Wall Mural | Foggy Lake Wallpaper Sri Lanka ",
+    "desc": "Wake up inside a tranquil morning fog with these layered blue-grey peaks drifting above a mirror-still lake. Tiny fishing boats and gliding birds add a peaceful story, perfect for master bedrooms, resorts, meditation corners and quiet lounges.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-blue-grey-misty-mountains-wall-mural-foggy-lake-wallpaper-sri-lanka-1793540372252.webp",
+    "full": "landscape-blue-grey-misty-mountains-wall-mural-foggy-lake-wallpaper-sri-lanka-1793540372252.webp"
   }
 ];
