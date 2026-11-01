@@ -513,5 +513,43 @@ window.DESIGNS["landscape"]=[
     ],
     "thumb": "landscape-olive-green-rolling-hills-wall-mural-abstract-landscape-wallpaper-sri-lanka-1793540478725.webp",
     "full": "landscape-olive-green-rolling-hills-wall-mural-abstract-landscape-wallpaper-sri-lanka-1793540478725.webp"
+  },
+  {
+    "id": "landscape-1793540696054",
+    "added": "2026-11-01",
+    "title": " Sunrise Valley Wall Mural | Teal Sand Landscape Wallpaper",
+    "desc": "Create a warm, storybook mood with this  valley mural. A winding river, layered teal and golden-sand hills and a soft rising sun give kids' rooms, nurseries, bedrooms and cosy living corners a playful yet stylish, calming backdrop.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      }
+    ],
+    "thumb": "landscape-sunrise-valley-wall-mural-teal-sand-landscape-wallpaper-1793540690594.webp",
+    "full": "landscape-sunrise-valley-wall-mural-teal-sand-landscape-wallpaper-1793540690594.webp"
   }
 ];
