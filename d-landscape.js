@@ -332,5 +332,34 @@ window.DESIGNS["landscape"]=[
     ],
     "thumb": "landscape-grey-ink-wash-mountains-wall-mural-zen-lake-landscape-wallpaper-1793539567809.webp",
     "full": "landscape-grey-ink-wash-mountains-wall-mural-zen-lake-landscape-wallpaper-1793539567809.webp"
+  },
+  {
+    "id": "landscape-1793539785824",
+    "added": "2026-11-01",
+    "title": "Red Autumn Pagoda Lake Wall Mural | Oriental Landscape Wallpaper",
+    "desc": "Step into a misty mountain valley where crimson maples glow beside a still lake. Traditional pagodas and soft reflections give this oriental mural a poetic, meditative charm, ideal for living rooms, tea lounges, restaurants, hotel lobbies and executive offices.",
+    "price": "LKR275 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-red-autumn-pagoda-lake-wall-mural-oriental-landscape-wallpaper-1793539783101.webp",
+    "full": "landscape-red-autumn-pagoda-lake-wall-mural-oriental-landscape-wallpaper-1793539783101.webp"
   }
 ];
