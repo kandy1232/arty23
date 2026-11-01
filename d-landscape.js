@@ -271,5 +271,29 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-japanese-crane-red-sun-wall-mural-cherry-blossom-wallpaper-1793535202284.webp",
     "full": "landscape-japanese-crane-red-sun-wall-mural-cherry-blossom-wallpaper-1793535202284.webp"
+  },
+  {
+    "id": "landscape-1793538484099",
+    "added": "2026-11-01",
+    "title": "Pastel Hills Birds Landscape Wall Mural | Minimal Nature Wallpaper sri lanka ",
+    "desc": "nursery,kids-room,bedroom,living-room,lounge,dining-room,hallway,home-office,spa,cafe",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-pastel-hills-birds-landscape-wall-mural-minimal-nature-wallpaper-sri-lanka-1793538481361.webp",
+    "full": "landscape-pastel-hills-birds-landscape-wall-mural-minimal-nature-wallpaper-sri-lanka-1793538481361.webp"
   }
 ];
