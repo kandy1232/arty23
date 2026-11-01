@@ -316,7 +316,9 @@ window.DESIGNS["landscape"]=[
       "retail",
       "kitchen-dining"
     ],
-    "material": [],
+    "material": [
+      "fabric"
+    ],
     "status": "active",
     "colours": [
       {
