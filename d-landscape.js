@@ -608,5 +608,34 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-turquoise-river-valley-wall-mural-autumn-mountain-wallpaper-sri-lanka-1793542203126.webp",
     "full": "landscape-turquoise-river-valley-wall-mural-autumn-mountain-wallpaper-sri-lanka-1793542203126.webp"
+  },
+  {
+    "id": "landscape-1793542377124",
+    "added": "2026-11-01",
+    "title": "Misty Valley Sunrise Wall Mural | Terraced Tea Hills Wallpaper Sri Lanka ",
+    "desc": "Let morning light spill across a fog-filled valley with this breathtaking mountain mural. Terraced green slopes, dark pine forests and layered blue ridges bring fresh, hill-country calm to living rooms, libraries, offices, boutique hotels and tea lounges.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "landscape-misty-valley-sunrise-wall-mural-terraced-tea-hills-wallpaper-sri-lanka-1793542374092.webp",
+    "full": "landscape-misty-valley-sunrise-wall-mural-terraced-tea-hills-wallpaper-sri-lanka-1793542374092.webp"
   }
 ];
