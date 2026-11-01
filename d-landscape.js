@@ -295,5 +295,40 @@ window.DESIGNS["landscape"]=[
     "colours": [],
     "thumb": "landscape-pastel-hills-birds-landscape-wall-mural-minimal-nature-wallpaper-sri-lanka-1793538481361.webp",
     "full": "landscape-pastel-hills-birds-landscape-wall-mural-minimal-nature-wallpaper-sri-lanka-1793538481361.webp"
+  },
+  {
+    "id": "landscape-1793539570939",
+    "added": "2026-11-01",
+    "title": "Grey Ink Wash Mountains Wall Mural | Zen Lake Landscape Wallpaper",
+    "desc": "Slow down with this serene ink-wash scene of misty peaks mirrored in a glassy lake. A lone rowing boat and a flock of birds add quiet storytelling, making it a graceful backdrop for living rooms, meditation corners, offices and wellness studios.",
+    "price": "LKR275 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Taupe",
+        "h": "#d9c5b2"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      }
+    ],
+    "thumb": "landscape-grey-ink-wash-mountains-wall-mural-zen-lake-landscape-wallpaper-1793539567809.webp",
+    "full": "landscape-grey-ink-wash-mountains-wall-mural-zen-lake-landscape-wallpaper-1793539567809.webp"
   }
 ];
