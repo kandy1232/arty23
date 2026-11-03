@@ -454,5 +454,55 @@ window.DESIGNS["floral"]=[
         "h": "#fdfbf7"
       }
     ]
+  },
+  {
+    "id": "floral-1793726188126",
+    "added": "2026-11-03",
+    "title": "Coral Teal Purple Watercolor Flowers Wall Mural | Abstract Floral Wallpaper sri lanka ",
+    "desc": "Fill your room with colour using these giant watercolor blooms in coral, aqua and plum. Loose ink splashes and soft translucent petals bring artistic energy to living rooms, studios, salons, cafes and bedrooms that need a joyful, modern focal wall.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Cream",
+        "h": "#fffdd0"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      }
+    ],
+    "thumb": "floral-coral-teal-purple-watercolor-flowers-wall-mural-abstract-floral-wallpaper-sri-lanka-1793726185435.webp",
+    "full": "floral-coral-teal-purple-watercolor-flowers-wall-mural-abstract-floral-wallpaper-sri-lanka-1793726185435.webp"
   }
 ];
