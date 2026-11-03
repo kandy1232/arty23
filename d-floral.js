@@ -348,5 +348,59 @@ window.DESIGNS["floral"]=[
     "status": "active",
     "thumb": "floral-blue-garden-butterfly-wall-mural-delicate-flower-wallpaper-sri-lanka-1791523681506.webp",
     "full": "floral-blue-garden-butterfly-wall-mural-delicate-flower-wallpaper-sri-lanka-1791523681506.webp"
+  },
+  {
+    "id": "floral-1793725953204",
+    "added": "2026-11-03",
+    "title": "Purple Iris Flowers Wall Mural | Large Colourful Floral Wallpaper",
+    "desc": "Make your wall bloom with giant lavender irises, each petal dotted in cobalt blue and touched with golden centres. Playful polka-dot buds and fresh green leaves add joyful energy to living rooms, bedrooms, boutiques, salons and creative studios.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Cream",
+        "h": "#fffdd0"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      }
+    ],
+    "thumb": "floral-purple-iris-flowers-wall-mural-large-colourful-floral-wallpaper-1793725950054.webp",
+    "full": "floral-purple-iris-flowers-wall-mural-large-colourful-floral-wallpaper-1793725950054.webp"
   }
 ];
