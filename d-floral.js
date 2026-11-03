@@ -453,7 +453,9 @@ window.DESIGNS["floral"]=[
         "n": "Alabaster",
         "h": "#fdfbf7"
       }
-    ]
+    ],
+    "thumb": "floral-pink-watercolor-flower-wall-mural-gold-abstract-floral-wallpaper-1793726559241.webp",
+    "full": "floral-pink-watercolor-flower-wall-mural-gold-abstract-floral-wallpaper-1793726559241.webp"
   },
   {
     "id": "floral-1793726188126",
