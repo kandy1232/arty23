@@ -402,5 +402,57 @@ window.DESIGNS["floral"]=[
     ],
     "thumb": "floral-purple-iris-flowers-wall-mural-large-colourful-floral-wallpaper-1793725950054.webp",
     "full": "floral-purple-iris-flowers-wall-mural-large-colourful-floral-wallpaper-1793725950054.webp"
+  },
+  {
+    "id": "floral-1793726072154",
+    "added": "2026-11-03",
+    "title": "Pink Watercolor Flower Wall Mural | Gold Abstract Floral Wallpaper",
+    "desc": "Give your bedroom a dramatic focal point with this oversized watercolor bloom. Translucent pink and coral petals, deep teal shadows and fine golden lines create a romantic, luxurious feel for headboard walls, dressing rooms, salons, boutiques and cafes.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Clay",
+        "h": "#b66e53"
+      },
+      {
+        "n": "Cream",
+        "h": "#fffdd0"
+      },
+      {
+        "n": "Alabaster",
+        "h": "#fdfbf7"
+      }
+    ]
   }
 ];
