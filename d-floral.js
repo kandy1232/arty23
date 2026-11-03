@@ -434,16 +434,8 @@ window.DESIGNS["floral"]=[
         "h": "#f2ebd9"
       },
       {
-        "n": "Slate",
-        "h": "#708090"
-      },
-      {
         "n": "Terra",
         "h": "#c86d51"
-      },
-      {
-        "n": "Clay",
-        "h": "#b66e53"
       },
       {
         "n": "Cream",
