@@ -504,5 +504,51 @@ window.DESIGNS["floral"]=[
     ],
     "thumb": "floral-coral-teal-purple-watercolor-flowers-wall-mural-abstract-floral-wallpaper-sri-lanka-1793726185435.webp",
     "full": "floral-coral-teal-purple-watercolor-flowers-wall-mural-abstract-floral-wallpaper-sri-lanka-1793726185435.webp"
+  },
+  {
+    "id": "floral-1793726503598",
+    "added": "2026-11-03",
+    "title": "Teal Aqua Flowers Gold Accents Wall Mural | Luxury Floral Wallpaper sri lanka ",
+    "desc": "Wrap your wall in silky teal and white petals edged with real-looking gold. Marble-like brushwork and golden stamens create a rich, gallery-style focal point for master bedrooms, living rooms, hotel suites, salons and boutique showrooms.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      }
+    ],
+    "thumb": "floral-teal-aqua-flowers-gold-accents-wall-mural-luxury-floral-wallpaper-sri-lanka-1793726500571.webp",
+    "full": "floral-teal-aqua-flowers-gold-accents-wall-mural-luxury-floral-wallpaper-sri-lanka-1793726500571.webp"
   }
 ];
