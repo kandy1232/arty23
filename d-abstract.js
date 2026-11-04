@@ -426,5 +426,55 @@ window.DESIGNS["abstract"]=[
     "colours": [],
     "thumb": "abstract-grey-concrete-ornamental-pattern-wall-mural-geometric-wallpaper-sri-lanka-1793763739190.webp",
     "full": "abstract-grey-concrete-ornamental-pattern-wall-mural-geometric-wallpaper-sri-lanka-1793763739190.webp"
+  },
+  {
+    "id": "abstract-1793764464096",
+    "added": "2026-11-04",
+    "title": "Navy Grey Geometric Diamond Wall Mural | Textured Wallpaper sri lanka ",
+    "desc": "Bring structure and style to your walls with bold diamonds and triangles in navy, silver and stone. Woven grasscloth and linen textures add tactile depth, creating a sharp, professional backdrop for offices, meeting rooms, lounges, showrooms and modern living spaces.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Taupe",
+        "h": "#d9c5b2"
+      },
+      {
+        "n": "Olive",
+        "h": "#556b2f"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      }
+    ],
+    "thumb": "abstract-navy-grey-geometric-diamond-wall-mural-textured-wallpaper-sri-lanka-1793764461427.webp",
+    "full": "abstract-navy-grey-geometric-diamond-wall-mural-textured-wallpaper-sri-lanka-1793764461427.webp"
   }
 ];
