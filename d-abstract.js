@@ -682,5 +682,47 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-sage-peach-bauhaus-geometric-wall-mural-color-block-wallpaper-sri-lanka-1793765065555.webp",
     "full": "abstract-sage-peach-bauhaus-geometric-wall-mural-color-block-wallpaper-sri-lanka-1793765065555.webp"
+  },
+  {
+    "id": "abstract-1793765150549",
+    "added": "2026-11-04",
+    "title": "Blue Grey Striped Triangle Wall Mural | Geometric Wallpaper",
+    "desc": "Energise your space with crisp triangles and diagonal bands in denim blue, silver grey and soft sand. Fine stripes and marbled brushwork add rhythm and depth, ideal for meeting rooms, offices, dining areas, co-working spaces and contemporary showrooms.",
+    "price": "LKR275 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Clay",
+        "h": "#b66e53"
+      }
+    ],
+    "thumb": "abstract-blue-grey-striped-triangle-wall-mural-geometric-wallpaper-1793765147953.webp",
+    "full": "abstract-blue-grey-striped-triangle-wall-mural-geometric-wallpaper-1793765147953.webp"
   }
 ];
