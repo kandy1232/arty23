@@ -584,5 +584,53 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-white-fluted-geometric-diamond-wall-mural-minimalist-wallpaper-1793764807997.webp",
     "full": "abstract-white-fluted-geometric-diamond-wall-mural-minimalist-wallpaper-1793764807997.webp"
+  },
+  {
+    "id": "abstract-1793764951378",
+    "added": "2026-11-04",
+    "title": "Navy Terracotta Organic Curves Wall Mural | Modern Abstract Wallpaper",
+    "desc": "Make a confident design statement with sweeping curves in deep navy, burnt terracotta and soft stone. The linen-like texture and mid-century colour blocking bring warmth and sophistication to executive offices, living rooms, lounges, showrooms and boutique hotels.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Coral",
+        "h": "#d97d64"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Clay",
+        "h": "#b66e53"
+      }
+    ],
+    "thumb": "abstract-navy-terracotta-organic-curves-wall-mural-modern-abstract-wallpaper-1793764948621.webp",
+    "full": "abstract-navy-terracotta-organic-curves-wall-mural-modern-abstract-wallpaper-1793764948621.webp"
   }
 ];
