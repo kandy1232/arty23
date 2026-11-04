@@ -631,5 +631,34 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-pink-rose-vintage-floral-wall-mural-cottage-garden-wallpaper-1793760574293.webp",
     "full": "floral-pink-rose-vintage-floral-wall-mural-cottage-garden-wallpaper-1793760574293.webp"
+  },
+  {
+    "id": "floral-1793760713397",
+    "added": "2026-11-04",
+    "title": "Pink Rose Vintage Floral Wall Mural | Cottage Garden Wallpaper",
+    "desc": "Scatter a fresh-cut garden across your walls with blushing roses, crimson blooms and sage leaves painted in delicate watercolor. This romantic pattern suits bridal boutiques, bedrooms, nurseries, salons, cafes and dressing rooms that deserve soft, feminine charm.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-pink-rose-vintage-floral-wall-mural-cottage-garden-wallpaper-1793760710620.webp",
+    "full": "floral-pink-rose-vintage-floral-wall-mural-cottage-garden-wallpaper-1793760710620.webp"
   }
 ];
