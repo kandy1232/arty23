@@ -505,5 +505,34 @@ window.DESIGNS["abstract"]=[
     "colours": [],
     "thumb": "abstract-teal-mandala-paisley-pattern-wall-mural-boho-wallpaper-1793764540609.webp",
     "full": "abstract-teal-mandala-paisley-pattern-wall-mural-boho-wallpaper-1793764540609.webp"
+  },
+  {
+    "id": "abstract-1793764682997",
+    "added": "2026-11-04",
+    "title": "Taupe Cream Flowing Waves Wall Mural | 3D Abstract Wallpaper sri lanka ",
+    "desc": "Let your wall flow like folded silk with these sculptural layers of ivory, taupe and espresso brown. Fine line textures add depth and movement, creating an elegant statement for reception areas, hotel lobbies, spas, showrooms and modern living rooms.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "abstract-taupe-cream-flowing-waves-wall-mural-3d-abstract-wallpaper-sri-lanka-1793764680193.webp",
+    "full": "abstract-taupe-cream-flowing-waves-wall-mural-3d-abstract-wallpaper-sri-lanka-1793764680193.webp"
   }
 ];
