@@ -573,5 +573,34 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-cream-white-peony-flowers-wall-mural-luxury-floral-wallpaper-1793759360363.webp",
     "full": "floral-cream-white-peony-flowers-wall-mural-luxury-floral-wallpaper-1793759360363.webp"
+  },
+  {
+    "id": "floral-1793760414536",
+    "added": "2026-11-04",
+    "title": "White Iris Navy Gold Marble Wall Mural | Luxury Floral Wallpaper",
+    "desc": "Make a statement above your bed with giant white irises outlined in shimmering gold. Deep navy marble swirls and fine blue veining add drama and sophistication, ideal for master bedrooms, living rooms, hotel suites, salons and executive lounges.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-white-iris-navy-gold-marble-wall-mural-luxury-floral-wallpaper-1793760411499.webp",
+    "full": "floral-white-iris-navy-gold-marble-wall-mural-luxury-floral-wallpaper-1793760411499.webp"
   }
 ];
