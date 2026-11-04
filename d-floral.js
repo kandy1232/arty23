@@ -743,5 +743,34 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-coral-burgundy-roses-watercolor-wall-mural-garden-floral-wallpaper-1793760977856.webp",
     "full": "floral-coral-burgundy-roses-watercolor-wall-mural-garden-floral-wallpaper-1793760977856.webp"
+  },
+  {
+    "id": "floral-1793761072140",
+    "added": "2026-11-04",
+    "title": "Pink Cherry Blossom Trees Wall Mural | Spring Flower Wallpaper",
+    "desc": "Step beneath a canopy of blooming cherry trees every day. Thousands of soft pink petals, slender dark branches and a hint of pale sky bring fresh, photorealistic spring beauty to bedrooms, living rooms, salons, cafes and wedding studios.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-pink-cherry-blossom-trees-wall-mural-spring-flower-wallpaper-1793761069372.webp",
+    "full": "floral-pink-cherry-blossom-trees-wall-mural-spring-flower-wallpaper-1793761069372.webp"
   }
 ];
