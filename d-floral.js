@@ -772,5 +772,34 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-pink-cherry-blossom-trees-wall-mural-spring-flower-wallpaper-1793761069372.webp",
     "full": "floral-pink-cherry-blossom-trees-wall-mural-spring-flower-wallpaper-1793761069372.webp"
+  },
+  {
+    "id": "floral-1793761338680",
+    "added": "2026-11-04",
+    "title": "Violet Iris Flowers Dark Floral Wall Mural | Dramatic Wallpaper",
+    "desc": "Turn your wall into a showpiece with giant violet and magenta irises glowing against deep midnight tones. Ruffled petals, golden highlights and lush green blades add rich drama to music rooms, living lounges, bedrooms, salons and hotel lobbies.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "textured",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-violet-iris-flowers-dark-floral-wall-mural-dramatic-wallpaper-1793761335672.webp",
+    "full": "floral-violet-iris-flowers-dark-floral-wall-mural-dramatic-wallpaper-1793761335672.webp"
   }
 ];
