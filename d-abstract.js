@@ -399,5 +399,32 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-cream-swirl-maze-pattern-wall-mural-neutral-abstract-wallpaper-1793762410296.webp",
     "full": "abstract-cream-swirl-maze-pattern-wall-mural-neutral-abstract-wallpaper-1793762410296.webp"
+  },
+  {
+    "id": "abstract-1793763741976",
+    "added": "2026-11-04",
+    "title": "Grey Concrete Ornamental Pattern Wall Mural | Geometric Wallpaper sri lanka ",
+    "desc": "Give your walls a refined, weathered-plaster finish with this grey concrete mural. Faded ornamental tile motifs drift down from the ceiling like old frescoes, adding quiet luxury to offices, showrooms, dining rooms, lounges and hotel lobbies.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "abstract-grey-concrete-ornamental-pattern-wall-mural-geometric-wallpaper-sri-lanka-1793763739190.webp",
+    "full": "abstract-grey-concrete-ornamental-pattern-wall-mural-geometric-wallpaper-sri-lanka-1793763739190.webp"
   }
 ];
