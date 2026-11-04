@@ -476,5 +476,34 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-navy-grey-geometric-diamond-wall-mural-textured-wallpaper-sri-lanka-1793764461427.webp",
     "full": "abstract-navy-grey-geometric-diamond-wall-mural-textured-wallpaper-sri-lanka-1793764461427.webp"
+  },
+  {
+    "id": "abstract-1793764543402",
+    "added": "2026-11-04",
+    "title": "Teal Mandala Paisley Pattern Wall Mural | Boho Wallpaper",
+    "desc": "Add handcrafted charm with bold teal mandalas floating among delicate paisley outlines on a warm cream base. This lively yet gentle pattern suits tea lounges, bedrooms, living rooms, yoga studios, cafes and boutiques that love a relaxed boho spirit.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "abstract-teal-mandala-paisley-pattern-wall-mural-boho-wallpaper-1793764540609.webp",
+    "full": "abstract-teal-mandala-paisley-pattern-wall-mural-boho-wallpaper-1793764540609.webp"
   }
 ];
