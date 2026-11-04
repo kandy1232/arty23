@@ -660,5 +660,32 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-pink-rose-vintage-floral-wall-mural-cottage-garden-wallpaper-1793760710620.webp",
     "full": "floral-pink-rose-vintage-floral-wall-mural-cottage-garden-wallpaper-1793760710620.webp"
+  },
+  {
+    "id": "floral-1793760803699",
+    "added": "2026-11-04",
+    "title": "White Lily Flowers Green Leaves Wall Mural | Botanical Wallpaper sri lanka ",
+    "desc": "Freshen your space with giant white lilies and lush green leaves in airy watercolor. Delicate petals, tall buds and a misty teal backdrop bring a clean, spa-like elegance to living rooms, bedrooms, clinics, salons and reception areas.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-white-lily-flowers-green-leaves-wall-mural-botanical-wallpaper-sri-lanka-1793760801035.webp",
+    "full": "floral-white-lily-flowers-green-leaves-wall-mural-botanical-wallpaper-sri-lanka-1793760801035.webp"
   }
 ];
