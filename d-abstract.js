@@ -766,5 +766,43 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-black-white-diagonal-grid-wall-mural-geometric-wallpaper-1793765270513.webp",
     "full": "abstract-black-white-diagonal-grid-wall-mural-geometric-wallpaper-1793765270513.webp"
+  },
+  {
+    "id": "abstract-1793765434141",
+    "added": "2026-11-04",
+    "title": "Caramel Brown Flowing Waves Wall Mural | Warm Abstract Wallpaper",
+    "desc": "Wrap your room in warmth with soft ribbons of caramel, sand and espresso drifting like windblown silk. Fine grain-like brushwork adds natural depth, making this mural a cosy, upscale choice for living rooms, bedrooms, lounges, cafes and hotel suites.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Taupe",
+        "h": "#d9c5b2"
+      }
+    ],
+    "thumb": "abstract-caramel-brown-flowing-waves-wall-mural-warm-abstract-wallpaper-1793765431615.webp",
+    "full": "abstract-caramel-brown-flowing-waves-wall-mural-warm-abstract-wallpaper-1793765431615.webp"
   }
 ];
