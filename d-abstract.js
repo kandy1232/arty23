@@ -349,5 +349,55 @@ window.DESIGNS["abstract"]=[
     "status": "active",
     "thumb": "abstract-taupe-smoke-wave-wall-mural-luxury-silk-abstract-wallpaper-sri-lanka-1791551206820.webp",
     "full": "abstract-taupe-smoke-wave-wall-mural-luxury-silk-abstract-wallpaper-sri-lanka-1791551206820.webp"
+  },
+  {
+    "id": "abstract-1793762413364",
+    "added": "2026-11-04",
+    "title": "Cream Swirl Maze Pattern Wall Mural | Neutral Abstract Wallpaper",
+    "desc": "Add quiet texture without colour clutter. Hand-drawn swirling lines, speckled arcs and playful maze motifs flow across a soft ivory surface, giving dining rooms, bedrooms, offices, cafes and showrooms a calm, designer-style backdrop with subtle depth.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      },
+      {
+        "n": "Olive",
+        "h": "#556b2f"
+      }
+    ],
+    "thumb": "abstract-cream-swirl-maze-pattern-wall-mural-neutral-abstract-wallpaper-1793762410296.webp",
+    "full": "abstract-cream-swirl-maze-pattern-wall-mural-neutral-abstract-wallpaper-1793762410296.webp"
   }
 ];
