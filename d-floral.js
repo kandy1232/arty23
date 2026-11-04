@@ -687,5 +687,34 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-white-lily-flowers-green-leaves-wall-mural-botanical-wallpaper-sri-lanka-1793760801035.webp",
     "full": "floral-white-lily-flowers-green-leaves-wall-mural-botanical-wallpaper-sri-lanka-1793760801035.webp"
+  },
+  {
+    "id": "floral-1793760891892",
+    "added": "2026-11-04",
+    "title": "Pink Cherry Blossom Sakura Wall Mural | Blue Japanese Wallpaper",
+    "desc": "Let spring bloom all year with sweeping sakura branches heavy with pink blossoms. Set against a textured slate-blue backdrop, this Japanese-inspired mural adds poetry and colour to dining rooms, bedrooms, restaurants, tea lounges and boutique hotels.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-pink-cherry-blossom-sakura-wall-mural-blue-japanese-wallpaper-1793760889092.webp",
+    "full": "floral-pink-cherry-blossom-sakura-wall-mural-blue-japanese-wallpaper-1793760889092.webp"
   }
 ];
