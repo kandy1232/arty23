@@ -534,5 +534,55 @@ window.DESIGNS["abstract"]=[
     "colours": [],
     "thumb": "abstract-taupe-cream-flowing-waves-wall-mural-3d-abstract-wallpaper-sri-lanka-1793764680193.webp",
     "full": "abstract-taupe-cream-flowing-waves-wall-mural-3d-abstract-wallpaper-sri-lanka-1793764680193.webp"
+  },
+  {
+    "id": "abstract-1793764811007",
+    "added": "2026-11-04",
+    "title": "White Fluted Geometric Diamond Wall Mural | Minimalist Wallpaper",
+    "desc": "Get the look of sculpted fluted panels without the construction. Soft white and pale grey ribbed triangles and diamonds create gentle shadow and rhythm, giving living rooms, bedrooms, clinics, salons and offices a clean, calming, modern backdrop.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Navy",
+        "h": "#001f3f"
+      },
+      {
+        "n": "Brass",
+        "h": "#c5a059"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      }
+    ],
+    "thumb": "abstract-white-fluted-geometric-diamond-wall-mural-minimalist-wallpaper-1793764807997.webp",
+    "full": "abstract-white-fluted-geometric-diamond-wall-mural-minimalist-wallpaper-1793764807997.webp"
   }
 ];
