@@ -716,5 +716,32 @@ window.DESIGNS["floral"]=[
     "colours": [],
     "thumb": "floral-pink-cherry-blossom-sakura-wall-mural-blue-japanese-wallpaper-1793760889092.webp",
     "full": "floral-pink-cherry-blossom-sakura-wall-mural-blue-japanese-wallpaper-1793760889092.webp"
+  },
+  {
+    "id": "floral-1793760980939",
+    "added": "2026-11-04",
+    "title": "Coral Burgundy Roses Watercolor Wall Mural | Garden Floral Wallpaper",
+    "desc": "Let a full garden bouquet bloom across your wall with oversized coral roses, creamy peonies and deep burgundy petals. Soft sage leaves and lavender sprigs keep it light and romantic for living rooms, bedrooms, salons, cafes and wedding venues.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-coral-burgundy-roses-watercolor-wall-mural-garden-floral-wallpaper-1793760977856.webp",
+    "full": "floral-coral-burgundy-roses-watercolor-wall-mural-garden-floral-wallpaper-1793760977856.webp"
   }
 ];
