@@ -544,5 +544,34 @@ window.DESIGNS["floral"]=[
     ],
     "thumb": "floral-teal-aqua-flowers-gold-accents-wall-mural-luxury-floral-wallpaper-sri-lanka-1793726500571.webp",
     "full": "floral-teal-aqua-flowers-gold-accents-wall-mural-luxury-floral-wallpaper-sri-lanka-1793726500571.webp"
+  },
+  {
+    "id": "floral-1793759363403",
+    "added": "2026-11-04",
+    "title": "Cream White Peony Flowers Wall Mural | Luxury Floral Wallpaper",
+    "desc": "Bring timeless romance to your walls with oversized ivory peonies blushing pink at the heart. Soft brushwork, golden stamens and gentle taupe leaves create an elegant, welcoming backdrop for dining rooms, bedrooms, bridal suites, salons and hotel lobbies.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "floral-cream-white-peony-flowers-wall-mural-luxury-floral-wallpaper-1793759360363.webp",
+    "full": "floral-cream-white-peony-flowers-wall-mural-luxury-floral-wallpaper-1793759360363.webp"
   }
 ];
