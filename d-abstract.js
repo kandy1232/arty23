@@ -632,5 +632,55 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-navy-terracotta-organic-curves-wall-mural-modern-abstract-wallpaper-1793764948621.webp",
     "full": "abstract-navy-terracotta-organic-curves-wall-mural-modern-abstract-wallpaper-1793764948621.webp"
+  },
+  {
+    "id": "abstract-1793765068255",
+    "added": "2026-11-04",
+    "title": "Sage Peach Bauhaus Geometric Wall Mural | Color Block Wallpaper sri lanka ",
+    "desc": "Bring playful, artistic balance to your walls with overlapping arches and circles in sage, olive, peach and honey tones. Soft brushed texture keeps the bold shapes warm, perfect for salons, studios, bedrooms, cafes, dressing rooms and creative offices.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Emerald",
+        "h": "#046307"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      }
+    ],
+    "thumb": "abstract-sage-peach-bauhaus-geometric-wall-mural-color-block-wallpaper-sri-lanka-1793765065555.webp",
+    "full": "abstract-sage-peach-bauhaus-geometric-wall-mural-color-block-wallpaper-sri-lanka-1793765065555.webp"
   }
 ];
