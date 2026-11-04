@@ -724,5 +724,47 @@ window.DESIGNS["abstract"]=[
     ],
     "thumb": "abstract-blue-grey-striped-triangle-wall-mural-geometric-wallpaper-1793765147953.webp",
     "full": "abstract-blue-grey-striped-triangle-wall-mural-geometric-wallpaper-1793765147953.webp"
+  },
+  {
+    "id": "abstract-1793765273438",
+    "added": "2026-11-04",
+    "title": "Black White Diagonal Grid Wall Mural | Geometric Wallpaper",
+    "desc": "Create a graphic, gallery-worthy wall with bold diagonal stripes, fine grids and checker blocks in black on warm white. The distressed print texture feels handmade and modern, perfect for dining rooms, studios, cafes, offices, restaurants and design showrooms.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      }
+    ],
+    "thumb": "abstract-black-white-diagonal-grid-wall-mural-geometric-wallpaper-1793765270513.webp",
+    "full": "abstract-black-white-diagonal-grid-wall-mural-geometric-wallpaper-1793765270513.webp"
   }
 ];
