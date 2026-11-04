@@ -156,7 +156,7 @@ window.DESIGNS["animals"]=[
   {
     "id": "animals-1791653242220",
     "added": "2026-10-10",
-    "title": "anther Garden Wallpaper | Tropical Pattern Sri Lanka",
+    "title": "Panther Garden Wallpaper | Tropical Pattern Sri Lanka",
     "desc": "Playful panther garden wallpaper with big tropical leaves, peach blossoms and orange flowers on soft green. Repeat pattern wallpaper for bedrooms, cafes and hotels in Sri Lanka.",
     "price": "LKR375 sqft  ",
     "sizes": "53cm ",
@@ -178,7 +178,8 @@ window.DESIGNS["animals"]=[
     ],
     "status": "active",
     "thumb": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp",
-    "full": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp"
+    "full": "animals-anther-garden-wallpaper-tropical-pattern-sri-lanka-1791653239425.webp",
+    "colours": []
   },
   {
     "id": "animals-1791654278036",
