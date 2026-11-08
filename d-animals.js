@@ -474,5 +474,49 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-vintage-leopard-toucan-jungle-toile-animal-wildlife-wallpaper-1794112511924.webp",
     "full": "animals-vintage-leopard-toucan-jungle-toile-animal-wildlife-wallpaper-1794112511924.webp"
+  },
+  {
+    "id": "animals-1794113552847",
+    "added": "2026-11-08",
+    "title": "African Safari Giraffe Zebra Cheetah Animal Wildlife Wallpaper",
+    "desc": "Safari wallpaper with giraffes, zebras, cheetahs and crowned cranes grazing and resting beneath wide acacia trees and rocky outcrops. The detailed savanna wildlife illustration gives living rooms, hallways and offices a bold, adventurous character, with mother and baby animals adding warmth across the wall.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Olive",
+        "h": "#556b2f"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      },
+      {
+        "n": "Coral",
+        "h": "#d97d64"
+      }
+    ],
+    "thumb": "animals-african-safari-giraffe-zebra-cheetah-animal-wildlife-wallpaper-1794113549819.webp",
+    "full": "animals-african-safari-giraffe-zebra-cheetah-animal-wildlife-wallpaper-1794113549819.webp"
   }
 ];
