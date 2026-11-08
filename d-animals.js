@@ -572,5 +572,37 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-blue-cheetah-palm-garden-playful-animal-wildlife-wallpaper-1794117176614.webp",
     "full": "animals-blue-cheetah-palm-garden-playful-animal-wildlife-wallpaper-1794117176614.webp"
+  },
+  {
+    "id": "animals-1794117665207",
+    "added": "2026-11-08",
+    "title": "Blue Flamingo Block Print Bird Animal Wildlife Wallpaper",
+    "desc": "Flamingo wallpaper with graceful curved necks and flowing feathers drawn in a rhythmic block-print style, set between bands of hand-stamped dashes. This artistic coastal bird pattern gives living rooms, bedrooms, hallways and cafés a relaxed, textured, handcrafted look with soft movement across the wall.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [],
+    "material": [],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Olive",
+        "h": "#556b2f"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Coral",
+        "h": "#d97d64"
+      }
+    ],
+    "thumb": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117662400.webp",
+    "full": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117662400.webp"
   }
 ];
