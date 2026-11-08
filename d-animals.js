@@ -206,5 +206,55 @@ window.DESIGNS["animals"]=[
     "status": "active",
     "thumb": "animals-leopard-portrait-wall-mural-big-cat-photo-wallpaper-sri-lanka-1791654275852.webp",
     "full": "animals-leopard-portrait-wall-mural-big-cat-photo-wallpaper-sri-lanka-1791654275852.webp"
+  },
+  {
+    "id": "animals-1794108562217",
+    "added": "2026-11-08",
+    "title": "Ancient Egyptian Diamond Pattern Geometric Wall Mural Art",
+    "desc": "Transform a plain feature wall with this ancient Nile-inspired pattern, where pyramids, palms, birds and walking figures sit inside repeating diamond frames. Printed to your exact wall dimensions, it adds storytelling depth to living rooms and lounges. Message us for a free personalised quote today.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      },
+      {
+        "n": "dark red",
+        "h": "#b10b0b"
+      }
+    ],
+    "thumb": "animals-ancient-egyptian-diamond-pattern-geometric-wall-mural-art-1794108559609.webp",
+    "full": "animals-ancient-egyptian-diamond-pattern-geometric-wall-mural-art-1794108559609.webp"
   }
 ];
