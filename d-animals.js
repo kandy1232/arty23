@@ -350,5 +350,49 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-egyptian-gold-line-art-camel-cat-sphinx-animal-wall-mural-wallpaper-1794109641466.webp",
     "full": "animals-egyptian-gold-line-art-camel-cat-sphinx-animal-wall-mural-wallpaper-1794109641466.webp"
+  },
+  {
+    "id": "animals-1794110100196",
+    "added": "2026-11-08",
+    "title": "Enchanted Forest Wildlife Bear Stag Wolf Animal Wall Mural wallpaper ",
+    "desc": "Bears, stags, wild boar, foxes and soaring birds roam through a richly detailed forest of intricate, illustrated trees, bringing a medieval tapestry feel to your wall. Each mural is printed to your measurements. Tell us your wall size on WhatsApp and we will gladly quote.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Brass",
+        "h": "#c5a059"
+      }
+    ],
+    "thumb": "animals-enchanted-forest-wildlife-bear-stag-wolf-animal-wall-mural-wallpaper-1794110096847.webp",
+    "full": "animals-enchanted-forest-wildlife-bear-stag-wolf-animal-wall-mural-wallpaper-1794110096847.webp"
   }
 ];
