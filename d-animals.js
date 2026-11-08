@@ -662,5 +662,34 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-mosaic-flying-falcon-bold-bird-animal-wildlife-wallpaper-1794117863436.webp",
     "full": "animals-mosaic-flying-falcon-bold-bird-animal-wildlife-wallpaper-1794117863436.webp"
+  },
+  {
+    "id": "animals-1794117949964",
+    "added": "2026-11-08",
+    "title": "Colorful Folk Art Birds Butterfly Animal Wildlife Wallpaper",
+    "desc": "Bird wallpaper with vibrant folk-art songbirds in flight, a large butterfly, blooming flowers and layered rainbow arches in a playful graphic style. This joyful wildlife design adds a lively, artistic statement to dining rooms, living rooms, hallways and cafés, with plenty of colour and movement.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "animals-colorful-folk-art-birds-butterfly-animal-wildlife-wallpaper-1794117947289.webp",
+    "full": "animals-colorful-folk-art-birds-butterfly-animal-wildlife-wallpaper-1794117947289.webp"
   }
 ];
