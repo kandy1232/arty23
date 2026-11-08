@@ -306,5 +306,49 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-blue-woodland-deer-forest-pattern-wall-mural-1794108858902.webp",
     "full": "animals-blue-woodland-deer-forest-pattern-wall-mural-1794108858902.webp"
+  },
+  {
+    "id": "animals-1794109644954",
+    "added": "2026-11-08",
+    "title": "Egyptian Gold Line Art Camel Cat Sphinx Animal Wall Mural wallpaper ",
+    "desc": "Slender line-drawn camels, graceful cats, sphinxes and winged beetles drift gently across this moody, gallery-style backdrop, mixing wildlife charm with ancient Nile heritage. Printed to your exact wall size, it makes a truly striking feature wall. Message us your measurements to receive a tailored quote.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      }
+    ],
+    "thumb": "animals-egyptian-gold-line-art-camel-cat-sphinx-animal-wall-mural-wallpaper-1794109641466.webp",
+    "full": "animals-egyptian-gold-line-art-camel-cat-sphinx-animal-wall-mural-wallpaper-1794109641466.webp"
   }
 ];
