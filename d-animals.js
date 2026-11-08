@@ -518,5 +518,59 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-african-safari-giraffe-zebra-cheetah-animal-wildlife-wallpaper-1794113549819.webp",
     "full": "animals-african-safari-giraffe-zebra-cheetah-animal-wildlife-wallpaper-1794113549819.webp"
+  },
+  {
+    "id": "animals-1794117182695",
+    "added": "2026-11-08",
+    "title": "Blue Cheetah Palm Garden Playful Animal Wildlife Wallpaper",
+    "desc": "Cheetah wallpaper with spotted big cats running, stretching and resting among fan palms, aloes and blooming wildflowers. The hand-painted tropical wildlife illustration brings a fresh, lively and cheerful safari spirit to living rooms, bedrooms, hallways and cafés, with a light, airy garden feel across the wall.",
+    "price": "375",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Sand",
+        "h": "#c2b280"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Soft Blue",
+        "h": "#8da399"
+      }
+    ],
+    "thumb": "animals-blue-cheetah-palm-garden-playful-animal-wildlife-wallpaper-1794117176614.webp",
+    "full": "animals-blue-cheetah-palm-garden-playful-animal-wildlife-wallpaper-1794117176614.webp"
   }
 ];
