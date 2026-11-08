@@ -578,11 +578,23 @@ window.DESIGNS["animals"]=[
     "added": "2026-11-08",
     "title": "Blue Flamingo Block Print Bird Animal Wildlife Wallpaper",
     "desc": "Flamingo wallpaper with graceful curved necks and flowing feathers drawn in a rhythmic block-print style, set between bands of hand-stamped dashes. This artistic coastal bird pattern gives living rooms, bedrooms, hallways and cafés a relaxed, textured, handcrafted look with soft movement across the wall.",
-    "price": "",
+    "price": "LKR450 sqft ",
     "sizes": "Custom size",
     "format": "mural",
-    "rooms": [],
-    "material": [],
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
     "status": "active",
     "colours": [
       {
@@ -602,7 +614,7 @@ window.DESIGNS["animals"]=[
         "h": "#d97d64"
       }
     ],
-    "thumb": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117662400.webp",
-    "full": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117662400.webp"
+    "thumb": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117710761.webp",
+    "full": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117710761.webp"
   }
 ];
