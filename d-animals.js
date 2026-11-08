@@ -256,5 +256,55 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-ancient-egyptian-diamond-pattern-geometric-wall-mural-art-1794108559609.webp",
     "full": "animals-ancient-egyptian-diamond-pattern-geometric-wall-mural-art-1794108559609.webp"
+  },
+  {
+    "id": "animals-1794108861466",
+    "added": "2026-11-08",
+    "title": "Blue Woodland Deer Forest Pattern Wall Mural",
+    "desc": "Gentle deer, hedgehogs, willows and leafy trees wander across this storybook woodland pattern, creating a calm, imaginative backdrop for little ones. Printed to your exact wall measurements, it suits nurseries and reading corners beautifully. Send us your wall size and we will prepare your quote.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Olive",
+        "h": "#556b2f"
+      },
+      {
+        "n": "Cream",
+        "h": "#fffdd0"
+      },
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Clay",
+        "h": "#b66e53"
+      }
+    ],
+    "thumb": "animals-blue-woodland-deer-forest-pattern-wall-mural-1794108858902.webp",
+    "full": "animals-blue-woodland-deer-forest-pattern-wall-mural-1794108858902.webp"
   }
 ];
