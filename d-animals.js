@@ -691,5 +691,49 @@ window.DESIGNS["animals"]=[
     "colours": [],
     "thumb": "animals-colorful-folk-art-birds-butterfly-animal-wildlife-wallpaper-1794117947289.webp",
     "full": "animals-colorful-folk-art-birds-butterfly-animal-wildlife-wallpaper-1794117947289.webp"
+  },
+  {
+    "id": "animals-1794118104872",
+    "added": "2026-11-08",
+    "title": "Black White Safari Animal Faces Sketch Wildlife Wallpaper",
+    "desc": "Safari animal wallpaper with hand-drawn lions, elephants, zebras, rhinos, buffalo, hippos, cheetahs and lemurs packed face to face in a detailed ink sketch style. This bold wildlife collage gives living rooms, bedrooms, hallways and offices a playful yet sophisticated character with endless things to discover.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Ochre",
+        "h": "#cc7722"
+      },
+      {
+        "n": "Navy",
+        "h": "#001f3f"
+      },
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      }
+    ],
+    "thumb": "animals-black-white-safari-animal-faces-sketch-wildlife-wallpaper-1794118102080.webp",
+    "full": "animals-black-white-safari-animal-faces-sketch-wildlife-wallpaper-1794118102080.webp"
   }
 ];
