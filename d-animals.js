@@ -394,5 +394,41 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-enchanted-forest-wildlife-bear-stag-wolf-animal-wall-mural-wallpaper-1794110096847.webp",
     "full": "animals-enchanted-forest-wildlife-bear-stag-wolf-animal-wall-mural-wallpaper-1794110096847.webp"
+  },
+  {
+    "id": "animals-1794110693817",
+    "added": "2026-11-08",
+    "title": "Midnight Navy Fox Forest Wildlife Animal Wall paper  Design",
+    "desc": "Fox forest wallpaper mural with playful orange foxes curling, leaping and prowling between stylised trees, feathery fans, dotted foliage and scattered leaves. A detailed woodland wildlife pattern that gives living rooms, bedrooms and hallways a rich, cosy storybook feel with layered depth across the wall.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Black",
+        "h": "#212121"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      }
+    ],
+    "thumb": "animals-midnight-navy-fox-forest-wildlife-animal-wall-paper-design-1794110689398.webp",
+    "full": "animals-midnight-navy-fox-forest-wildlife-animal-wall-paper-design-1794110689398.webp"
   }
 ];
