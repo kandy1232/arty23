@@ -616,5 +616,51 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117710761.webp",
     "full": "animals-blue-flamingo-block-print-bird-animal-wildlife-wallpaper-1794117710761.webp"
+  },
+  {
+    "id": "animals-1794117866149",
+    "added": "2026-11-08",
+    "title": "Mosaic Flying Falcon Bold Bird Animal Wildlife Wallpaper",
+    "desc": "Falcon wallpaper with large birds of prey soaring in a tiled mosaic style, their patterned wings and fanned tails set against soft circular shapes. This bold, graphic wildlife design brings energy and movement to dining rooms, living rooms, hallways and offices, with a modern handcrafted feel.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Ochre",
+        "h": "#cc7722"
+      },
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      }
+    ],
+    "thumb": "animals-mosaic-flying-falcon-bold-bird-animal-wildlife-wallpaper-1794117863436.webp",
+    "full": "animals-mosaic-flying-falcon-bold-bird-animal-wildlife-wallpaper-1794117863436.webp"
   }
 ];
