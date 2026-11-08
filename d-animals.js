@@ -430,5 +430,49 @@ window.DESIGNS["animals"]=[
     ],
     "thumb": "animals-midnight-navy-fox-forest-wildlife-animal-wall-paper-design-1794110689398.webp",
     "full": "animals-midnight-navy-fox-forest-wildlife-animal-wall-paper-design-1794110689398.webp"
+  },
+  {
+    "id": "animals-1794112514789",
+    "added": "2026-11-08",
+    "title": "Vintage Leopard Toucan Jungle Toile Animal Wildlife Wallpaper",
+    "desc": "Leopard toile wallpaper with spotted leopards resting on blossoming branches, joined by toucans, parrots, a hummingbird and fluttering butterflies. Fine engraved-style linework and fruiting vines create a graceful tropical jungle wildlife wallpaper pattern that suits living rooms, bedrooms and hallways with calm, timeless, classic character.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "washable",
+      "vinyl"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Greige",
+        "h": "#f2ebd9"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Navy",
+        "h": "#001f3f"
+      }
+    ],
+    "thumb": "animals-vintage-leopard-toucan-jungle-toile-animal-wildlife-wallpaper-1794112511924.webp",
+    "full": "animals-vintage-leopard-toucan-jungle-toile-animal-wildlife-wallpaper-1794112511924.webp"
   }
 ];
