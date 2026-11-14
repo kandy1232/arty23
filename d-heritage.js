@@ -444,5 +444,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-coastal-fishermen-coconut-palm-folk-art-heritage-wallpaper-1794653496272.webp",
     "full": "heritage-coastal-fishermen-coconut-palm-folk-art-heritage-wallpaper-1794653496272.webp"
+  },
+  {
+    "id": "heritage-1794675580892",
+    "added": "2026-11-14",
+    "title": "Train Viaduct Elephant Lighthouse Coastal Heritage Wallpaper",
+    "desc": "Scenic heritage wallpaper featuring a blue train crossing a stone arch viaduct, tea hills, a fort lighthouse, outrigger boats, elephants, a peacock and tropical blooms in a painterly watercolour style. Ideal for dining rooms and living rooms. Also available in soft sand, green and blush.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-train-viaduct-elephant-lighthouse-coastal-heritage-wallpaper-1794675557565.webp",
+    "full": "heritage-train-viaduct-elephant-lighthouse-coastal-heritage-wallpaper-1794675557565.webp"
   }
 ];
