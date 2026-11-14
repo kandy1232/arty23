@@ -514,33 +514,6 @@ window.DESIGNS["forest"]=[
     "full": "forest-navy-blue-stylized-forest-wallpaper-mural-sri-lanka-1793029021850.webp"
   },
   {
-    "id": "forest-1794674608724",
-    "added": "2026-11-14",
-    "title": "Train Viaduct Elephant Lighthouse Coastal Heritage Wallpaper",
-    "desc": "Scenic heritage wallpaper featuring a blue train crossing a stone arch viaduct, tea hills, a fort lighthouse, outrigger boats, elephants, a peacock and tropical blooms in a painterly watercolour style. Ideal for dining rooms and living rooms. Also available in soft sand, green and blush.",
-    "price": "LKR450 sqft ",
-    "sizes": "Custom size",
-    "format": "mural",
-    "rooms": [
-      "living-room",
-      "bedroom",
-      "hallway",
-      "office",
-      "cafe-restaurant",
-      "hotel",
-      "salon-spa",
-      "retail"
-    ],
-    "material": [
-      "vinyl",
-      "non-woven"
-    ],
-    "status": "active",
-    "colours": [],
-    "thumb": "forest-train-viaduct-elephant-lighthouse-coastal-heritage-wallpaper-1794674597375.webp",
-    "full": "forest-train-viaduct-elephant-lighthouse-coastal-heritage-wallpaper-1794674597375.webp"
-  },
-  {
     "id": "forest-1794674804642",
     "added": "2026-11-14",
     "title": "Heritage Gold Octagon Medallion Weathered Plaster Wallpaper",
