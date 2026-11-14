@@ -417,5 +417,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-heritage-arch-elephant-peacock-weathered-fresco-wallpaper-1794653296962.webp",
     "full": "heritage-heritage-arch-elephant-peacock-weathered-fresco-wallpaper-1794653296962.webp"
+  },
+  {
+    "id": "heritage-1794653498994",
+    "added": "2026-11-14",
+    "title": "Coastal Fishermen Coconut Palm Folk Art Heritage Wallpaper",
+    "desc": "Heritage wallpaper celebrating coastal life with fishermen in sailing boats, coconut palms, kingfishers, fish, crabs and hibiscus blooms, framed by geometric border bands and rolling waves. A joyful folk-art design for dining rooms, living rooms and cafés. Also available in navy, sand, aqua and golden.",
+    "price": "LKR375 sqft   ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-coastal-fishermen-coconut-palm-folk-art-heritage-wallpaper-1794653496272.webp",
+    "full": "heritage-coastal-fishermen-coconut-palm-folk-art-heritage-wallpaper-1794653496272.webp"
   }
 ];
