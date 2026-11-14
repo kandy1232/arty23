@@ -344,5 +344,31 @@ window.DESIGNS["heritage"]=[
     "status": "active",
     "thumb": "heritage-ink-toile-sri-lanka-port-wallpaper-1793252230033.webp",
     "full": "heritage-ink-toile-sri-lanka-port-wallpaper-1793252230033.webp"
+  },
+  {
+    "id": "heritage-1794651756411",
+    "added": "2026-11-14",
+    "title": "Heritage Diamond Floral Weathered Fresco Wallpaper Design",
+    "desc": "Heritage wallpaper with diamond-framed carved rosettes, peacock-feather motifs, scrolling vines and leafy sprigs on a weathered lime-plaster fresco surface, with soft chipped patches and gentle fading. Inspired by traditional Sri Lankan ornament, it gives bedrooms, living rooms and hallways a truly refined, timeless, modern character.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "bedroom",
+      "living-room",
+      "hallway",
+      "office",
+      "hotel"
+    ],
+    "material": [],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Charcoal",
+        "h": "#36454f"
+      }
+    ],
+    "thumb": "heritage-heritage-diamond-floral-weathered-fresco-wallpaper-design-1794651751239.webp",
+    "full": "heritage-heritage-diamond-floral-weathered-fresco-wallpaper-design-1794651751239.webp"
   }
 ];
