@@ -399,5 +399,23 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-jungle-wildlife-elephant-leopard-peacock-folk-print-wallpaper-1794653007804.webp",
     "full": "heritage-jungle-wildlife-elephant-leopard-peacock-folk-print-wallpaper-1794653007804.webp"
+  },
+  {
+    "id": "heritage-1794653300264",
+    "added": "2026-11-14",
+    "title": "Heritage Arch Elephant Peacock Weathered Fresco Wallpaper",
+    "desc": "Heritage wallpaper with scalloped arch panels framing elephants in ornate blankets, mirrored birds and carved rosettes, on a weathered lime-plaster fresco surface with soft chipped patches. Inspired by traditional Sri Lankan art for living rooms and hallways. Also available in blue-grey, olive, plum and sage.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-heritage-arch-elephant-peacock-weathered-fresco-wallpaper-1794653296962.webp",
+    "full": "heritage-heritage-arch-elephant-peacock-weathered-fresco-wallpaper-1794653296962.webp"
   }
 ];
