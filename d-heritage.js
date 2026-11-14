@@ -660,5 +660,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794676640068.webp",
     "full": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794676640068.webp"
+  },
+  {
+    "id": "heritage-1794676887900",
+    "added": "2026-11-14",
+    "title": "Mosaic Elephant Peacock Coconut Palm Heritage Wallpaper",
+    "desc": "Tiled mosaic heritage wallpaper showcasing ancient stone ruins, a rock fortress, a misty mountain peak, decorated elephants, peacocks, coconut palms, hibiscus and frangipani, joined by playful wave bands. A rich, lively storytelling design for living rooms and hallways. Also available in navy and sage green.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-mosaic-elephant-peacock-coconut-palm-heritage-wallpaper-1794676873324.webp",
+    "full": "heritage-mosaic-elephant-peacock-coconut-palm-heritage-wallpaper-1794676873324.webp"
   }
 ];
