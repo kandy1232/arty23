@@ -604,5 +604,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-heritage-double-headed-bird-rosette-frieze-plaster-wallpaper-1794676336519.webp",
     "full": "heritage-heritage-double-headed-bird-rosette-frieze-plaster-wallpaper-1794676336519.webp"
+  },
+  {
+    "id": "heritage-1794676534227",
+    "added": "2026-11-14",
+    "title": "Sigiriya Galle Fort Ancient Landmarks Heritage Wallpaper",
+    "desc": "Heritage wallpaper collage of Sri Lanka's ancient landmarks, including the Sigiriya rock fortress, Galle Fort lighthouse, stone ruins, misty hill peaks and guardian elephants, framed by painted arches and circles with lush palms, peacocks, kingfishers and frangipani. Also available in aqua, sand, sky and blush.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-sigiriya-galle-fort-ancient-landmarks-heritage-wallpaper-1794676527770.webp",
+    "full": "heritage-sigiriya-galle-fort-ancient-landmarks-heritage-wallpaper-1794676527770.webp"
   }
 ];
