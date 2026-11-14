@@ -599,32 +599,5 @@ window.DESIGNS["forest"]=[
     "colours": [],
     "thumb": "forest-moonstone-elephant-frieze-scroll-relief-heritage-wallpaper-1794675110776.webp",
     "full": "forest-moonstone-elephant-frieze-scroll-relief-heritage-wallpaper-1794675110776.webp"
-  },
-  {
-    "id": "forest-1794675244297",
-    "added": "2026-11-14",
-    "title": "Heritage Carved Relief Elephant Leopard Peacock Wallpaper",
-    "desc": "Heritage wallpaper with carved-relief elephants, a leopard, spotted deer and a peacock walking along ornamental friezes, joined by a gateway arch, moonstone semicircles, lattice bands and scroll vines on weathered cracked plaster. Also available in sand, terracotta, slate and olive green.",
-    "price": "LKR375 sqft ",
-    "sizes": "Custom size",
-    "format": "mural",
-    "rooms": [
-      "living-room",
-      "bedroom",
-      "hallway",
-      "office",
-      "cafe-restaurant",
-      "hotel",
-      "salon-spa",
-      "retail"
-    ],
-    "material": [
-      "vinyl",
-      "non-woven"
-    ],
-    "status": "active",
-    "colours": [],
-    "thumb": "forest-heritage-carved-relief-elephant-leopard-peacock-wallpaper-1794675223383.webp",
-    "full": "forest-heritage-carved-relief-elephant-leopard-peacock-wallpaper-1794675223383.webp"
   }
 ];
