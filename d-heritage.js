@@ -370,5 +370,34 @@ window.DESIGNS["heritage"]=[
     ],
     "thumb": "heritage-heritage-diamond-floral-weathered-fresco-wallpaper-design-1794651751239.webp",
     "full": "heritage-heritage-diamond-floral-weathered-fresco-wallpaper-design-1794651751239.webp"
+  },
+  {
+    "id": "heritage-1794653010569",
+    "added": "2026-11-14",
+    "title": "Jungle Wildlife Elephant Leopard Peacock Folk Print Wallpaper",
+    "desc": "Sri Lankan wildlife wallpaper with elephants, leopards, spotted deer, peacocks and hornbills set among leafy vines and blossoms in a hand-blocked folk-print style. A lively, richly detailed tropical jungle design for living rooms, hallways and offices. Also available in green, red, charcoal and teal colourways.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-jungle-wildlife-elephant-leopard-peacock-folk-print-wallpaper-1794653007804.webp",
+    "full": "heritage-jungle-wildlife-elephant-leopard-peacock-folk-print-wallpaper-1794653007804.webp"
   }
 ];
