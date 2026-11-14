@@ -471,5 +471,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-train-viaduct-elephant-lighthouse-coastal-heritage-wallpaper-1794675557565.webp",
     "full": "heritage-train-viaduct-elephant-lighthouse-coastal-heritage-wallpaper-1794675557565.webp"
+  },
+  {
+    "id": "heritage-1794675865134",
+    "added": "2026-11-14",
+    "title": "Heritage Gold Octagon Medallion Weathered Plaster Wallpaper",
+    "desc": "Heritage wallpaper with fine octagon medallions, star-flower diamonds and carved lattice ornament drawn in delicate linework over a marbled, cracked lime-plaster surface. Inspired by traditional Sri Lankan weaving and carving, it suits studies, living rooms and bedrooms. Also available in sand, navy, terracotta and slate.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-heritage-gold-octagon-medallion-weathered-plaster-wallpaper-1794675855826.webp",
+    "full": "heritage-heritage-gold-octagon-medallion-weathered-plaster-wallpaper-1794675855826.webp"
   }
 ];
