@@ -633,5 +633,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-sigiriya-galle-fort-ancient-landmarks-heritage-wallpaper-1794676527770.webp",
     "full": "heritage-sigiriya-galle-fort-ancient-landmarks-heritage-wallpaper-1794676527770.webp"
+  },
+  {
+    "id": "heritage-1794676651593",
+    "added": "2026-11-14",
+    "title": "Indigo Block Print Elephant Palm Patchwork Heritage Wallpaper",
+    "desc": "Heritage wallpaper in a hand-stamped block-print style, combining elephants, moonstone-inspired semicircles, coconut palms, tea leaf sprigs, scroll vines and lattice diamonds in a diagonal patchwork layout. The softly worn, linen-like finish gives studies, living rooms and hallways a truly crafted, warm, modern Sri Lankan character.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794676640068.webp",
+    "full": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794676640068.webp"
   }
 ];
