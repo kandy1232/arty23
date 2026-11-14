@@ -500,5 +500,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-heritage-gold-octagon-medallion-weathered-plaster-wallpaper-1794675855826.webp",
     "full": "heritage-heritage-gold-octagon-medallion-weathered-plaster-wallpaper-1794675855826.webp"
+  },
+  {
+    "id": "heritage-1794676067230",
+    "added": "2026-11-14",
+    "title": "Stilt Fisherman Fort Lighthouse Beach Heritage Wallpaper",
+    "desc": "Heritage wallpaper with stilt fishermen at sunset, a sailing boat, thatched beach hut, hilltop fort lighthouse, coconut palms, kingfishers, crabs, shells and frangipani, painted in a charming vintage storybook style. Perfect for dining rooms and living rooms. Also available in aqua, green and sky blue.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-stilt-fisherman-fort-lighthouse-beach-heritage-wallpaper-1794676061057.webp",
+    "full": "heritage-stilt-fisherman-fort-lighthouse-beach-heritage-wallpaper-1794676061057.webp"
   }
 ];
