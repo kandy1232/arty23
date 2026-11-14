@@ -529,5 +529,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-stilt-fisherman-fort-lighthouse-beach-heritage-wallpaper-1794676061057.webp",
     "full": "heritage-stilt-fisherman-fort-lighthouse-beach-heritage-wallpaper-1794676061057.webp"
+  },
+  {
+    "id": "heritage-1794676148143",
+    "added": "2026-11-14",
+    "title": "Moonstone Elephant Frieze Scroll Relief Heritage Wallpaper",
+    "desc": "Heritage wallpaper with moonstone-inspired semicircles filled with tiny elephant friezes, linked by carved scroll vines and buds, set on a cracked, weathered blue plaster surface with a raised relief look. Inspired by traditional Sri Lankan stone carving. Also available in sand, teal, brown and slate.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-moonstone-elephant-frieze-scroll-relief-heritage-wallpaper-1794676139480.webp",
+    "full": "heritage-moonstone-elephant-frieze-scroll-relief-heritage-wallpaper-1794676139480.webp"
   }
 ];
