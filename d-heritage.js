@@ -583,5 +583,26 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-heritage-carved-relief-elephant-leopard-peacock-wallpaper-1794676202582.webp",
     "full": "heritage-heritage-carved-relief-elephant-leopard-peacock-wallpaper-1794676202582.webp"
+  },
+  {
+    "id": "heritage-1794676343383",
+    "added": "2026-11-14",
+    "title": "Heritage Double-Headed Bird Rosette Frieze Plaster Wallpaper",
+    "desc": "Heritage wallpaper with Berunda-inspired double-headed birds, paired mythical birds, carved rosette medallions, petal friezes and flowing scroll vines in fine linework over a marbled blue-teal plaster surface with a soft, aged finish. Inspired by traditional Sri Lankan ornament. Also available in plum, blue, sand and slate.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "bedroom",
+      "office"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-heritage-double-headed-bird-rosette-frieze-plaster-wallpaper-1794676336519.webp",
+    "full": "heritage-heritage-double-headed-bird-rosette-frieze-plaster-wallpaper-1794676336519.webp"
   }
 ];
