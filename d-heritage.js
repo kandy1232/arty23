@@ -839,5 +839,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-art-deco-gold-elephant-peacock-deer-luxury-wildlife-wallpaper-1794712667659.webp",
     "full": "heritage-art-deco-gold-elephant-peacock-deer-luxury-wildlife-wallpaper-1794712667659.webp"
+  },
+  {
+    "id": "heritage-1794712818953",
+    "added": "2026-11-15",
+    "title": "Blue Toile Sigiriya Rock Mountain Elephant Heritage Wallpaper",
+    "desc": "Engraved toile heritage wallpaper with arched vignettes of a rock fortress, misty mountain peak and ancient stone ruins, joined by elephants, a peacock and coconut palms in fine linework. A storytelling design for living rooms, hallways and studies. Also available in green, brown and teal.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-blue-toile-sigiriya-rock-mountain-elephant-heritage-wallpaper-1794712815934.webp",
+    "full": "heritage-blue-toile-sigiriya-rock-mountain-elephant-heritage-wallpaper-1794712815934.webp"
   }
 ];
