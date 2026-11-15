@@ -767,5 +767,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-ink-sketch-toile-elephant-leopard-sloth-bear-wildlife-wallpaper-1794712160794.webp",
     "full": "heritage-ink-sketch-toile-elephant-leopard-sloth-bear-wildlife-wallpaper-1794712160794.webp"
+  },
+  {
+    "id": "heritage-1794712287634",
+    "added": "2026-11-15",
+    "title": "Kandyan Liyawela Peacock Block Print Heritage Wallpaper",
+    "desc": "Heritage wallpaper in a distressed hand-block-print style, with flowing scroll vines, carved rosette flowers and graceful crested peacocks drawn in bold, speckled ink. Inspired by traditional Kandyan ornament, it adds timeless rhythm to dining rooms and living rooms. Also available in red, green, brown and charcoal.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-kandyan-liyawela-peacock-block-print-heritage-wallpaper-1794712284683.webp",
+    "full": "heritage-kandyan-liyawela-peacock-block-print-heritage-wallpaper-1794712284683.webp"
   }
 ];
