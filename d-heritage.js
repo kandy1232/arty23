@@ -893,5 +893,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-tea-hills-coconut-palm-oruwa-block-print-heritage-wallpaper-1794712890389.webp",
     "full": "heritage-tea-hills-coconut-palm-oruwa-block-print-heritage-wallpaper-1794712890389.webp"
+  },
+  {
+    "id": "heritage-1794713476258",
+    "added": "2026-11-15",
+    "title": "Indigo Block Print Elephant Palm Patchwork Heritage Wallpaper",
+    "desc": "Heritage wallpaper in a hand-stamped block-print style, combining elephants, moonstone-inspired semicircles, coconut palms, tea leaf sprigs, scroll vines and lattice diamonds in a diagonal patchwork layout, with a softly worn, linen-like finish. Ideal for stylish dining rooms. Also available in sage, rust, charcoal and sand.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794713473564.webp",
+    "full": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794713473564.webp"
   }
 ];
