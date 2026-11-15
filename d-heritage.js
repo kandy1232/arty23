@@ -818,5 +818,26 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-coastal-heritage-toile-stilt-fisherman-elephant-wallpaper-1794712469465.webp",
     "full": "heritage-coastal-heritage-toile-stilt-fisherman-elephant-wallpaper-1794712469465.webp"
+  },
+  {
+    "id": "heritage-1794712670412",
+    "added": "2026-11-15",
+    "title": "Art Deco Gold Elephant Peacock Deer Luxury Wildlife Wallpaper",
+    "desc": "Luxury Art Deco wallpaper with symmetrical gold-line elephants in ornate blankets, a fanned peacock and spotted deer framed by scalloped arches, fan shapes and leafy sprigs. A bold, glamorous wildlife design for dining rooms and living rooms. Also available in navy, burgundy and ivory.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-art-deco-gold-elephant-peacock-deer-luxury-wildlife-wallpaper-1794712667659.webp",
+    "full": "heritage-art-deco-gold-elephant-peacock-deer-luxury-wildlife-wallpaper-1794712667659.webp"
   }
 ];
