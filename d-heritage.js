@@ -794,5 +794,29 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-kandyan-liyawela-peacock-block-print-heritage-wallpaper-1794712284683.webp",
     "full": "heritage-kandyan-liyawela-peacock-block-print-heritage-wallpaper-1794712284683.webp"
+  },
+  {
+    "id": "heritage-1794712472512",
+    "added": "2026-11-15",
+    "title": "Coastal Heritage Toile Stilt Fisherman Elephant Wallpaper",
+    "desc": "Engraved toile heritage wallpaper depicting Sri Lankan coastal life, with stilt fishermen, outrigger sailing boats, a fort lighthouse, elephants, coconut palms, hibiscus and seashells in fine linework. A calm, classic storytelling design for living rooms and bedrooms. Also available in aqua, sage, slate and blush.",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "kitchen-dining",
+      "hotel"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-coastal-heritage-toile-stilt-fisherman-elephant-wallpaper-1794712469465.webp",
+    "full": "heritage-coastal-heritage-toile-stilt-fisherman-elephant-wallpaper-1794712469465.webp"
   }
 ];
