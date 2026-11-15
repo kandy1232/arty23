@@ -687,5 +687,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-mosaic-elephant-peacock-coconut-palm-heritage-wallpaper-1794676873324.webp",
     "full": "heritage-mosaic-elephant-peacock-coconut-palm-heritage-wallpaper-1794676873324.webp"
+  },
+  {
+    "id": "heritage-1794711183360",
+    "added": "2026-11-15",
+    "title": "Vintage Sunset Palm Ancient Ruins Elephant Heritage Wallpaper",
+    "desc": "Vintage travel-poster heritage wallpaper with glowing sunset circles, coconut palms, a rock fortress, ancient stone ruins, a misty mountain peak, elephants, frangipani and soaring birds in a softly aged, hand-printed style. Great for studies, hallways and living rooms. Also available in sage, sepia and teal.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-vintage-sunset-palm-ancient-ruins-elephant-heritage-wallpaper-1794711180276.webp",
+    "full": "heritage-vintage-sunset-palm-ancient-ruins-elephant-heritage-wallpaper-1794711180276.webp"
   }
 ];
