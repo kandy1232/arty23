@@ -716,5 +716,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-vintage-sunset-palm-ancient-ruins-elephant-heritage-wallpaper-1794711180276.webp",
     "full": "heritage-vintage-sunset-palm-ancient-ruins-elephant-heritage-wallpaper-1794711180276.webp"
+  },
+  {
+    "id": "heritage-1794711594990",
+    "added": "2026-11-15",
+    "title": "Ink Sketch Toile Elephant Leopard Sloth Bear Wildlife Wallpaper",
+    "desc": "Detailed hand-drawn ink wallpaper featuring Sri Lankan wildlife: an elephant, leopards, sloth bear, langur monkey, spotted deer and peacock among tropical leaves, hibiscus and frangipani blooms. A classic toile-style jungle scene for studies, living rooms and hallways. Also available in sepia, sage green and blue.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-ink-sketch-toile-elephant-leopard-sloth-bear-wildlife-wallpaper-1794711590945.webp",
+    "full": "heritage-ink-sketch-toile-elephant-leopard-sloth-bear-wildlife-wallpaper-1794711590945.webp"
   }
 ];
