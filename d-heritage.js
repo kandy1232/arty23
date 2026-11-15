@@ -922,5 +922,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794713473564.webp",
     "full": "heritage-indigo-block-print-elephant-palm-patchwork-heritage-wallpaper-1794713473564.webp"
+  },
+  {
+    "id": "heritage-1794713625474",
+    "added": "2026-11-15",
+    "title": "Heritage Twin Lion Rosette Scroll Weathered Fresco Wallpaper",
+    "desc": "Heritage wallpaper with mirrored lions, carved rosette medallions, flowering vines, petal friezes and flowing scrolls arranged in worn patchwork panels, like an ancient fresco softly chipped by time. A refined, modern statement for hallways and living rooms. Also available in slate, sage, plum and taupe.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-heritage-twin-lion-rosette-scroll-weathered-fresco-wallpaper-1794713623041.webp",
+    "full": "heritage-heritage-twin-lion-rosette-scroll-weathered-fresco-wallpaper-1794713623041.webp"
   }
 ];
