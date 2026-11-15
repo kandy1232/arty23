@@ -951,5 +951,34 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-heritage-twin-lion-rosette-scroll-weathered-fresco-wallpaper-1794713623041.webp",
     "full": "heritage-heritage-twin-lion-rosette-scroll-weathered-fresco-wallpaper-1794713623041.webp"
+  },
+  {
+    "id": "heritage-1794713767418",
+    "added": "2026-11-15",
+    "title": "Heritage Vertical Elephant Rosette Scroll Column Wallpaper Art",
+    "desc": "Tall vertical bands of parading elephants in ornate blankets, carved rosette medallions, fan-shaped friezes and sweeping scroll vines, finished like an aged, softly chipped temple fresco. A rich, dignified statement for dining rooms and hallways. Also available in slate, olive, plum and taupe.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "gym-sports-venue",
+      "salon-spa",
+      "retail",
+      "kitchen-dining"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-heritage-vertical-elephant-rosette-scroll-column-wallpaper-art-1794713759983.webp",
+    "full": "heritage-heritage-vertical-elephant-rosette-scroll-column-wallpaper-art-1794713759983.webp"
   }
 ];
