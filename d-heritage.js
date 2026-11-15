@@ -866,5 +866,32 @@ window.DESIGNS["heritage"]=[
     "colours": [],
     "thumb": "heritage-blue-toile-sigiriya-rock-mountain-elephant-heritage-wallpaper-1794712815934.webp",
     "full": "heritage-blue-toile-sigiriya-rock-mountain-elephant-heritage-wallpaper-1794712815934.webp"
+  },
+  {
+    "id": "heritage-1794712894439",
+    "added": "2026-11-15",
+    "title": "Tea Hills Coconut Palm Oruwa Block Print Heritage Wallpaper",
+    "desc": "Geometric block-print heritage wallpaper blending tea leaf sprigs, rolling terraced hills, coconut palms, ocean waves and sailing oruwa boats inside interlocking triangle and diamond panels, with a worn, hand-stamped finish. A fresh, graphic coastal-meets-highland design for cafés, dining rooms and living rooms. Also available in green, rust, charcoal and teal.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "living-room",
+      "bedroom",
+      "hallway",
+      "office",
+      "cafe-restaurant",
+      "hotel",
+      "salon-spa",
+      "retail"
+    ],
+    "material": [
+      "non-woven",
+      "textured"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "heritage-tea-hills-coconut-palm-oruwa-block-print-heritage-wallpaper-1794712890389.webp",
+    "full": "heritage-tea-hills-coconut-palm-oruwa-block-print-heritage-wallpaper-1794712890389.webp"
   }
 ];
