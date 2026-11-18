@@ -249,5 +249,44 @@ window.DESIGNS["kids"]=[
     "status": "active",
     "thumb": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792317078740.webp",
     "full": "kids-unicorn-princess-castle-kids-wall-mural-sri-lanka-1792317078740.webp"
+  },
+  {
+    "id": "kids-1795023440331",
+    "added": "2026-11-18",
+    "title": "Magical Storybook Garden Arch Blossom Kids Room Wallpaper",
+    "desc": "Storybook wallpaper with blossoming branches, tall cypress trees, palms, rolling hills and ornate arched windows in a hand-painted garden scene, bringing gentle wonder to kids rooms, nurseries and playrooms. A charming, imaginative backdrop that makes bedtime stories and everyday play feel magical for little explorers.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "repeat",
+    "rooms": [
+      "kids-room",
+      "bedroom",
+      "hallway"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Taupe",
+        "h": "#d9c5b2"
+      },
+      {
+        "n": "Sage",
+        "h": "#9caf88"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Ochre",
+        "h": "#cc7722"
+      }
+    ],
+    "thumb": "kids-magical-storybook-garden-arch-blossom-kids-room-wallpaper-1795023431546.webp",
+    "full": "kids-magical-storybook-garden-arch-blossom-kids-room-wallpaper-1795023431546.webp"
   }
 ];
