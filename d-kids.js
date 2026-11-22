@@ -345,5 +345,25 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795367163994.png",
     "full": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795367163994.png"
+  },
+  {
+    "id": "kids-1795367290362",
+    "added": "2026-11-22",
+    "title": "Scandinavian Whimsical Forest Trees Mushroom Nursery Wallpaper",
+    "desc": "Playful hand-drawn trees, mushrooms, tufts of grass and doodle clouds scatter across this minimalist Scandinavian-style forest pattern, giving nurseries, kids rooms and playrooms a calm, modern storybook feel. A gentle, uncluttered backdrop that grows with your child, ideal for cosy reading corners and bedtime routines.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795367280119.png",
+    "full": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795367280119.png"
   }
 ];
