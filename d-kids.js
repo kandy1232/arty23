@@ -325,5 +325,25 @@ window.DESIGNS["kids"]=[
     ],
     "thumb": "kids-safari-animals-lion-giraffe-zebra-kids-room-wallpaper-1795367010238.png",
     "full": "kids-safari-animals-lion-giraffe-zebra-kids-room-wallpaper-1795367010238.png"
+  },
+  {
+    "id": "kids-1795367173576",
+    "added": "2026-11-22",
+    "title": "Pastel Hot Air Balloon Giraffe Bicycle Animals Nursery Wallpaper",
+    "desc": "Dreamy pastel wallpaper with a giraffe riding a bicycle, pulling a wagon of bears, a fox, a raccoon, bunnies, a lion and an elephant, while hot air balloons drift across a soft sky. A sweet storybook scene for nurseries, kids rooms and playrooms. non toxic inks ",
+    "price": "",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795367163994.png",
+    "full": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795367163994.png"
   }
 ];
