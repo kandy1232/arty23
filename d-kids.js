@@ -365,5 +365,26 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795367280119.png",
     "full": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795367280119.png"
+  },
+  {
+    "id": "kids-1795367409098",
+    "added": "2026-11-22",
+    "title": "Blue Sky Tightrope Giraffe Bicycle Animals Kids Room Wallpaper sri lanka ",
+    "desc": "Cheerful sky wallpaper with a giraffe pedalling a bicycle along a tightrope, towing wagons of lions, koalas, pandas, zebras and friends, while hot air balloons, birds and blossom branches drift by. A playful adventure scene for kids rooms, nurseries and playrooms, for bedtime stories.",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795367399724.png",
+    "full": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795367399724.png"
   }
 ];
