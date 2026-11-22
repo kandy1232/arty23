@@ -386,5 +386,26 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795367399724.png",
     "full": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795367399724.png"
+  },
+  {
+    "id": "kids-1795367532298",
+    "added": "2026-11-22",
+    "title": "Boho Sage Safari Friends Lion Giraffe Elephant Nursery Wallpaper",
+    "desc": "Gentle boho safari wallpaper with a sleepy elephant, lions, a tall giraffe, an owl and tiny birds gathered among acacia trees, palms and leafy bushes beneath a smiling moon. A soft, calming scene for nurseries, kids rooms and playrooms, made for peaceful bedtime stories.",
+    "price": "LKR375 sqft  ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795367520569.png",
+    "full": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795367520569.png"
   }
 ];
