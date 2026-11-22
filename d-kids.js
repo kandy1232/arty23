@@ -288,5 +288,42 @@ window.DESIGNS["kids"]=[
     ],
     "thumb": "kids-magical-storybook-garden-arch-blossom-kids-room-wallpaper-1795023431546.webp",
     "full": "kids-magical-storybook-garden-arch-blossom-kids-room-wallpaper-1795023431546.webp"
+  },
+  {
+    "id": "kids-1795367019881",
+    "added": "2026-11-22",
+    "title": " Safari Animals Lion Giraffe Zebra Kids Room Wallpaper",
+    "desc": "Soft watercolor wallpaper with friendly lions, a giraffe, a cub and a zebra standing in a flowering meadow beneath a smiling sun, fluffy clouds and fluttering butterflies. A cheerful safari scene brings warmth and imagination to kids rooms, nurseries and playrooms, perfect for bedtime stories. non-toxic ink ",
+    "price": "LKR375 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom",
+      "hallway",
+      "cafe-restaurant"
+    ],
+    "material": [],
+    "status": "active",
+    "colours": [
+      {
+        "n": "Slate",
+        "h": "#708090"
+      },
+      {
+        "n": "Teal",
+        "h": "#004d40"
+      },
+      {
+        "n": "Terra",
+        "h": "#c86d51"
+      },
+      {
+        "n": "Coral",
+        "h": "#d97d64"
+      }
+    ],
+    "thumb": "kids-safari-animals-lion-giraffe-zebra-kids-room-wallpaper-1795367010238.png",
+    "full": "kids-safari-animals-lion-giraffe-zebra-kids-room-wallpaper-1795367010238.png"
   }
 ];
