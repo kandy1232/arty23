@@ -407,5 +407,25 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795367520569.png",
     "full": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795367520569.png"
+  },
+  {
+    "id": "kids-1795367822959",
+    "added": "2026-11-22",
+    "title": "Painted Jungle Canopy Leopard Parrot Monkey Wildlife Wallpaper",
+    "desc": "Tropical jungle wallpaper with a leopard, spotted wild cat, monkey, parrots and a soaring crane among tall palms, banana-leaf trees and striped trunks, painted in a calm gouache style with generous breathing space. A graceful rainforest wildlife scene for living rooms, hallways, bedrooms and studies.",
+    "price": "LKR450 sqft ",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids room"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-painted-jungle-canopy-leopard-parrot-monkey-wildlife-wallpaper-1795367819710.webp",
+    "full": "kids-painted-jungle-canopy-leopard-parrot-monkey-wildlife-wallpaper-1795367819710.webp"
   }
 ];
