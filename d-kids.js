@@ -343,8 +343,8 @@ window.DESIGNS["kids"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795367163994.png",
-    "full": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795367163994.png"
+    "thumb": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795451683076.webp",
+    "full": "kids-pastel-hot-air-balloon-giraffe-bicycle-animals-nursery-wallpaper-1795451683076.webp"
   },
   {
     "id": "kids-1795367290362",
