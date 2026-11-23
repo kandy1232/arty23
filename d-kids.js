@@ -363,8 +363,8 @@ window.DESIGNS["kids"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795367280119.png",
-    "full": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795367280119.png"
+    "thumb": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795451660131.webp",
+    "full": "kids-scandinavian-whimsical-forest-trees-mushroom-nursery-wallpaper-1795451660131.webp"
   },
   {
     "id": "kids-1795367409098",
