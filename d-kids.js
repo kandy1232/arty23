@@ -405,8 +405,8 @@ window.DESIGNS["kids"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795367520569.png",
-    "full": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795367520569.png"
+    "thumb": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795451535433.webp",
+    "full": "kids-boho-sage-safari-friends-lion-giraffe-elephant-nursery-wallpaper-1795451535433.webp"
   },
   {
     "id": "kids-1795367822959",
