@@ -384,8 +384,8 @@ window.DESIGNS["kids"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795367399724.png",
-    "full": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795367399724.png"
+    "thumb": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795451589877.webp",
+    "full": "kids-blue-sky-tightrope-giraffe-bicycle-animals-kids-room-wallpaper-sri-lanka-1795451589877.webp"
   },
   {
     "id": "kids-1795367532298",
