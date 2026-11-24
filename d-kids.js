@@ -493,5 +493,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-hot-air-balloons-nursery-wallpaper-sri-lanka-1795518183534.webp",
     "full": "kids-hot-air-balloons-nursery-wallpaper-sri-lanka-1795518183534.webp"
+  },
+  {
+    "id": "kids-1795518267091",
+    "added": "2026-11-24",
+    "title": "Friendly Dinosaurs Kids Wallpaper Sri Lanka",
+    "desc": "A friendly sketched dinosaur wall mural with a T-Rex and stegosaurus among palm leaves in soft green and grey. A fun, not scary feature wall for toddler bedrooms age 3 to 5 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-friendly-dinosaurs-kids-wallpaper-sri-lanka-1795518263942.webp",
+    "full": "kids-friendly-dinosaurs-kids-wallpaper-sri-lanka-1795518263942.webp"
   }
 ];
