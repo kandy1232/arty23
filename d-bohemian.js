@@ -424,5 +424,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-terracotta-line-art-wallpaper-sri-lanka-1795539051305.webp",
     "full": "bohemian-boho-terracotta-line-art-wallpaper-sri-lanka-1795539051305.webp"
+  },
+  {
+    "id": "bohemian-1795540118241",
+    "added": "2026-11-24",
+    "title": "Boho Tribal Sun Wallpaper Sri Lanka",
+    "desc": "Boho tribal sun wallpaper with cream and beige geometric suns, leaves, diamonds and chevrons. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-tribal-sun-wallpaper-sri-lanka-1795540116009.webp",
+    "full": "bohemian-boho-tribal-sun-wallpaper-sri-lanka-1795540116009.webp"
   }
 ];
