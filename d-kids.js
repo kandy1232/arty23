@@ -515,5 +515,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-friendly-dinosaurs-kids-wallpaper-sri-lanka-1795518263942.webp",
     "full": "kids-friendly-dinosaurs-kids-wallpaper-sri-lanka-1795518263942.webp"
+  },
+  {
+    "id": "kids-1795518343637",
+    "added": "2026-11-24",
+    "title": "Unicorn Forest Kids Wallpaper Sri Lanka",
+    "desc": "A magical unicorn wall mural with rainbow unicorns in a sage green forest, in pink and cream. A dreamy feature wall for little girls bedrooms age 3 to 5 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-unicorn-forest-kids-wallpaper-sri-lanka-1795518341069.webp",
+    "full": "kids-unicorn-forest-kids-wallpaper-sri-lanka-1795518341069.webp"
   }
 ];
