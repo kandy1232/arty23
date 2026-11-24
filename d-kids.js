@@ -625,5 +625,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-world-map-adventure-kids-wallpaper-sri-lanka-1795518661906.webp",
     "full": "kids-world-map-adventure-kids-wallpaper-sri-lanka-1795518661906.webp"
+  },
+  {
+    "id": "kids-1795518743268",
+    "added": "2026-11-24",
+    "title": "Neon Gaming Kids Wallpaper Sri Lanka",
+    "desc": "A bold neon gaming wall mural with glowing game controllers, pixel hearts and stars in dark navy with neon green and blue. A cool feature wall for tween bedrooms age 10 to 14 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-neon-gaming-kids-wallpaper-sri-lanka-1795518740572.webp",
+    "full": "kids-neon-gaming-kids-wallpaper-sri-lanka-1795518740572.webp"
   }
 ];
