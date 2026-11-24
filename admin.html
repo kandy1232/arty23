@@ -54,6 +54,7 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
 <header>
   <div class="lg"><img src="logo.jpg" alt="ARTYHOMES"><b>ARTYHOMES Admin</b></div>
   <div id="whoami" style="font-size:13px"></div>
+  <button class="btn sm o" id="btnLogout" style="display:none">Log Out</button>
 </header>
 <main>
 
@@ -65,7 +66,7 @@ small.hint{display:block;color:#8a8578;font-size:12px;margin-top:4px}
       1) Go to GitHub &rarr; Settings &rarr; Developer settings &rarr; <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained tokens</a> &rarr; Generate new token.
       2) Under <b>Repository access</b>, choose "Only select repositories" and pick your ARTYHOMES repo.
       3) Under <b>Permissions &rarr; Repository permissions</b>, set <b>Contents</b> to "Read and write".
-      4) Generate, copy the token, and paste it below. It is only stored in this browser tab (sessionStorage) and is never uploaded anywhere except directly to GitHub's own API.
+      4) Generate, copy the token, and paste it below. It is stored in this browser (localStorage) and stays until you click Log Out. It is never uploaded anywhere except directly to GitHub's own API.
       <br><br><b>Never share this token or paste it anywhere else.</b> You can revoke it any time from GitHub.
     </div>
     <label>GitHub Username / Organization</label>
@@ -288,8 +289,10 @@ el('btnLogin').onclick=async function(){
   AUTH={user:user,repo:repo,branch:branch,token:token};
   try{
     await ghGet('index.html');
-    sessionStorage.setItem('artyhomes_auth', JSON.stringify(AUTH));
+    localStorage.setItem('artyhomes_auth', JSON.stringify(AUTH));
+    try{sessionStorage.removeItem('artyhomes_auth');}catch(e){}
     el('whoami').textContent=user+'/'+repo+' ('+branch+')';
+    el('btnLogout').style.display='';
     el('loginView').classList.add('hide');
     el('appView').classList.remove('hide');
     buildCatSelect();
@@ -298,11 +301,17 @@ el('btnLogin').onclick=async function(){
     msg('loginMsg','Could not connect: '+e.message+'. Check the username, repo name and token permissions.',false);
   }
 };
+el('btnLogout').onclick=function(){
+  try{localStorage.removeItem('artyhomes_auth');}catch(e){}
+  try{sessionStorage.removeItem('artyhomes_auth');}catch(e){}
+  location.reload();
+};
 (function tryRestore(){
   try{
-    var saved=sessionStorage.getItem('artyhomes_auth');
+    var saved=localStorage.getItem('artyhomes_auth') || sessionStorage.getItem('artyhomes_auth');
     if(saved){AUTH=JSON.parse(saved);
       el('ghUser').value=AUTH.user; el('ghRepo').value=AUTH.repo; el('ghBranch').value=AUTH.branch; el('ghToken').value=AUTH.token;
+      el('btnLogin').click();
     }
   }catch(e){}
 })();
