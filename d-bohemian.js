@@ -380,5 +380,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795534126519.webp",
     "full": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795534126519.webp"
+  },
+  {
+    "id": "bohemian-1795536550941",
+    "added": "2026-11-24",
+    "title": "Boho Black Floral Wallpaper Sri Lanka",
+    "desc": "Boho black floral wallpaper with black, beige and grey panels and white flower branches. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795536548467.webp",
+    "full": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795536548467.webp"
   }
 ];
