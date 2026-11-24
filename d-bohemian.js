@@ -490,5 +490,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-abstract-pebble-wallpaper-sri-lanka-1795541536618.webp",
     "full": "bohemian-boho-abstract-pebble-wallpaper-sri-lanka-1795541536618.webp"
+  },
+  {
+    "id": "bohemian-1795542439270",
+    "added": "2026-11-24",
+    "title": "Boho Lotus Flower Wallpaper Sri Lanka",
+    "desc": "Boho lotus flower wallpaper with large cream and beige lotus flowers and fine radial lines with gold centres. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-lotus-flower-wallpaper-sri-lanka-1795542436455.webp",
+    "full": "bohemian-boho-lotus-flower-wallpaper-sri-lanka-1795542436455.webp"
   }
 ];
