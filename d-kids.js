@@ -449,5 +449,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-clouds-moon-and-stars-nursery-wallpaper-sri-lanka-1795517949503.webp",
     "full": "kids-clouds-moon-and-stars-nursery-wallpaper-sri-lanka-1795517949503.webp"
+  },
+  {
+    "id": "kids-1795518061873",
+    "added": "2026-11-24",
+    "title": "Pastel Safari Nursery Wallpaper Sri Lanka",
+    "desc": "A soft watercolour safari wall mural with a friendly lion, elephant and giraffe on a cream background. A calm, gentle feature wall for newborn nurseries and baby bedrooms in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-pastel-safari-nursery-wallpaper-sri-lanka-1795518059264.webp",
+    "full": "kids-pastel-safari-nursery-wallpaper-sri-lanka-1795518059264.webp"
   }
 ];
