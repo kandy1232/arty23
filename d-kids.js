@@ -669,5 +669,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-graffiti-street-art-kids-wallpaper-sri-lanka-1795518814501.webp",
     "full": "kids-graffiti-street-art-kids-wallpaper-sri-lanka-1795518814501.webp"
+  },
+  {
+    "id": "kids-1795518904526",
+    "added": "2026-11-24",
+    "title": "Galaxy and Constellations Kids Wallpaper Sri Lanka",
+    "desc": "A deep blue and purple galaxy wall mural with stars, planets and constellations. A calm, grown up feature wall for tween bedrooms age 10 to 14 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-galaxy-and-constellations-kids-wallpaper-sri-lanka-1795518901972.webp",
+    "full": "kids-galaxy-and-constellations-kids-wallpaper-sri-lanka-1795518901972.webp"
   }
 ];
