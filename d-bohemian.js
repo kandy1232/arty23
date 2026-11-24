@@ -446,5 +446,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-tribal-sun-wallpaper-sri-lanka-1795540116009.webp",
     "full": "bohemian-boho-tribal-sun-wallpaper-sri-lanka-1795540116009.webp"
+  },
+  {
+    "id": "bohemian-1795540949616",
+    "added": "2026-11-24",
+    "title": "Boho Palm Leaf Sun Wallpaper Sri Lanka",
+    "desc": "Boho palm leaf sun wallpaper with large line-art banana and palm leaves and brown sun circles on a cream background. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-palm-leaf-sun-wallpaper-sri-lanka-1795540947213.webp",
+    "full": "bohemian-boho-palm-leaf-sun-wallpaper-sri-lanka-1795540947213.webp"
   }
 ];
