@@ -356,8 +356,8 @@ window.DESIGNS["bohemian"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795533395266.webp",
-    "full": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795533395266.webp"
+    "thumb": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795537369091.webp",
+    "full": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795537369091.webp"
   },
   {
     "id": "bohemian-1795534129150",
