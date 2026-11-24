@@ -427,5 +427,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-painted-jungle-canopy-leopard-parrot-monkey-wildlife-wallpaper-1795367819710.webp",
     "full": "kids-painted-jungle-canopy-leopard-parrot-monkey-wildlife-wallpaper-1795367819710.webp"
+  },
+  {
+    "id": "kids-1795517952056",
+    "added": "2026-11-24",
+    "title": "Clouds, Moon and Stars Nursery Wallpaper Sri Lanka",
+    "desc": "A soft nursery wall mural with a smiling moon, fluffy clouds and tiny stars in pale blue, cream and white. A calm, dreamy feature wall for newborn nurseries and baby bedrooms in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-clouds-moon-and-stars-nursery-wallpaper-sri-lanka-1795517949503.webp",
+    "full": "kids-clouds-moon-and-stars-nursery-wallpaper-sri-lanka-1795517949503.webp"
   }
 ];
