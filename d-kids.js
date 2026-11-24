@@ -559,5 +559,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-under-the-sea-kids-wallpaper-sri-lanka-1795518420998.webp",
     "full": "kids-under-the-sea-kids-wallpaper-sri-lanka-1795518420998.webp"
+  },
+  {
+    "id": "kids-1795518502885",
+    "added": "2026-11-24",
+    "title": "Space Rockets and Planets Kids Wallpaper Sri Lanka",
+    "desc": "A bright space wall mural with retro rockets, planets, moons and stars in mint, navy and yellow. A fun feature wall for kids bedrooms age 6 to 9 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-space-rockets-and-planets-kids-wallpaper-sri-lanka-1795518499845.webp",
+    "full": "kids-space-rockets-and-planets-kids-wallpaper-sri-lanka-1795518499845.webp"
   }
 ];
