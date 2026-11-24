@@ -468,5 +468,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-palm-leaf-sun-wallpaper-sri-lanka-1795540947213.webp",
     "full": "bohemian-boho-palm-leaf-sun-wallpaper-sri-lanka-1795540947213.webp"
+  },
+  {
+    "id": "bohemian-1795541539413",
+    "added": "2026-11-24",
+    "title": "Boho Abstract Pebble Wallpaper Sri Lanka",
+    "desc": "Boho abstract pebble wallpaper with soft beige, peach and grey organic shapes and fine concentric circles. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-abstract-pebble-wallpaper-sri-lanka-1795541536618.webp",
+    "full": "bohemian-boho-abstract-pebble-wallpaper-sri-lanka-1795541536618.webp"
   }
 ];
