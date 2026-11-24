@@ -471,5 +471,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-pastel-safari-nursery-wallpaper-sri-lanka-1795518059264.webp",
     "full": "kids-pastel-safari-nursery-wallpaper-sri-lanka-1795518059264.webp"
+  },
+  {
+    "id": "kids-1795518186108",
+    "added": "2026-11-24",
+    "title": "Hot Air Balloons Nursery Wallpaper Sri Lanka",
+    "desc": "A dreamy nursery wall mural with pastel hot air balloons, clouds and birds in soft blue, peach and cream. A light, happy feature wall for newborn nurseries and baby bedrooms in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-hot-air-balloons-nursery-wallpaper-sri-lanka-1795518183534.webp",
+    "full": "kids-hot-air-balloons-nursery-wallpaper-sri-lanka-1795518183534.webp"
   }
 ];
