@@ -581,5 +581,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-space-rockets-and-planets-kids-wallpaper-sri-lanka-1795518499845.webp",
     "full": "kids-space-rockets-and-planets-kids-wallpaper-sri-lanka-1795518499845.webp"
+  },
+  {
+    "id": "kids-1795518586106",
+    "added": "2026-11-24",
+    "title": "Cricket and Football Kids Wallpaper Sri Lanka",
+    "desc": "A sporty wall mural with cricket bats, a cricket ball, football and stadium in green and white. A fun feature wall for sporty kids bedrooms age 6 to 9 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-cricket-and-football-kids-wallpaper-sri-lanka-1795518583582.webp",
+    "full": "kids-cricket-and-football-kids-wallpaper-sri-lanka-1795518583582.webp"
   }
 ];
