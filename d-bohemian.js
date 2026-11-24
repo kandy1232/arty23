@@ -400,7 +400,7 @@ window.DESIGNS["bohemian"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795536548467.webp",
-    "full": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795536548467.webp"
+    "thumb": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795537097777.webp",
+    "full": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795537097777.webp"
   }
 ];
