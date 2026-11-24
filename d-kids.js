@@ -603,5 +603,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-cricket-and-football-kids-wallpaper-sri-lanka-1795518583582.webp",
     "full": "kids-cricket-and-football-kids-wallpaper-sri-lanka-1795518583582.webp"
+  },
+  {
+    "id": "kids-1795518664488",
+    "added": "2026-11-24",
+    "title": "World Map Adventure Kids Wallpaper Sri Lanka",
+    "desc": "A colourful world map wall mural with animals and landmarks, perfect for learning and adventure. A fun, educational feature wall for kids bedrooms age 6 to 9 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-world-map-adventure-kids-wallpaper-sri-lanka-1795518661906.webp",
+    "full": "kids-world-map-adventure-kids-wallpaper-sri-lanka-1795518661906.webp"
   }
 ];
