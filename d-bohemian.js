@@ -336,5 +336,27 @@ window.DESIGNS["bohemian"]=[
     "status": "active",
     "thumb": "bohemian-boho-tropical-hills-and-golden-sun-landscape-mural-1792472793812.webp",
     "full": "bohemian-boho-tropical-hills-and-golden-sun-landscape-mural-1792472793812.webp"
+  },
+  {
+    "id": "bohemian-1795533398956",
+    "added": "2026-11-24",
+    "title": "Boho Sun and Arch Wallpaper Sri Lanka",
+    "desc": "Boho sun and arch wallpaper with sunbursts, rainbow arches and olive leaves in terracotta and cream. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795533395266.webp",
+    "full": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795533395266.webp"
   }
 ];
