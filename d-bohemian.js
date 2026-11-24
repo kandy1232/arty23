@@ -402,5 +402,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795537097777.webp",
     "full": "bohemian-boho-black-floral-wallpaper-sri-lanka-1795537097777.webp"
+  },
+  {
+    "id": "bohemian-1795539054113",
+    "added": "2026-11-24",
+    "title": "Boho Terracotta Line Art Wallpaper Sri Lanka",
+    "desc": "Boho terracotta line art wallpaper with cream abstract arches, suns and lines on a warm terracotta background. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-terracotta-line-art-wallpaper-sri-lanka-1795539051305.webp",
+    "full": "bohemian-boho-terracotta-line-art-wallpaper-sri-lanka-1795539051305.webp"
   }
 ];
