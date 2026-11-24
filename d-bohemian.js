@@ -378,8 +378,8 @@ window.DESIGNS["bohemian"]=[
     ],
     "status": "active",
     "colours": [],
-    "thumb": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795534126519.webp",
-    "full": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795534126519.webp"
+    "thumb": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795537384316.webp",
+    "full": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795537384316.webp"
   },
   {
     "id": "bohemian-1795536550941",
