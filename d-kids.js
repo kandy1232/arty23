@@ -537,5 +537,27 @@ window.DESIGNS["kids"]=[
     "colours": [],
     "thumb": "kids-unicorn-forest-kids-wallpaper-sri-lanka-1795518341069.webp",
     "full": "kids-unicorn-forest-kids-wallpaper-sri-lanka-1795518341069.webp"
+  },
+  {
+    "id": "kids-1795518423369",
+    "added": "2026-11-24",
+    "title": "Under the Sea Kids Wallpaper Sri Lanka",
+    "desc": "A cheerful under the sea wall mural with a whale, dolphins, fish and coral in soft blue. A fun, calming feature wall for kids bedrooms age 3 to 5 in Sri Lanka. Custom printed to your exact wall size.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "kids-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "kids-under-the-sea-kids-wallpaper-sri-lanka-1795518420998.webp",
+    "full": "kids-under-the-sea-kids-wallpaper-sri-lanka-1795518420998.webp"
   }
 ];
