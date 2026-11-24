@@ -358,5 +358,27 @@ window.DESIGNS["bohemian"]=[
     "colours": [],
     "thumb": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795533395266.webp",
     "full": "bohemian-boho-sun-and-arch-wallpaper-sri-lanka-1795533395266.webp"
+  },
+  {
+    "id": "bohemian-1795534129150",
+    "added": "2026-11-24",
+    "title": "Boho Fan Flower Wallpaper Sri Lanka",
+    "desc": "Boho fan flower wallpaper with fan-shaped flowers in grey, beige and black on cream. Custom printed to exact wall size in Sri Lanka.",
+    "price": "LKR 350 per sq ft",
+    "sizes": "Custom size",
+    "format": "mural",
+    "rooms": [
+      "living-room",
+      "bedroom"
+    ],
+    "material": [
+      "vinyl",
+      "non-woven",
+      "washable"
+    ],
+    "status": "active",
+    "colours": [],
+    "thumb": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795534126519.webp",
+    "full": "bohemian-boho-fan-flower-wallpaper-sri-lanka-1795534126519.webp"
   }
 ];
